@@ -108,10 +108,23 @@ with tab_table:
     show_cols = ["symbol", "company_name", "sector", "current_price", "recommendation",
                  "overall_score", "technical_score", "fundamental_score", "momentum_score",
                  "quality_score", "risk_score", "target_price", "upside_percent", "stop_loss"]
+    score_col = lambda label: st.column_config.ProgressColumn(
+        label, min_value=0, max_value=100, format="%.0f")
     st.dataframe(
-        df[show_cols].style.background_gradient(subset=["overall_score"], cmap="RdYlGn",
-                                                vmin=0, vmax=100),
+        df[show_cols],
         use_container_width=True, height=600, hide_index=True,
+        column_config={
+            "overall_score": score_col("Overall"),
+            "technical_score": score_col("Technical"),
+            "fundamental_score": score_col("Fundamental"),
+            "momentum_score": score_col("Momentum"),
+            "quality_score": score_col("Quality"),
+            "risk_score": score_col("Risk"),
+            "current_price": st.column_config.NumberColumn("Price", format="₹%.2f"),
+            "target_price": st.column_config.NumberColumn("Target", format="₹%.2f"),
+            "stop_loss": st.column_config.NumberColumn("Stop", format="₹%.2f"),
+            "upside_percent": st.column_config.NumberColumn("Upside", format="%.1f%%"),
+        },
     )
 
 with tab_top:
