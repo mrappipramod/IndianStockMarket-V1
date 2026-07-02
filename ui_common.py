@@ -9,6 +9,22 @@ import streamlit as st
 import scanner as sc
 
 
+@st.cache_data(ttl=3600, show_spinner=False)
+def load_chart(symbol):
+    """1y close + EMAs for the detail-tab chart."""
+    try:
+        import yfinance as yf
+        h = yf.Ticker(symbol).history(period="1y", auto_adjust=True)
+        if h is None or h.empty:
+            return None
+        out = pd.DataFrame({"Close": h["Close"]})
+        for n in (20, 50, 200):
+            out[f"EMA{n}"] = h["Close"].ewm(span=n, adjust=False).mean()
+        return out
+    except Exception:
+        return None
+
+
 def render_market(market: str):
     cfg = sc.MARKETS[market]
     cur, suffix = cfg["currency"], cfg["suffix"]
@@ -109,7 +125,8 @@ def render_market(market: str):
 
     with tab_table:
         show_cols = ["symbol", "company_name", "sector", "current_price",
-                     "recommendation", "overall_score", "technical_score",
+                     "recommendation", "entry_signal", "risk_reward",
+                     "overall_score", "technical_score",
                      "fundamental_score", "momentum_score", "quality_score",
                      "risk_score", "target_price", "upside_percent", "stop_loss"]
         score_col = lambda label: st.column_config.ProgressColumn(
@@ -127,6 +144,8 @@ def render_market(market: str):
                 "target_price": st.column_config.NumberColumn("Target", format=f"{cur}%.2f"),
                 "stop_loss": st.column_config.NumberColumn("Stop", format=f"{cur}%.2f"),
                 "upside_percent": st.column_config.NumberColumn("Upside", format="%.1f%%"),
+                "entry_signal": st.column_config.TextColumn("Entry timing"),
+                "risk_reward": st.column_config.NumberColumn("R:R", format="%.1f"),
             })
 
     with tab_top:
@@ -160,6 +179,31 @@ def render_market(market: str):
     with tab_detail:
         pick = st.selectbox("Select stock", df["symbol"].tolist(), key=f"{key}_pick")
         r = next(x for x in results if x["symbol"] == pick)
+
+        # Entry timing verdict — the "should I buy NOW?" answer
+        sig = r.get("entry_signal", "N/A")
+        color = {"ENTER NOW": "green", "BUY ON DIPS": "orange",
+                 "WAIT — EXTENDED": "red", "NO ENTRY": "gray"}.get(sig, "gray")
+        st.markdown(f"### Entry timing: :{color}[{sig}]")
+        st.markdown(r.get("entry_note", ""))
+        e1, e2, e3, e4 = st.columns(4)
+        e1.metric("Entry score", f"{r.get('entry_score', '—')}/100")
+        e2.metric("Risk : Reward", f"{r.get('risk_reward', '—')}:1")
+        e3.metric("Ideal entry zone",
+                  f"{cur}{r.get('entry_zone_low', '—')}–{cur}{r.get('entry_zone_high', '—')}")
+        e4.metric("Extension", f"{r.get('extension_atr', '—')} ATR above 20EMA")
+
+        # Price chart with EMAs and key levels
+        chart = load_chart(pick + suffix if suffix and "." not in pick else pick)
+        if chart is not None:
+            st.line_chart(chart, height=380)
+            st.caption(f"1y daily close with 20/50/200 EMA. Key levels — "
+                       f"target {cur}{r['target_price']}, stop {cur}{r['stop_loss']}, "
+                       f"entry zone {cur}{r.get('entry_zone_low')}–"
+                       f"{cur}{r.get('entry_zone_high')}.")
+        else:
+            st.info("Chart data unavailable right now.")
+
         a, b = st.columns([1, 2])
         with a:
             st.metric("Price", f"{cur}{r['current_price']}")

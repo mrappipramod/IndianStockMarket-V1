@@ -345,6 +345,7 @@ def technical_analysis(df):
     mom += 15 if float(macd_line.iloc[-1]) > 0 else 0
     ret_3m = (price / float(c.iloc[-63]) - 1) * 100 if len(c) > 63 else 0
     ret_6m = (price / float(c.iloc[-126]) - 1) * 100 if len(c) > 126 else 0
+    ret_1m = (price / float(c.iloc[-21]) - 1) * 100 if len(c) > 21 else 0
     mom += clamp(ret_3m, 0, 15)
     mom += clamp(ret_6m / 2, 0, 10)
     mom = clamp(mom)
@@ -361,7 +362,7 @@ def technical_analysis(df):
                    breakout=breakout, consolidating=consolidating, hh_hl=hh_hl,
                    support=support, resistance=resistance, high_252=high_252,
                    low_252=low_252, trend_dir=trend_dir, candles=candles,
-                   ret_3m=ret_3m, ret_6m=ret_6m,
+                   ret_3m=ret_3m, ret_6m=ret_6m, ret_1m=ret_1m,
                    avg_value_traded=avg_vol_50 * price)
     return clamp(tech), mom, details
 
@@ -441,6 +442,69 @@ def fundamental_analysis(info):
     return fund, quality, risk, details
 
 
+def entry_timing(t, rec, target, stop):
+    """Judge whether NOW is a good entry, or the move is already extended.
+
+    Logic a trader actually uses:
+    - Extension: how many ATRs is price above the 20/50 EMA? Buying >3 ATRs
+      above the 20EMA is chasing.
+    - Recent run-up: if the stock already rallied hard in 1 month, mean
+      reversion risk is high.
+    - Overbought: RSI > 75 argues for waiting for a pullback.
+    - Risk-reward at *current* price: (target - price) / (price - stop).
+      Below 1.5:1 the trade isn't worth taking here even if the stock is great.
+    - Proximity to support/breakout level: entries near the 20/50 EMA or a
+      just-broken resistance (now support) are the highest-quality entries.
+    """
+    price, atr_v = t["price"], max(t["atr"], 1e-9)
+    ext20 = (price - t["ema20"]) / atr_v
+    ext50 = (price - t["ema50"]) / atr_v
+    ret_1m = t.get("ret_1m", 0)
+    rr = (target - price) / max(price - stop, 1e-9) if target > price else 0
+
+    score = 50.0
+    score += 15 if ext20 < 1.5 else (-20 if ext20 > 3 else 0)
+    score += 10 if ext50 < 3 else (-10 if ext50 > 5 else 0)
+    score += 10 if t["rsi"] < 65 else (-15 if t["rsi"] > 75 else 0)
+    score += 10 if ret_1m < 10 else (-15 if ret_1m > 25 else 0)
+    score += 15 if rr >= 2 else (5 if rr >= 1.5 else -20)
+    score += 10 if t["breakout"] else 0          # fresh breakout = timely
+    score += 5 if t["consolidating"] else 0      # base = good entry area
+    score = clamp(score)
+
+    # Ideal entry zone: pullback toward 20EMA, floored by breakout/support
+    zone_hi = round(max(t["ema20"], t["resistance"] * 1.005), 2)
+    zone_lo = round(max(t["ema50"], stop * 1.02), 2)
+    if zone_lo > zone_hi:
+        zone_lo, zone_hi = zone_hi * 0.97, zone_hi
+
+    if rec not in ("STRONG BUY", "BUY"):
+        signal = "NO ENTRY"
+    elif score >= 65 and rr >= 1.5:
+        signal = "ENTER NOW"
+    elif score >= 45:
+        signal = "BUY ON DIPS"
+    else:
+        signal = "WAIT — EXTENDED"
+
+    return dict(
+        entry_signal=signal,
+        entry_score=round(score, 1),
+        entry_zone_low=zone_lo,
+        entry_zone_high=zone_hi,
+        risk_reward=round(rr, 2),
+        extension_atr=round(ext20, 1),
+        entry_note=(
+            f"Price is {ext20:.1f} ATRs above 20EMA, RSI {t['rsi']:.0f}, "
+            f"1-month move {ret_1m:+.0f}%, risk-reward {rr:.1f}:1 at current price. "
+            + {"ENTER NOW": "Entry conditions favorable at current levels.",
+               "BUY ON DIPS": f"Acceptable but better entry in the "
+                              f"{zone_lo}–{zone_hi} pullback zone.",
+               "WAIT — EXTENDED": f"Move already extended — wait for a pullback "
+                                  f"toward {zone_lo}–{zone_hi} or a new base.",
+               "NO ENTRY": "Not a buy candidate."}[signal]))
+
+
 def recommend(tech, fund, mom, quality, risk, t, f):
     """Fund-manager overlay: both pillars must agree for STRONG BUY."""
     overall = 0.35 * fund + 0.35 * tech + 0.15 * mom + 0.10 * quality + 0.05 * risk
@@ -509,6 +573,7 @@ def analyze(symbol, min_value_traded=MIN_AVG_VALUE_TRADED):
         fund, quality, risk, f = fundamental_analysis(info)
         rec, overall = recommend(tech, fund, mom, quality, risk, t, f)
         target, stop = targets(t, rec)
+        entry = entry_timing(t, rec, target, stop)
 
         strengths, risks = [], []
         if (f["roe"] or 0) > 0.15: strengths.append(f"High ROE ({f['roe']*100:.0f}%)")
@@ -553,6 +618,7 @@ def analyze(symbol, min_value_traded=MIN_AVG_VALUE_TRADED):
             "target_price": target,
             "upside_percent": round((target / price - 1) * 100, 1),
             "stop_loss": stop,
+            **entry,
             "technical_summary": (f"{t['trend_dir']}, RSI {t['rsi']:.0f}, ADX {t['adx']:.0f}, "
                                   f"MACD hist {t['macd_hist']:+.2f}, vol {t['vol_ratio']:.1f}x avg"
                                   + (f", patterns: {', '.join(t['candles'])}" if t["candles"] else "")),
