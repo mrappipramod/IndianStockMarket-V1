@@ -85,6 +85,50 @@ FALLBACK_UNIVERSE = [
 ]
 
 
+# ----------------------------------------------------------------------------
+# US market universe
+# ----------------------------------------------------------------------------
+
+SP500_CSV = ("https://raw.githubusercontent.com/datasets/s-and-p-500-companies/"
+             "main/data/constituents.csv")
+
+FALLBACK_US_UNIVERSE = [
+    # S&P 100 core names as fallback
+    "AAPL", "MSFT", "NVDA", "GOOGL", "AMZN", "META", "BRK-B", "LLY", "AVGO",
+    "TSLA", "JPM", "V", "UNH", "XOM", "MA", "JNJ", "PG", "HD", "COST", "MRK",
+    "ABBV", "ORCL", "CVX", "CRM", "BAC", "KO", "NFLX", "AMD", "PEP", "TMO",
+    "ADBE", "WMT", "LIN", "ACN", "MCD", "CSCO", "ABT", "INTU", "QCOM", "IBM",
+    "GE", "CAT", "TXN", "DIS", "VZ", "AMGN", "PFE", "PM", "DHR", "NOW",
+    "GS", "NEE", "UNP", "SPGI", "CMCSA", "RTX", "HON", "LOW", "T", "AXP",
+    "UBER", "BKNG", "ISRG", "COP", "ELV", "SYK", "MS", "PLD", "BLK", "VRTX",
+    "MDT", "SCHW", "LMT", "TJX", "C", "REGN", "ADP", "CB", "PGR", "MMC",
+    "DE", "BSX", "ETN", "CI", "PANW", "MU", "SO", "BA", "FI", "MO",
+    "KLAC", "DUK", "ICE", "SHW", "WM", "GD", "EMR", "APH", "PNC", "MSI",
+]
+
+MARKETS = {
+    "IN": dict(currency="₹", min_value_traded=1e7, suffix=".NS"),
+    "US": dict(currency="$", min_value_traded=5e6, suffix=""),
+}
+
+
+def load_us_universe():
+    """S&P 500 constituents from the open datasets repo, with fallback."""
+    if requests is not None:
+        try:
+            r = requests.get(SP500_CSV, timeout=15,
+                             headers={"User-Agent": "Mozilla/5.0"})
+            r.raise_for_status()
+            df = pd.read_csv(io.StringIO(r.text))
+            syms = df["Symbol"].astype(str).str.strip().str.replace(".", "-", regex=False)
+            print(f"  Loaded S&P 500: {len(syms)} symbols")
+            return sorted(set(syms))
+        except Exception as e:
+            print(f"  Could not load S&P 500 list: {e}")
+    print("  Falling back to built-in S&P 100 universe.")
+    return sorted(FALLBACK_US_UNIVERSE)
+
+
 def load_universe(custom_file=None):
     """Return list of Yahoo Finance tickers (SYMBOL.NS)."""
     if custom_file:
@@ -442,7 +486,7 @@ def targets(t, rec):
 # Per-stock pipeline
 # ----------------------------------------------------------------------------
 
-def analyze(symbol):
+def analyze(symbol, min_value_traded=MIN_AVG_VALUE_TRADED):
     try:
         tk = yf.Ticker(symbol)
         df = tk.history(period=HISTORY_PERIOD, auto_adjust=True)
@@ -454,7 +498,7 @@ def analyze(symbol):
             return None
 
         tech, mom, t = technical_analysis(df)
-        if t["avg_value_traded"] < MIN_AVG_VALUE_TRADED:
+        if t["avg_value_traded"] < min_value_traded:
             return None  # illiquid
 
         info = {}
