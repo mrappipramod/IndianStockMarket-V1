@@ -25,6 +25,18 @@ def load_chart(symbol):
         return None
 
 
+@st.cache_data(ttl=900, show_spinner=False)
+def load_precomputed(market):
+    """Load nightly GitHub-Actions scan results committed to the repo, if any."""
+    import os
+    path = os.path.join("data", f"{market.lower()}_all_stocks.json")
+    if os.path.exists(path):
+        with open(path) as fh:
+            return json.load(fh), datetime.fromtimestamp(
+                os.path.getmtime(path), tz=timezone.utc).isoformat()
+    return None, None
+
+
 def render_market(market: str):
     cfg = sc.MARKETS[market]
     cur, suffix = cfg["currency"], cfg["suffix"]
@@ -103,6 +115,12 @@ def render_market(market: str):
 
     results = st.session_state.get(f"{key}_results")
     if not results:
+        pre, pre_time = load_precomputed(market)
+        if pre:
+            results = pre
+            st.session_state[f"{key}_results"] = pre
+            st.session_state[f"{key}_time"] = pre_time + " (nightly auto-scan)"
+    if not results:
         fast = "Nifty 100" if market == "IN" else "S&P 100"
         st.markdown(f"Configure a scan in the sidebar and hit **Run scan**. "
                     f"Start with {fast} to get results in ~2–5 minutes.")
@@ -120,19 +138,34 @@ def render_market(market: str):
     c5.metric("AVOID", int(counts.get("AVOID", 0)))
     st.caption(f"Last scan: {st.session_state.get(f'{key}_time', '')} UTC · cached 1h")
 
-    tab_table, tab_top, tab_sector, tab_detail, tab_export = st.tabs(
-        ["📊 All results", "🏆 Top picks", "🏭 Sectors", "🔍 Stock detail", "⬇️ Export"])
+    tab_table, tab_top, tab_sector, tab_detail, tab_watch, tab_export = st.tabs(
+        ["📊 All results", "🏆 Top picks", "🏭 Sectors", "🔍 Stock detail",
+         "⭐ Watchlist", "⬇️ Export"])
 
     with tab_table:
+        fc1, fc2 = st.columns([2, 2])
+        search = fc1.text_input("Search symbol / company", "", key=f"{key}_search")
+        sectors = sorted(df["sector"].dropna().unique())
+        sec_pick = fc2.multiselect("Filter sectors", sectors, key=f"{key}_secf")
+        view = df
+        if search:
+            m = view["symbol"].str.contains(search, case=False) | \
+                view["company_name"].str.contains(search, case=False)
+            view = view[m]
+        if sec_pick:
+            view = view[view["sector"].isin(sec_pick)]
+
         show_cols = ["symbol", "company_name", "sector", "current_price",
                      "recommendation", "entry_signal", "risk_reward",
                      "overall_score", "technical_score",
                      "fundamental_score", "momentum_score", "quality_score",
-                     "risk_score", "target_price", "upside_percent", "stop_loss"]
+                     "risk_score", "week52_position", "data_quality",
+                     "target_price", "upside_percent", "stop_loss"]
+        show_cols = [c for c in show_cols if c in view.columns]
         score_col = lambda label: st.column_config.ProgressColumn(
             label, min_value=0, max_value=100, format="%.0f")
         st.dataframe(
-            df[show_cols], use_container_width=True, height=600, hide_index=True,
+            view[show_cols], use_container_width=True, height=600, hide_index=True,
             column_config={
                 "overall_score": score_col("Overall"),
                 "technical_score": score_col("Technical"),
@@ -140,6 +173,9 @@ def render_market(market: str):
                 "momentum_score": score_col("Momentum"),
                 "quality_score": score_col("Quality"),
                 "risk_score": score_col("Risk"),
+                "week52_position": st.column_config.ProgressColumn(
+                    "52w range", min_value=0, max_value=100, format="%.0f%%"),
+                "data_quality": st.column_config.TextColumn("Data"),
                 "current_price": st.column_config.NumberColumn("Price", format=f"{cur}%.2f"),
                 "target_price": st.column_config.NumberColumn("Target", format=f"{cur}%.2f"),
                 "stop_loss": st.column_config.NumberColumn("Stop", format=f"{cur}%.2f"),
@@ -218,10 +254,44 @@ def render_market(market: str):
             st.markdown(f"**Fundamental:** {r['fundamental_summary']}")
             st.markdown("**Strengths:** " + "; ".join(r["key_strengths"]))
             st.markdown("**Risks:** " + "; ".join(r["key_risks"]))
+        if r.get("data_quality_pct", 100) < 50:
+            st.warning(f"⚠️ Only {r['data_quality']} fundamental fields available "
+                       "from Yahoo — fundamental score is low-confidence. "
+                       "Verify against exchange filings.")
+        with st.expander("🔬 Why this score? (rule-by-rule breakdown)"):
+            for d in r.get("score_drivers", []):
+                st.markdown(f"- {d}")
+
         scores = {k.replace("_score", ""): r[k] for k in
                   ["technical_score", "fundamental_score", "momentum_score",
                    "quality_score", "risk_score"]}
         st.bar_chart(pd.Series(scores))
+
+    with tab_watch:
+        st.subheader("⭐ Compare your watchlist")
+        wl = st.text_input("Symbols (comma-separated)", "",
+                           key=f"{key}_wl",
+                           placeholder="e.g. " + ("RELIANCE, TCS, TITAN"
+                                                  if market == "IN"
+                                                  else "AAPL, NVDA, MSFT"))
+        if wl:
+            wanted = [s.strip().upper() for s in wl.split(",") if s.strip()]
+            sub = df[df["symbol"].str.upper().isin(wanted)]
+            missing = set(wanted) - set(sub["symbol"].str.upper())
+            if missing:
+                st.info("Not in scan results (run a scan including them, or they "
+                        f"failed filters): {', '.join(sorted(missing))}")
+            if not sub.empty:
+                comp_cols = [c for c in
+                             ["symbol", "recommendation", "entry_signal",
+                              "overall_score", "technical_score",
+                              "fundamental_score", "momentum_score",
+                              "risk_reward", "week52_position",
+                              "current_price", "target_price", "stop_loss"]
+                             if c in sub.columns]
+                st.dataframe(sub[comp_cols].set_index("symbol").T,
+                             use_container_width=True)
+                st.bar_chart(sub.set_index("symbol")["overall_score"])
 
     with tab_export:
         prefix = market.lower()

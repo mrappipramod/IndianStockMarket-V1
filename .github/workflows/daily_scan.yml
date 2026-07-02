@@ -1,0 +1,28 @@
+name: Nightly market scan
+on:
+  schedule:
+    - cron: '30 12 * * 1-5'   # 12:30 UTC = 18:00 IST, after NSE close
+    - cron: '30 21 * * 1-5'   # 21:30 UTC, after US close
+  workflow_dispatch: {}        # manual trigger button
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install yfinance pandas numpy requests
+      - name: Run scans
+        run: python nightly_scan.py
+      - name: Commit results
+        run: |
+          git config user.name "scan-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Nightly scan $(date -u +%F)"
+          git push

@@ -550,10 +550,14 @@ def targets(t, rec):
 # Per-stock pipeline
 # ----------------------------------------------------------------------------
 
-def analyze(symbol, min_value_traded=MIN_AVG_VALUE_TRADED):
+def analyze(symbol, min_value_traded=MIN_AVG_VALUE_TRADED, cutoff=None):
+    """cutoff: optional 'YYYY-MM-DD' — truncate history there (for backtesting;
+    note fundamentals are always current, so backtests are technical-only)."""
     try:
         tk = yf.Ticker(symbol)
-        df = tk.history(period=HISTORY_PERIOD, auto_adjust=True)
+        df = tk.history(period="5y" if cutoff else HISTORY_PERIOD, auto_adjust=True)
+        if cutoff is not None and df is not None and not df.empty:
+            df = df.loc[:cutoff]
         if df is None or len(df) < 220:
             return None
         df = df.dropna(subset=["Close", "Volume"])
@@ -602,6 +606,44 @@ def analyze(symbol, min_value_traded=MIN_AVG_VALUE_TRADED):
                      "Mixed signals; no edge at current levels." if rec == "HOLD" else
                      "Deteriorating fundamentals/technicals; capital better deployed elsewhere."))
 
+        # Data quality: how many key fundamental fields Yahoo actually returned
+        key_fields = ["pe", "peg", "revenue_growth", "earnings_growth",
+                      "debt_to_equity", "current_ratio", "fcf", "roe",
+                      "operating_margin", "net_margin", "beta", "market_cap"]
+        dq = sum(1 for k in key_fields if f.get(k) is not None)
+        if dq <= 4 and rec == "STRONG BUY":
+            rec = "BUY"
+            thesis += " Downgraded: insufficient fundamental data from Yahoo to justify highest conviction."
+
+        # 52-week range position: 0 = at low, 100 = at high
+        w52 = round(100 * (price - t["low_252"]) / max(t["high_252"] - t["low_252"], 1e-9), 1)
+
+        # Score drivers: human-readable why-it-scored-this-way
+        drivers = []
+        drivers.append(f"{'✓' if t['price'] > t['ema200'] else '✗'} price vs 200EMA")
+        drivers.append(f"{'✓' if t['price'] > t['ema50'] else '✗'} price vs 50EMA")
+        drivers.append(f"{'✓' if t['ema50'] > t['ema200'] else '✗'} 50>200 EMA structure")
+        if t["golden_cross"]: drivers.append("✓ golden cross (recent)")
+        if t["death_cross"]: drivers.append("✗ death cross (recent)")
+        drivers.append(f"{'✓' if t['hh_hl'] else '✗'} higher highs & lows")
+        drivers.append(f"{'✓' if t['ad_rising'] else '✗'} accumulation (A/D)")
+        if t["breakout"]: drivers.append("✓ volume breakout")
+        drivers.append(f"{'✓' if 50 <= t['rsi'] <= 70 else '✗'} RSI healthy ({t['rsi']:.0f})")
+        drivers.append(f"{'✓' if t['macd_hist'] > 0 else '✗'} MACD positive")
+        if f["pe"] is not None:
+            drivers.append(f"{'✓' if 0 < f['pe'] < 40 else '✗'} PE {f['pe']:.0f}")
+        if f["earnings_growth"] is not None:
+            drivers.append(f"{'✓' if f['earnings_growth'] > 0.10 else '✗'} "
+                           f"earnings growth {f['earnings_growth']*100:.0f}%")
+        if f["revenue_growth"] is not None:
+            drivers.append(f"{'✓' if f['revenue_growth'] > 0.08 else '✗'} "
+                           f"revenue growth {f['revenue_growth']*100:.0f}%")
+        if f["debt_to_equity"] is not None:
+            drivers.append(f"{'✓' if f['debt_to_equity'] < 100 else '✗'} "
+                           f"D/E {f['debt_to_equity']:.0f}")
+        if f["roe"] is not None:
+            drivers.append(f"{'✓' if f['roe'] > 0.12 else '✗'} ROE {f['roe']*100:.0f}%")
+
         return {
             "symbol": symbol.replace(".NS", ""),
             "company_name": info.get("longName") or info.get("shortName") or symbol,
@@ -619,6 +661,10 @@ def analyze(symbol, min_value_traded=MIN_AVG_VALUE_TRADED):
             "upside_percent": round((target / price - 1) * 100, 1),
             "stop_loss": stop,
             **entry,
+            "week52_position": w52,
+            "data_quality": f"{dq}/{len(key_fields)}",
+            "data_quality_pct": round(100 * dq / len(key_fields)),
+            "score_drivers": drivers,
             "technical_summary": (f"{t['trend_dir']}, RSI {t['rsi']:.0f}, ADX {t['adx']:.0f}, "
                                   f"MACD hist {t['macd_hist']:+.2f}, vol {t['vol_ratio']:.1f}x avg"
                                   + (f", patterns: {', '.join(t['candles'])}" if t["candles"] else "")),
