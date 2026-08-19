@@ -40,7 +40,7 @@
    "\u2713 D/E 50",
    "\u2713 ROE 21%"
   ],
-  "technical_summary": "Strong Uptrend, RSI 68, ADX 31, MACD hist +0.35, vol 0.5x avg, patterns: Doji",
+  "technical_summary": "Strong Uptrend, RSI 68, ADX 31, MACD hist +0.35, vol 0.6x avg, patterns: Doji",
   "fundamental_summary": "PE 29.867205, PEG 1.32, ROE 21%, D/E 49.733, rev growth 10%",
   "investment_thesis": "Strong Uptrend; price 148.4 vs 50EMA 136.8 / 200EMA 129.5. Fundamentals score 95/100 (ROE 21%, earnings growth 60%). Both pillars aligned \u2014 institutional-quality setup.",
   "key_strengths": [
@@ -54,8 +54,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:45.682753+00:00",
-  "sector_relative_strength": 10.0
+  "last_updated": "2026-08-19T13:26:00.537551+00:00",
+  "sector_relative_strength": 5.1
  },
  {
   "symbol": "ABNB",
@@ -98,7 +98,7 @@
    "\u2713 ROE 35%"
   ],
   "technical_summary": "Strong Uptrend, RSI 71, ADX 37, MACD hist +2.19, vol 1.1x avg, patterns: Bearish Marubozu, Evening Star",
-  "fundamental_summary": "PE 41.93364, PEG 1.97, ROE 35%, D/E 32.004, rev growth 16%",
+  "fundamental_summary": "PE 41.8379, PEG 1.97, ROE 35%, D/E 32.004, rev growth 16%",
   "investment_thesis": "Strong Uptrend; price 183.2 vs 50EMA 154.6 / 200EMA 139.3. Fundamentals score 81/100 (ROE 35%, earnings growth 33%). Both pillars aligned \u2014 institutional-quality setup.",
   "key_strengths": [
    "High ROE (35%)",
@@ -111,8 +111,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:45.681410+00:00",
-  "sector_relative_strength": 5.9
+  "last_updated": "2026-08-19T13:26:01.522118+00:00",
+  "sector_relative_strength": 9.6
  },
  {
   "symbol": "ALL",
@@ -126,13 +126,13 @@
   "quality_score": 93.0,
   "risk_score": 80.0,
   "overall_score": 81.7,
-  "recommendation": "STRONG BUY",
+  "recommendation": "BUY",
   "target_price": 282.76,
   "upside_percent": 8.3,
-  "stop_loss": 247.53,
+  "stop_loss": 247.52,
   "entry_signal": "ENTER NOW",
   "entry_score": 100,
-  "entry_zone_low": 252.48,
+  "entry_zone_low": 252.47,
   "entry_zone_high": 278.61,
   "risk_reward": 1.59,
   "extension_atr": 0.2,
@@ -155,8 +155,8 @@
    "\u2713 ROE 46%"
   ],
   "technical_summary": "Uptrend, RSI 53, ADX 24, MACD hist -1.97, vol 0.9x avg, patterns: Doji",
-  "fundamental_summary": "PE 5.229275, PEG 3.13, ROE 46%, D/E 22.261, rev growth 12%",
-  "investment_thesis": "Uptrend; price 261.1 vs 50EMA 248.5 / 200EMA 222.1. Fundamentals score 86/100 (ROE 46%, earnings growth 61%). Both pillars aligned \u2014 institutional-quality setup.",
+  "fundamental_summary": "PE 5.2303224, PEG 3.13, ROE 46%, D/E 22.261, rev growth 12%",
+  "investment_thesis": "Uptrend; price 261.1 vs 50EMA 248.5 / 200EMA 222.1. Fundamentals score 86/100 (ROE 46%, earnings growth 61%). Both pillars aligned \u2014 institutional-quality setup. Downgraded: sector underperforming market.",
   "key_strengths": [
    "High ROE (46%)",
    "Strong earnings growth (61%)",
@@ -168,8 +168,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.115942+00:00",
-  "sector_relative_strength": -9.6
+  "last_updated": "2026-08-19T13:26:02.193338+00:00",
+  "sector_relative_strength": -15.4
  },
  {
   "symbol": "ADM",
@@ -177,23 +177,23 @@
   "sector": "Consumer Defensive",
   "industry": "Farm Products",
   "current_price": 82.45,
-  "technical_score": 71.8,
+  "technical_score": 71.6,
   "fundamental_score": 95.0,
-  "momentum_score": 74.5,
+  "momentum_score": 87.6,
   "quality_score": 55.0,
   "risk_score": 80.0,
-  "overall_score": 79.0,
+  "overall_score": 81.0,
   "recommendation": "BUY",
   "target_price": 90.23,
   "upside_percent": 9.4,
-  "stop_loss": 78.09,
+  "stop_loss": 78.06,
   "entry_signal": "ENTER NOW",
   "entry_score": 100,
-  "entry_zone_low": 79.87,
+  "entry_zone_low": 79.74,
   "entry_zone_high": 88.9,
-  "risk_reward": 1.78,
-  "extension_atr": 0.8,
-  "entry_note": "Price is 0.8 ATRs above 20EMA, RSI 57, 1-month move -4%, risk-reward 1.8:1 at current price. Entry conditions favorable at current levels.",
+  "risk_reward": 1.77,
+  "extension_atr": 0.9,
+  "entry_note": "Price is 0.9 ATRs above 20EMA, RSI 57, 1-month move -4%, risk-reward 1.8:1 at current price. Entry conditions favorable at current levels.",
   "week52_position": 82.4,
   "data_quality": "12/12",
   "data_quality_pct": 100,
@@ -211,9 +211,9 @@
    "\u2713 D/E 39",
    "\u2717 ROE 8%"
   ],
-  "technical_summary": "Uptrend, RSI 57, ADX 19, MACD hist +0.15, vol 0.9x avg, patterns: Doji",
+  "technical_summary": "Uptrend, RSI 57, ADX 18, MACD hist +0.15, vol 0.9x avg, patterns: Doji",
   "fundamental_summary": "PE 22.52732, PEG 1.05, ROE 8%, D/E 39.134, rev growth 7%",
-  "investment_thesis": "Uptrend; price 82.4 vs 50EMA 79.9 / 200EMA 71.8. Fundamentals score 95/100 (ROE 8%, earnings growth 316%). Constructive but awaiting fuller confirmation.",
+  "investment_thesis": "Uptrend; price 82.4 vs 50EMA 79.7 / 200EMA 71.7. Fundamentals score 95/100 (ROE 8%, earnings growth 316%). Constructive but awaiting fuller confirmation.",
   "key_strengths": [
    "Strong earnings growth (316%)",
    "Low debt",
@@ -223,121 +223,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:46.123978+00:00",
-  "sector_relative_strength": 18.7
- },
- {
-  "symbol": "AMGN",
-  "company_name": "Amgen Inc.",
-  "sector": "Healthcare",
-  "industry": "Drug Manufacturers - General",
-  "current_price": 425.28,
-  "technical_score": 85.0,
-  "fundamental_score": 71.0,
-  "momentum_score": 77.4,
-  "quality_score": 93.0,
-  "risk_score": 59.0,
-  "overall_score": 78.5,
-  "recommendation": "BUY",
-  "target_price": 456.66,
-  "upside_percent": 7.4,
-  "stop_loss": 404.36,
-  "entry_signal": "BUY ON DIPS",
-  "entry_score": 55.0,
-  "entry_zone_low": 412.45,
-  "entry_zone_high": 423.9,
-  "risk_reward": 1.5,
-  "extension_atr": 2.3,
-  "entry_note": "Price is 2.3 ATRs above 20EMA, RSI 74, 1-month move +17%, risk-reward 1.5:1 at current price. Acceptable but better entry in the 412.45\u2013423.9 pullback zone.",
-  "week52_position": 98.7,
-  "data_quality": "12/12",
-  "data_quality_pct": 100,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2713 price vs 50EMA",
-   "\u2713 50>200 EMA structure",
-   "\u2713 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2717 RSI healthy (74)",
-   "\u2713 MACD positive",
-   "\u2713 PE 26",
-   "\u2713 earnings growth 65%",
-   "\u2713 revenue growth 10%",
-   "\u2717 D/E 490",
-   "\u2713 ROE 91%"
-  ],
-  "technical_summary": "Strong Uptrend, RSI 74, ADX 41, MACD hist +1.48, vol 0.9x avg",
-  "fundamental_summary": "PE 26.414906, PEG 2.18, ROE 91%, D/E 490.281, rev growth 10%",
-  "investment_thesis": "Strong Uptrend; price 425.3 vs 50EMA 379.8 / 200EMA 347.2. Fundamentals score 71/100 (ROE 91%, earnings growth 65%). Constructive but awaiting fuller confirmation.",
-  "key_strengths": [
-   "High ROE (91%)",
-   "Strong earnings growth (65%)",
-   "Strong Uptrend",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Elevated leverage"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.582127+00:00",
-  "sector_relative_strength": 10.0
- },
- {
-  "symbol": "AMP",
-  "company_name": "Ameriprise Financial, Inc.",
-  "sector": "Financial Services",
-  "industry": "Asset Management",
-  "current_price": 562.12,
-  "technical_score": 80.0,
-  "fundamental_score": 81.0,
-  "momentum_score": 64.2,
-  "quality_score": 93.0,
-  "risk_score": 60.0,
-  "overall_score": 78.3,
-  "recommendation": "STRONG BUY",
-  "target_price": 594.2,
-  "upside_percent": 5.7,
-  "stop_loss": 540.73,
-  "entry_signal": "BUY ON DIPS",
-  "entry_score": 55.0,
-  "entry_zone_low": 551.54,
-  "entry_zone_high": 568.27,
-  "risk_reward": 1.5,
-  "extension_atr": 1.2,
-  "entry_note": "Price is 1.2 ATRs above 20EMA, RSI 66, 1-month move +7%, risk-reward 1.5:1 at current price. Acceptable but better entry in the 551.54\u2013568.27 pullback zone.",
-  "week52_position": 93.2,
-  "data_quality": "12/12",
-  "data_quality_pct": 100,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2713 price vs 50EMA",
-   "\u2713 50>200 EMA structure",
-   "\u2713 golden cross (recent)",
-   "\u2713 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2713 RSI healthy (66)",
-   "\u2717 MACD positive",
-   "\u2713 PE 14",
-   "\u2713 earnings growth 12%",
-   "\u2713 revenue growth 12%",
-   "\u2713 D/E 68",
-   "\u2713 ROE 63%"
-  ],
-  "technical_summary": "Strong Uptrend, RSI 66, ADX 37, MACD hist -1.35, vol 0.6x avg, patterns: Evening Star",
-  "fundamental_summary": "PE 13.5810585, PEG 1.83, ROE 63%, D/E 67.578, rev growth 12%",
-  "investment_thesis": "Strong Uptrend; price 562.1 vs 50EMA 520.7 / 200EMA 488.1. Fundamentals score 81/100 (ROE 63%, earnings growth 12%). Both pillars aligned \u2014 institutional-quality setup.",
-  "key_strengths": [
-   "High ROE (63%)",
-   "Strong Uptrend",
-   "Recent golden cross",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Standard market risk"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.741228+00:00",
-  "sector_relative_strength": -9.6
+  "last_updated": "2026-08-19T13:26:01.030191+00:00",
+  "sector_relative_strength": 29.7
  },
  {
   "symbol": "AMCR",
@@ -345,12 +232,12 @@
   "sector": "Consumer Cyclical",
   "industry": "Packaging & Containers",
   "current_price": 45.86,
-  "technical_score": 85.7,
+  "technical_score": 86.2,
   "fundamental_score": 86.0,
   "momentum_score": 55,
   "quality_score": 55.0,
   "risk_score": 68.0,
-  "overall_score": 77.2,
+  "overall_score": 77.4,
   "recommendation": "BUY",
   "target_price": 49.48,
   "upside_percent": 7.9,
@@ -379,8 +266,8 @@
    "\u2717 D/E 128",
    "\u2717 ROE 9%"
   ],
-  "technical_summary": "Uptrend, RSI 53, ADX 24, MACD hist -0.26, vol 1.1x avg, patterns: Doji",
-  "fundamental_summary": "PE 19.268908, PEG 1.05, ROE 9%, D/E 128.294, rev growth 26%",
+  "technical_summary": "Uptrend, RSI 53, ADX 25, MACD hist -0.26, vol 1.2x avg, patterns: Doji",
+  "fundamental_summary": "PE 19.268908, PEG 1.04, ROE 9%, D/E 128.294, rev growth 26%",
   "investment_thesis": "Uptrend; price 45.9 vs 50EMA 44.0 / 200EMA 42.3. Fundamentals score 86/100 (ROE 9%, earnings growth 0%). Constructive but awaiting fuller confirmation.",
   "key_strengths": [
    "Uptrend",
@@ -391,63 +278,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.427015+00:00",
-  "sector_relative_strength": 5.9
- },
- {
-  "symbol": "ANET",
-  "company_name": "Arista Networks, Inc.",
-  "sector": "Technology",
-  "industry": "Computer Hardware",
-  "current_price": 193.18,
-  "technical_score": 74.2,
-  "fundamental_score": 73.0,
-  "momentum_score": 90,
-  "quality_score": 93.0,
-  "risk_score": 58.0,
-  "overall_score": 77.2,
-  "recommendation": "STRONG BUY",
-  "target_price": 223.47,
-  "upside_percent": 15.7,
-  "stop_loss": 172.99,
-  "entry_signal": "ENTER NOW",
-  "entry_score": 90.0,
-  "entry_zone_low": 178.04,
-  "entry_zone_high": 215.96,
-  "risk_reward": 1.5,
-  "extension_atr": 0.4,
-  "entry_note": "Price is 0.4 ATRs above 20EMA, RSI 55, 1-month move +11%, risk-reward 1.5:1 at current price. Entry conditions favorable at current levels.",
-  "week52_position": 78.4,
-  "data_quality": "11/12",
-  "data_quality_pct": 92,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2713 price vs 50EMA",
-   "\u2713 50>200 EMA structure",
-   "\u2713 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2713 RSI healthy (55)",
-   "\u2713 MACD positive",
-   "\u2717 PE 61",
-   "\u2713 earnings growth 36%",
-   "\u2713 revenue growth 38%",
-   "\u2713 ROE 31%"
-  ],
-  "technical_summary": "Strong Uptrend, RSI 55, ADX 26, MACD hist +0.72, vol 0.9x avg, patterns: Bearish Marubozu",
-  "fundamental_summary": "PE 60.94006, PEG 1.88, ROE 31%, D/E n/a, rev growth 38%",
-  "investment_thesis": "Strong Uptrend; price 193.2 vs 50EMA 178.0 / 200EMA 153.4. Fundamentals score 73/100 (ROE 31%, earnings growth 36%). Both pillars aligned \u2014 institutional-quality setup.",
-  "key_strengths": [
-   "High ROE (31%)",
-   "Strong earnings growth (36%)",
-   "Strong Uptrend",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Rich valuation (PE 61)"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.771468+00:00",
-  "sector_relative_strength": 2.0
+  "last_updated": "2026-08-19T13:26:02.324512+00:00",
+  "sector_relative_strength": 9.6
  },
  {
   "symbol": "ALLE",
@@ -504,63 +336,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.122680+00:00",
-  "sector_relative_strength": -1.9
- },
- {
-  "symbol": "ADSK",
-  "company_name": "Autodesk, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Application",
-  "current_price": 246.79,
-  "technical_score": 57.0,
-  "fundamental_score": 92.0,
-  "momentum_score": 75.7,
-  "quality_score": 93.0,
-  "risk_score": 60.0,
-  "overall_score": 75.8,
-  "recommendation": "BUY",
-  "target_price": 329.09,
-  "upside_percent": 33.3,
-  "stop_loss": 227.02,
-  "entry_signal": "ENTER NOW",
-  "entry_score": 100,
-  "entry_zone_low": 231.56,
-  "entry_zone_high": 258.58,
-  "risk_reward": 4.16,
-  "extension_atr": 0.8,
-  "entry_note": "Price is 0.8 ATRs above 20EMA, RSI 58, 1-month move +14%, risk-reward 4.2:1 at current price. Entry conditions favorable at current levels.",
-  "week52_position": 42.7,
-  "data_quality": "12/12",
-  "data_quality_pct": 100,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2713 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
-   "\u2713 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2713 RSI healthy (58)",
-   "\u2713 MACD positive",
-   "\u2713 PE 36",
-   "\u2713 earnings growth 231%",
-   "\u2713 revenue growth 18%",
-   "\u2713 D/E 85",
-   "\u2713 ROE 50%"
-  ],
-  "technical_summary": "Sideways, RSI 58, ADX 26, MACD hist +0.05, vol 0.6x avg, patterns: Shooting Star",
-  "fundamental_summary": "PE 36.080406, PEG 0.96, ROE 50%, D/E 85.419, rev growth 18%",
-  "investment_thesis": "Sideways; price 246.8 vs 50EMA 229.6 / 200EMA 246.3. Fundamentals score 92/100 (ROE 50%, earnings growth 231%). Constructive but awaiting fuller confirmation.",
-  "key_strengths": [
-   "High ROE (50%)",
-   "Strong earnings growth (231%)",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Standard market risk"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:46.169713+00:00",
-  "sector_relative_strength": 2.0
+  "last_updated": "2026-08-19T13:26:02.238072+00:00",
+  "sector_relative_strength": -2.9
  },
  {
   "symbol": "AIZ",
@@ -615,8 +392,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:46.659693+00:00",
-  "sector_relative_strength": -9.6
+  "last_updated": "2026-08-19T13:26:01.829492+00:00",
+  "sector_relative_strength": -15.4
  },
  {
   "symbol": "ABBV",
@@ -658,7 +435,7 @@
    "\u2713 revenue growth 10%"
   ],
   "technical_summary": "Uptrend, RSI 62, ADX 20, MACD hist -0.11, vol 0.6x avg",
-  "fundamental_summary": "PE 73.34845, PEG 0.41, ROE 0%, D/E n/a, rev growth 10%",
+  "fundamental_summary": "PE 72.93522, PEG 0.41, ROE 0%, D/E n/a, rev growth 10%",
   "investment_thesis": "Uptrend; price 258.9 vs 50EMA 243.6 / 200EMA 224.0. Fundamentals score 76/100 (ROE 0%, earnings growth 290%). Both pillars aligned \u2014 institutional-quality setup.",
   "key_strengths": [
    "Strong earnings growth (290%)",
@@ -669,64 +446,8 @@
    "Rich valuation (PE 73)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:45.705079+00:00",
-  "sector_relative_strength": 10.0
- },
- {
-  "symbol": "AMZN",
-  "company_name": "Amazon.com, Inc.",
-  "sector": "Consumer Cyclical",
-  "industry": "Internet Retail",
-  "current_price": 259.45,
-  "technical_score": 52.8,
-  "fundamental_score": 100,
-  "momentum_score": 50.0,
-  "quality_score": 88.0,
-  "risk_score": 84.0,
-  "overall_score": 74.0,
-  "recommendation": "HOLD",
-  "target_price": 259.45,
-  "upside_percent": -0.0,
-  "stop_loss": 238.69,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 75.0,
-  "entry_zone_low": 253.99,
-  "entry_zone_high": 288.64,
-  "risk_reward": 0,
-  "extension_atr": -0.1,
-  "entry_note": "Price is -0.1 ATRs above 20EMA, RSI 51, 1-month move +5%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 69.6,
-  "data_quality": "12/12",
-  "data_quality_pct": 100,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2713 price vs 50EMA",
-   "\u2713 50>200 EMA structure",
-   "\u2717 higher highs & lows",
-   "\u2717 accumulation (A/D)",
-   "\u2713 RSI healthy (51)",
-   "\u2717 MACD positive",
-   "\u2713 PE 21",
-   "\u2713 earnings growth 242%",
-   "\u2713 revenue growth 20%",
-   "\u2713 D/E 46",
-   "\u2713 ROE 31%"
-  ],
-  "technical_summary": "Uptrend, RSI 51, ADX 24, MACD hist -0.91, vol 0.6x avg",
-  "fundamental_summary": "PE 20.856112, PEG 1.4, ROE 31%, D/E 45.617, rev growth 20%",
-  "investment_thesis": "Uptrend; price 259.5 vs 50EMA 254.0 / 200EMA 239.8. Fundamentals score 100/100 (ROE 31%, earnings growth 242%). Mixed signals; no edge at current levels.",
-  "key_strengths": [
-   "High ROE (31%)",
-   "Strong earnings growth (242%)",
-   "Low debt",
-   "Uptrend"
-  ],
-  "key_risks": [
-   "Standard market risk"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.778002+00:00",
-  "sector_relative_strength": 5.9
+  "last_updated": "2026-08-19T13:26:00.534402+00:00",
+  "sector_relative_strength": 5.1
  },
  {
   "symbol": "ADP",
@@ -743,14 +464,14 @@
   "recommendation": "BUY",
   "target_price": 301.7,
   "upside_percent": 12.0,
-  "stop_loss": 254.0,
+  "stop_loss": 254.28,
   "entry_signal": "ENTER NOW",
   "entry_score": 100,
-  "entry_zone_low": 259.08,
+  "entry_zone_low": 259.37,
   "entry_zone_high": 281.99,
-  "risk_reward": 2.12,
+  "risk_reward": 2.16,
   "extension_atr": 0.6,
-  "entry_note": "Price is 0.6 ATRs above 20EMA, RSI 58, 1-month move +6%, risk-reward 2.1:1 at current price. Entry conditions favorable at current levels.",
+  "entry_note": "Price is 0.6 ATRs above 20EMA, RSI 58, 1-month move +9%, risk-reward 2.2:1 at current price. Entry conditions favorable at current levels.",
   "week52_position": 71.8,
   "data_quality": "12/12",
   "data_quality_pct": 100,
@@ -763,15 +484,15 @@
    "\u2713 accumulation (A/D)",
    "\u2713 RSI healthy (58)",
    "\u2717 MACD positive",
-   "\u2713 PE 25",
+   "\u2713 PE 24",
    "\u2717 earnings growth 10%",
    "\u2717 revenue growth 7%",
    "\u2713 D/E 91",
    "\u2713 ROE 72%"
   ],
-  "technical_summary": "Strong Uptrend, RSI 58, ADX 37, MACD hist -1.39, vol 0.8x avg, patterns: Shooting Star",
-  "fundamental_summary": "PE 24.617002, PEG 2.53, ROE 72%, D/E 91.436, rev growth 7%",
-  "investment_thesis": "Strong Uptrend; price 269.3 vs 50EMA 250.2 / 200EMA 241.1. Fundamentals score 67/100 (ROE 72%, earnings growth 10%). Constructive but awaiting fuller confirmation.",
+  "technical_summary": "Strong Uptrend, RSI 58, ADX 38, MACD hist -1.28, vol 0.9x avg, patterns: Shooting Star",
+  "fundamental_summary": "PE 24.327913, PEG 2.53, ROE 72%, D/E 91.436, rev growth 7%",
+  "investment_thesis": "Strong Uptrend; price 269.3 vs 50EMA 250.7 / 200EMA 241.3. Fundamentals score 67/100 (ROE 72%, earnings growth 10%). Constructive but awaiting fuller confirmation.",
   "key_strengths": [
    "High ROE (72%)",
    "Strong Uptrend",
@@ -782,8 +503,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:46.213374+00:00",
-  "sector_relative_strength": 2.0
+  "last_updated": "2026-08-19T13:26:01.162494+00:00",
+  "sector_relative_strength": -6.0
  },
  {
   "symbol": "AAPL",
@@ -838,62 +559,63 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:45.760508+00:00",
-  "sector_relative_strength": 2.0
+  "last_updated": "2026-08-19T13:26:00.668708+00:00",
+  "sector_relative_strength": -6.0
  },
  {
-  "symbol": "AME",
-  "company_name": "AMETEK, Inc.",
-  "sector": "Industrials",
-  "industry": "Specialty Industrial Machinery",
-  "current_price": 249.99,
-  "technical_score": 72.7,
-  "fundamental_score": 77.0,
-  "momentum_score": 52.7,
-  "quality_score": 83.0,
-  "risk_score": 80.0,
-  "overall_score": 72.6,
+  "symbol": "ADSK",
+  "company_name": "Autodesk, Inc.",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "current_price": 246.79,
+  "technical_score": 57.0,
+  "fundamental_score": 92.0,
+  "momentum_score": 44.8,
+  "quality_score": 93.0,
+  "risk_score": 60.0,
+  "overall_score": 71.2,
   "recommendation": "BUY",
-  "target_price": 266.0,
-  "upside_percent": 6.4,
-  "stop_loss": 239.32,
+  "target_price": 329.09,
+  "upside_percent": 33.3,
+  "stop_loss": 227.59,
   "entry_signal": "ENTER NOW",
   "entry_score": 100,
-  "entry_zone_low": 244.11,
-  "entry_zone_high": 259.24,
-  "risk_reward": 1.5,
-  "extension_atr": 0.2,
-  "entry_note": "Price is 0.2 ATRs above 20EMA, RSI 55, 1-month move +5%, risk-reward 1.5:1 at current price. Entry conditions favorable at current levels.",
-  "week52_position": 86.5,
+  "entry_zone_low": 232.14,
+  "entry_zone_high": 258.58,
+  "risk_reward": 4.29,
+  "extension_atr": 0.8,
+  "entry_note": "Price is 0.8 ATRs above 20EMA, RSI 58, 1-month move +17%, risk-reward 4.3:1 at current price. Entry conditions favorable at current levels.",
+  "week52_position": 42.7,
   "data_quality": "12/12",
   "data_quality_pct": 100,
   "score_drivers": [
    "\u2713 price vs 200EMA",
    "\u2713 price vs 50EMA",
-   "\u2713 50>200 EMA structure",
+   "\u2717 50>200 EMA structure",
    "\u2713 higher highs & lows",
-   "\u2717 accumulation (A/D)",
-   "\u2713 RSI healthy (55)",
+   "\u2713 accumulation (A/D)",
+   "\u2713 RSI healthy (58)",
    "\u2717 MACD positive",
-   "\u2713 PE 37",
-   "\u2713 earnings growth 14%",
-   "\u2713 revenue growth 15%",
-   "\u2713 D/E 21",
-   "\u2713 ROE 15%"
+   "\u2713 PE 36",
+   "\u2713 earnings growth 231%",
+   "\u2713 revenue growth 18%",
+   "\u2713 D/E 85",
+   "\u2713 ROE 50%"
   ],
-  "technical_summary": "Uptrend, RSI 55, ADX 20, MACD hist -0.05, vol 1.1x avg",
-  "fundamental_summary": "PE 36.548244, PEG 3.25, ROE 15%, D/E 20.522, rev growth 15%",
-  "investment_thesis": "Uptrend; price 250.0 vs 50EMA 241.3 / 200EMA 222.9. Fundamentals score 77/100 (ROE 15%, earnings growth 14%). Constructive but awaiting fuller confirmation.",
+  "technical_summary": "Sideways, RSI 58, ADX 27, MACD hist -0.08, vol 0.6x avg, patterns: Shooting Star",
+  "fundamental_summary": "PE 35.975216, PEG 0.96, ROE 50%, D/E 85.419, rev growth 18%",
+  "investment_thesis": "Sideways; price 246.8 vs 50EMA 229.6 / 200EMA 245.5. Fundamentals score 92/100 (ROE 50%, earnings growth 231%). Constructive but awaiting fuller confirmation.",
   "key_strengths": [
-   "Low debt",
-   "Uptrend"
+   "High ROE (50%)",
+   "Strong earnings growth (231%)",
+   "Accumulation pattern (A/D rising)"
   ],
   "key_risks": [
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.540337+00:00",
-  "sector_relative_strength": -1.9
+  "last_updated": "2026-08-19T13:26:01.265882+00:00",
+  "sector_relative_strength": -6.0
  },
  {
   "symbol": "AFL",
@@ -936,7 +658,7 @@
    "\u2713 ROE 17%"
   ],
   "technical_summary": "Uptrend, RSI 45, ADX 20, MACD hist -0.76, vol 0.7x avg, patterns: Bullish Engulfing, Shooting Star",
-  "fundamental_summary": "PE 13.131607, PEG 1.18, ROE 17%, D/E 53.365, rev growth -1%",
+  "fundamental_summary": "PE 13.117457, PEG 1.18, ROE 17%, D/E 53.365, rev growth -1%",
   "investment_thesis": "Uptrend; price 121.7 vs 50EMA 121.5 / 200EMA 114.7. Fundamentals score 85/100 (ROE 17%, earnings growth 47%). Constructive but awaiting fuller confirmation.",
   "key_strengths": [
    "High ROE (17%)",
@@ -948,8 +670,59 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:46.677267+00:00",
-  "sector_relative_strength": -9.6
+  "last_updated": "2026-08-19T13:26:01.601887+00:00",
+  "sector_relative_strength": -15.4
+ },
+ {
+  "symbol": "AXON",
+  "company_name": "AXON",
+  "sector": "Unknown",
+  "industry": "Unknown",
+  "current_price": 619.85,
+  "technical_score": 81.6,
+  "fundamental_score": 50.0,
+  "momentum_score": 90,
+  "quality_score": 50.0,
+  "risk_score": 60.0,
+  "overall_score": 67.6,
+  "recommendation": "HOLD",
+  "target_price": 619.85,
+  "upside_percent": 0.0,
+  "stop_loss": 570.26,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 65.0,
+  "entry_zone_low": 581.67,
+  "entry_zone_high": 668.4,
+  "risk_reward": 0.0,
+  "extension_atr": 1.1,
+  "entry_note": "Price is 1.1 ATRs above 20EMA, RSI 59, 1-month move +14%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 61.7,
+  "data_quality": "1/12",
+  "data_quality_pct": 8,
+  "score_drivers": [
+   "\u2713 price vs 200EMA",
+   "\u2713 price vs 50EMA",
+   "\u2713 50>200 EMA structure",
+   "\u2713 golden cross (recent)",
+   "\u2713 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2713 RSI healthy (59)",
+   "\u2713 MACD positive"
+  ],
+  "technical_summary": "Uptrend, RSI 59, ADX 21, MACD hist +2.70, vol 0.7x avg, patterns: Bullish Engulfing",
+  "fundamental_summary": "PE n/a, PEG n/a, ROE 0%, D/E n/a, rev growth 0%",
+  "investment_thesis": "Uptrend; price 619.8 vs 50EMA 537.4 / 200EMA 526.3. Fundamentals score 50/100 (ROE 0%, earnings growth 0%). Mixed signals; no edge at current levels.",
+  "key_strengths": [
+   "Uptrend",
+   "Recent golden cross",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Standard market risk"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-08-19T13:26:02.837693+00:00",
+  "sector_relative_strength": 12.3
  },
  {
   "symbol": "AES",
@@ -959,7 +732,7 @@
   "current_price": 14.74,
   "technical_score": 78.0,
   "fundamental_score": 66.0,
-  "momentum_score": 52.7,
+  "momentum_score": 52.4,
   "quality_score": 73.0,
   "risk_score": 37.0,
   "overall_score": 67.4,
@@ -969,11 +742,11 @@
   "stop_loss": 14.3,
   "entry_signal": "ENTER NOW",
   "entry_score": 100,
-  "entry_zone_low": 14.59,
+  "entry_zone_low": 14.6,
   "entry_zone_high": 14.84,
   "risk_reward": 5.66,
   "extension_atr": 1.0,
-  "entry_note": "Price is 1.0 ATRs above 20EMA, RSI 65, 1-month move +1%, risk-reward 5.7:1 at current price. Entry conditions favorable at current levels.",
+  "entry_note": "Price is 1.0 ATRs above 20EMA, RSI 64, 1-month move +1%, risk-reward 5.7:1 at current price. Entry conditions favorable at current levels.",
   "week52_position": 54.6,
   "data_quality": "11/12",
   "data_quality_pct": 92,
@@ -983,14 +756,14 @@
    "\u2713 50>200 EMA structure",
    "\u2713 higher highs & lows",
    "\u2717 accumulation (A/D)",
-   "\u2713 RSI healthy (65)",
+   "\u2713 RSI healthy (64)",
    "\u2717 MACD positive",
    "\u2713 PE 6",
    "\u2713 revenue growth 20%",
    "\u2717 D/E 257",
    "\u2717 ROE 10%"
   ],
-  "technical_summary": "Strong Uptrend, RSI 65, ADX 36, MACD hist -0.00, vol 0.6x avg",
+  "technical_summary": "Strong Uptrend, RSI 64, ADX 37, MACD hist -0.00, vol 0.6x avg",
   "fundamental_summary": "PE 5.520599, PEG 0.81, ROE 10%, D/E 256.886, rev growth 20%",
   "investment_thesis": "Strong Uptrend; price 14.7 vs 50EMA 14.6 / 200EMA 14.1. Fundamentals score 66/100 (ROE 10%, earnings growth 0%). Constructive but awaiting fuller confirmation.",
   "key_strengths": [
@@ -1000,8 +773,57 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:46.582135+00:00",
-  "sector_relative_strength": -4.0
+  "last_updated": "2026-08-19T13:26:01.447222+00:00",
+  "sector_relative_strength": -6.5
+ },
+ {
+  "symbol": "AMGN",
+  "company_name": "AMGN",
+  "sector": "Unknown",
+  "industry": "Unknown",
+  "current_price": 425.28,
+  "technical_score": 85.0,
+  "fundamental_score": 50.0,
+  "momentum_score": 76.4,
+  "quality_score": 50.0,
+  "risk_score": 60.0,
+  "overall_score": 66.7,
+  "recommendation": "HOLD",
+  "target_price": 425.28,
+  "upside_percent": 0.0,
+  "stop_loss": 391.26,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 30.0,
+  "entry_zone_low": 399.09,
+  "entry_zone_high": 423.9,
+  "risk_reward": 0.0,
+  "extension_atr": 2.3,
+  "entry_note": "Price is 2.3 ATRs above 20EMA, RSI 74, 1-month move +16%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 98.7,
+  "data_quality": "1/12",
+  "data_quality_pct": 8,
+  "score_drivers": [
+   "\u2713 price vs 200EMA",
+   "\u2713 price vs 50EMA",
+   "\u2713 50>200 EMA structure",
+   "\u2713 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2717 RSI healthy (74)",
+   "\u2713 MACD positive"
+  ],
+  "technical_summary": "Strong Uptrend, RSI 74, ADX 41, MACD hist +1.51, vol 0.9x avg",
+  "fundamental_summary": "PE n/a, PEG n/a, ROE 0%, D/E n/a, rev growth 0%",
+  "investment_thesis": "Strong Uptrend; price 425.3 vs 50EMA 380.0 / 200EMA 347.5. Fundamentals score 50/100 (ROE 0%, earnings growth 0%). Mixed signals; no edge at current levels.",
+  "key_strengths": [
+   "Strong Uptrend",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Standard market risk"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-08-19T13:26:02.490812+00:00",
+  "sector_relative_strength": 12.3
  },
  {
   "symbol": "ACGL",
@@ -1009,23 +831,23 @@
   "sector": "Financial Services",
   "industry": "Insurance - Diversified",
   "current_price": 98.91,
-  "technical_score": 67.0,
+  "technical_score": 66.9,
   "fundamental_score": 67.0,
-  "momentum_score": 30.5,
+  "momentum_score": 28.0,
   "quality_score": 93.0,
   "risk_score": 80.0,
-  "overall_score": 64.8,
+  "overall_score": 64.4,
   "recommendation": "BUY",
   "target_price": 109.23,
   "upside_percent": 10.4,
-  "stop_loss": 95.44,
+  "stop_loss": 95.54,
   "entry_signal": "ENTER NOW",
   "entry_score": 100,
-  "entry_zone_low": 98.4,
+  "entry_zone_low": 98.5,
   "entry_zone_high": 107.63,
-  "risk_reward": 2.97,
+  "risk_reward": 3.06,
   "extension_atr": -0.2,
-  "entry_note": "Price is -0.2 ATRs above 20EMA, RSI 49, 1-month move -2%, risk-reward 3.0:1 at current price. Entry conditions favorable at current levels.",
+  "entry_note": "Price is -0.2 ATRs above 20EMA, RSI 49, 1-month move -2%, risk-reward 3.1:1 at current price. Entry conditions favorable at current levels.",
   "week52_position": 66.8,
   "data_quality": "12/12",
   "data_quality_pct": 100,
@@ -1044,9 +866,9 @@
    "\u2713 D/E 18",
    "\u2713 ROE 20%"
   ],
-  "technical_summary": "Uptrend, RSI 49, ADX 14, MACD hist -0.42, vol 0.7x avg, patterns: Shooting Star",
+  "technical_summary": "Uptrend, RSI 49, ADX 14, MACD hist -0.39, vol 0.7x avg, patterns: Shooting Star",
   "fundamental_summary": "PE 7.739437, PEG 1.05, ROE 20%, D/E 17.836, rev growth -10%",
-  "investment_thesis": "Uptrend; price 98.9 vs 50EMA 98.4 / 200EMA 95.7. Fundamentals score 67/100 (ROE 20%, earnings growth -7%). Constructive but awaiting fuller confirmation.",
+  "investment_thesis": "Uptrend; price 98.9 vs 50EMA 98.5 / 200EMA 95.8. Fundamentals score 67/100 (ROE 20%, earnings growth -7%). Constructive but awaiting fuller confirmation.",
   "key_strengths": [
    "High ROE (20%)",
    "Low debt",
@@ -1058,8 +880,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:45.672379+00:00",
-  "sector_relative_strength": -9.6
+  "last_updated": "2026-08-19T13:26:00.461515+00:00",
+  "sector_relative_strength": -15.4
  },
  {
   "symbol": "ABT",
@@ -1111,8 +933,56 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:45.800115+00:00",
-  "sector_relative_strength": 10.0
+  "last_updated": "2026-08-19T13:26:00.620191+00:00",
+  "sector_relative_strength": 5.1
+ },
+ {
+  "symbol": "BIIB",
+  "company_name": "BIIB",
+  "sector": "Unknown",
+  "industry": "Unknown",
+  "current_price": 212.55,
+  "technical_score": 71.3,
+  "fundamental_score": 50.0,
+  "momentum_score": 90.4,
+  "quality_score": 50.0,
+  "risk_score": 60.0,
+  "overall_score": 64.0,
+  "recommendation": "HOLD",
+  "target_price": 212.55,
+  "upside_percent": -0.0,
+  "stop_loss": 195.55,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 75.0,
+  "entry_zone_low": 203.14,
+  "entry_zone_high": 220.82,
+  "risk_reward": 0,
+  "extension_atr": 0.8,
+  "entry_note": "Price is 0.8 ATRs above 20EMA, RSI 58, 1-month move +2%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 92.1,
+  "data_quality": "1/12",
+  "data_quality_pct": 8,
+  "score_drivers": [
+   "\u2713 price vs 200EMA",
+   "\u2713 price vs 50EMA",
+   "\u2713 50>200 EMA structure",
+   "\u2713 higher highs & lows",
+   "\u2717 accumulation (A/D)",
+   "\u2713 RSI healthy (58)",
+   "\u2713 MACD positive"
+  ],
+  "technical_summary": "Uptrend, RSI 58, ADX 17, MACD hist +0.44, vol 0.6x avg, patterns: Doji",
+  "fundamental_summary": "PE n/a, PEG n/a, ROE 0%, D/E n/a, rev growth 0%",
+  "investment_thesis": "Uptrend; price 212.6 vs 50EMA 203.1 / 200EMA 186.3. Fundamentals score 50/100 (ROE 0%, earnings growth 0%). Mixed signals; no edge at current levels.",
+  "key_strengths": [
+   "Uptrend"
+  ],
+  "key_risks": [
+   "Standard market risk"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-08-19T13:26:02.842861+00:00",
+  "sector_relative_strength": 12.3
  },
  {
   "symbol": "AMAT",
@@ -1148,14 +1018,14 @@
    "\u2717 accumulation (A/D)",
    "\u2717 RSI healthy (47)",
    "\u2713 MACD positive",
-   "\u2717 PE 44",
+   "\u2717 PE 46",
    "\u2713 earnings growth 43%",
    "\u2713 revenue growth 25%",
    "\u2713 D/E 26",
    "\u2713 ROE 41%"
   ],
   "technical_summary": "Sideways, RSI 47, ADX 11, MACD hist +1.18, vol 1.0x avg, patterns: Shooting Star",
-  "fundamental_summary": "PE 44.26248, PEG 1.09, ROE 41%, D/E 25.537, rev growth 25%",
+  "fundamental_summary": "PE 46.086918, PEG 1.09, ROE 41%, D/E 25.537, rev growth 25%",
   "investment_thesis": "Sideways; price 514.3 vs 50EMA 528.4 / 200EMA 415.1. Fundamentals score 89/100 (ROE 41%, earnings growth 43%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "High ROE (41%)",
@@ -1166,8 +1036,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.451559+00:00",
-  "sector_relative_strength": 2.0
+  "last_updated": "2026-08-19T13:26:02.296059+00:00",
+  "sector_relative_strength": -6.0
  },
  {
   "symbol": "AMD",
@@ -1210,7 +1080,7 @@
    "\u2717 ROE 10%"
   ],
   "technical_summary": "Sideways, RSI 48, ADX 10, MACD hist +1.86, vol 0.7x avg",
-  "fundamental_summary": "PE 124.20257, PEG 1.1, ROE 10%, D/E 6.361, rev growth 50%",
+  "fundamental_summary": "PE 123.56888, PEG 1.1, ROE 10%, D/E 6.361, rev growth 50%",
   "investment_thesis": "Sideways; price 484.4 vs 50EMA 487.5 / 200EMA 360.9. Fundamentals score 84/100 (ROE 10%, earnings growth 160%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "Strong earnings growth (160%)",
@@ -1220,8 +1090,59 @@
    "Rich valuation (PE 124)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.408091+00:00",
-  "sector_relative_strength": 2.0
+  "last_updated": "2026-08-19T13:26:02.447139+00:00",
+  "sector_relative_strength": -6.0
+ },
+ {
+  "symbol": "AMP",
+  "company_name": "AMP",
+  "sector": "Unknown",
+  "industry": "Unknown",
+  "current_price": 562.12,
+  "technical_score": 80.0,
+  "fundamental_score": 50.0,
+  "momentum_score": 64.2,
+  "quality_score": 50.0,
+  "risk_score": 60.0,
+  "overall_score": 63.1,
+  "recommendation": "HOLD",
+  "target_price": 562.12,
+  "upside_percent": 0.0,
+  "stop_loss": 517.15,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 55.0,
+  "entry_zone_low": 527.49,
+  "entry_zone_high": 568.27,
+  "risk_reward": 0.0,
+  "extension_atr": 1.2,
+  "entry_note": "Price is 1.2 ATRs above 20EMA, RSI 66, 1-month move +7%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 93.2,
+  "data_quality": "1/12",
+  "data_quality_pct": 8,
+  "score_drivers": [
+   "\u2713 price vs 200EMA",
+   "\u2713 price vs 50EMA",
+   "\u2713 50>200 EMA structure",
+   "\u2713 golden cross (recent)",
+   "\u2713 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2713 RSI healthy (66)",
+   "\u2717 MACD positive"
+  ],
+  "technical_summary": "Strong Uptrend, RSI 66, ADX 37, MACD hist -1.35, vol 0.6x avg, patterns: Evening Star",
+  "fundamental_summary": "PE n/a, PEG n/a, ROE 0%, D/E n/a, rev growth 0%",
+  "investment_thesis": "Strong Uptrend; price 562.1 vs 50EMA 520.7 / 200EMA 488.1. Fundamentals score 50/100 (ROE 0%, earnings growth 0%). Mixed signals; no edge at current levels.",
+  "key_strengths": [
+   "Strong Uptrend",
+   "Recent golden cross",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Standard market risk"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-08-19T13:26:02.594063+00:00",
+  "sector_relative_strength": 12.3
  },
  {
   "symbol": "AJG",
@@ -1229,23 +1150,23 @@
   "sector": "Financial Services",
   "industry": "Insurance Brokers",
   "current_price": 248.36,
-  "technical_score": 64.5,
+  "technical_score": 64.1,
   "fundamental_score": 64.0,
-  "momentum_score": 55.0,
+  "momentum_score": 53.3,
   "quality_score": 65.0,
   "risk_score": 68.0,
-  "overall_score": 63.1,
+  "overall_score": 62.7,
   "recommendation": "BUY",
   "target_price": 310.73,
   "upside_percent": 25.1,
-  "stop_loss": 234.4,
+  "stop_loss": 234.94,
   "entry_signal": "ENTER NOW",
   "entry_score": 100,
-  "entry_zone_low": 241.65,
+  "entry_zone_low": 242.2,
   "entry_zone_high": 271.34,
-  "risk_reward": 4.47,
+  "risk_reward": 4.65,
   "extension_atr": -0.3,
-  "entry_note": "Price is -0.3 ATRs above 20EMA, RSI 50, 1-month move -2%, risk-reward 4.5:1 at current price. Entry conditions favorable at current levels.",
+  "entry_note": "Price is -0.3 ATRs above 20EMA, RSI 49, 1-month move +0%, risk-reward 4.6:1 at current price. Entry conditions favorable at current levels.",
   "week52_position": 48.3,
   "data_quality": "12/12",
   "data_quality_pct": 100,
@@ -1256,7 +1177,7 @@
    "\u2713 golden cross (recent)",
    "\u2713 higher highs & lows",
    "\u2713 accumulation (A/D)",
-   "\u2717 RSI healthy (50)",
+   "\u2717 RSI healthy (49)",
    "\u2717 MACD positive",
    "\u2717 PE 41",
    "\u2717 earnings growth -11%",
@@ -1264,9 +1185,9 @@
    "\u2713 D/E 59",
    "\u2717 ROE 7%"
   ],
-  "technical_summary": "Uptrend, RSI 50, ADX 21, MACD hist -1.57, vol 0.6x avg, patterns: Shooting Star",
-  "fundamental_summary": "PE 41.187393, PEG 0.82, ROE 7%, D/E 59.401, rev growth 31%",
-  "investment_thesis": "Uptrend; price 248.4 vs 50EMA 241.6 / 200EMA 240.8. Fundamentals score 64/100 (ROE 7%, earnings growth -11%). Constructive but awaiting fuller confirmation.",
+  "technical_summary": "Uptrend, RSI 49, ADX 20, MACD hist -1.41, vol 0.7x avg, patterns: Shooting Star",
+  "fundamental_summary": "PE 41.119205, PEG 0.82, ROE 7%, D/E 59.401, rev growth 31%",
+  "investment_thesis": "Uptrend; price 248.4 vs 50EMA 242.2 / 200EMA 240.9. Fundamentals score 64/100 (ROE 7%, earnings growth -11%). Constructive but awaiting fuller confirmation.",
   "key_strengths": [
    "Uptrend",
    "Recent golden cross",
@@ -1276,8 +1197,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.075152+00:00",
-  "sector_relative_strength": -9.6
+  "last_updated": "2026-08-19T13:26:01.934170+00:00",
+  "sector_relative_strength": -15.4
  },
  {
   "symbol": "ACN",
@@ -1320,7 +1241,7 @@
    "\u2713 ROE 24%"
   ],
   "technical_summary": "Sideways, RSI 59, ADX 21, MACD hist -0.09, vol 0.7x avg, patterns: Doji",
-  "fundamental_summary": "PE 13.801276, PEG 1.29, ROE 24%, D/E 25.035, rev growth 6%",
+  "fundamental_summary": "PE 13.812299, PEG 1.29, ROE 24%, D/E 25.035, rev growth 6%",
   "investment_thesis": "Sideways; price 172.9 vs 50EMA 161.9 / 200EMA 195.7. Fundamentals score 87/100 (ROE 24%, earnings growth 9%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "High ROE (24%)",
@@ -1331,8 +1252,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:46.105367+00:00",
-  "sector_relative_strength": 2.0
+  "last_updated": "2026-08-19T13:26:00.868612+00:00",
+  "sector_relative_strength": -6.0
  },
  {
   "symbol": "ADBE",
@@ -1375,7 +1296,7 @@
    "\u2713 ROE 63%"
   ],
   "technical_summary": "Sideways, RSI 57, ADX 22, MACD hist -0.45, vol 0.6x avg",
-  "fundamental_summary": "PE 15.053777, PEG 0.64, ROE 63%, D/E 61.443, rev growth 13%",
+  "fundamental_summary": "PE 15.062394, PEG 0.64, ROE 63%, D/E 61.443, rev growth 13%",
   "investment_thesis": "Sideways; price 263.1 vs 50EMA 243.2 / 200EMA 272.2. Fundamentals score 81/100 (ROE 63%, earnings growth 8%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "High ROE (63%)",
@@ -1385,8 +1306,56 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:46.048314+00:00",
-  "sector_relative_strength": 2.0
+  "last_updated": "2026-08-19T13:26:00.945278+00:00",
+  "sector_relative_strength": -6.0
+ },
+ {
+  "symbol": "AME",
+  "company_name": "AME",
+  "sector": "Unknown",
+  "industry": "Unknown",
+  "current_price": 249.99,
+  "technical_score": 73.6,
+  "fundamental_score": 50.0,
+  "momentum_score": 52.7,
+  "quality_score": 50.0,
+  "risk_score": 60.0,
+  "overall_score": 59.2,
+  "recommendation": "HOLD",
+  "target_price": 249.99,
+  "upside_percent": -0.0,
+  "stop_loss": 229.99,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 75.0,
+  "entry_zone_low": 241.31,
+  "entry_zone_high": 259.24,
+  "risk_reward": 0,
+  "extension_atr": 0.2,
+  "entry_note": "Price is 0.2 ATRs above 20EMA, RSI 55, 1-month move +5%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 86.5,
+  "data_quality": "1/12",
+  "data_quality_pct": 8,
+  "score_drivers": [
+   "\u2713 price vs 200EMA",
+   "\u2713 price vs 50EMA",
+   "\u2713 50>200 EMA structure",
+   "\u2713 higher highs & lows",
+   "\u2717 accumulation (A/D)",
+   "\u2713 RSI healthy (55)",
+   "\u2717 MACD positive"
+  ],
+  "technical_summary": "Uptrend, RSI 55, ADX 20, MACD hist -0.05, vol 1.2x avg",
+  "fundamental_summary": "PE n/a, PEG n/a, ROE 0%, D/E n/a, rev growth 0%",
+  "investment_thesis": "Uptrend; price 250.0 vs 50EMA 241.3 / 200EMA 222.9. Fundamentals score 50/100 (ROE 0%, earnings growth 0%). Mixed signals; no edge at current levels.",
+  "key_strengths": [
+   "Uptrend"
+  ],
+  "key_risks": [
+   "Standard market risk"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-08-19T13:26:02.567063+00:00",
+  "sector_relative_strength": 12.3
  },
  {
   "symbol": "ADI",
@@ -1429,7 +1398,7 @@
    "\u2717 ROE 10%"
   ],
   "technical_summary": "Sideways, RSI 47, ADX 14, MACD hist +1.86, vol 0.7x avg, patterns: Evening Star",
-  "fundamental_summary": "PE 56.129658, PEG 0.71, ROE 10%, D/E 25.81, rev growth 37%",
+  "fundamental_summary": "PE 56.213436, PEG 0.69, ROE 10%, D/E 25.81, rev growth 37%",
   "investment_thesis": "Sideways; price 376.6 vs 50EMA 384.8 / 200EMA 345.7. Fundamentals score 89/100 (ROE 10%, earnings growth 110%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "Strong earnings growth (110%)",
@@ -1439,8 +1408,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:46.155500+00:00",
-  "sector_relative_strength": 2.0
+  "last_updated": "2026-08-19T13:26:00.919377+00:00",
+  "sector_relative_strength": -6.0
  },
  {
   "symbol": "AEE",
@@ -1448,9 +1417,9 @@
   "sector": "Utilities",
   "industry": "Utilities - Regulated Electric",
   "current_price": 109.67,
-  "technical_score": 48.6,
+  "technical_score": 49.0,
   "fundamental_score": 53.0,
-  "momentum_score": 52.7,
+  "momentum_score": 51.6,
   "quality_score": 73.0,
   "risk_score": 60.0,
   "overall_score": 53.7,
@@ -1460,11 +1429,11 @@
   "stop_loss": 100.9,
   "entry_signal": "NO ENTRY",
   "entry_score": 75.0,
-  "entry_zone_low": 110.23,
+  "entry_zone_low": 110.27,
   "entry_zone_high": 118.91,
   "risk_reward": 0.0,
-  "extension_atr": -0.0,
-  "entry_note": "Price is -0.0 ATRs above 20EMA, RSI 49, 1-month move -0%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "extension_atr": -0.1,
+  "entry_note": "Price is -0.1 ATRs above 20EMA, RSI 48, 1-month move -3%, risk-reward 0.0:1 at current price. Not a buy candidate.",
   "week52_position": 62.5,
   "data_quality": "12/12",
   "data_quality_pct": 100,
@@ -1474,7 +1443,7 @@
    "\u2713 50>200 EMA structure",
    "\u2713 higher highs & lows",
    "\u2717 accumulation (A/D)",
-   "\u2717 RSI healthy (49)",
+   "\u2717 RSI healthy (48)",
    "\u2713 MACD positive",
    "\u2713 PE 19",
    "\u2713 earnings growth 12%",
@@ -1482,9 +1451,9 @@
    "\u2717 D/E 158",
    "\u2717 ROE 12%"
   ],
-  "technical_summary": "Sideways, RSI 49, ADX 13, MACD hist +0.08, vol 0.8x avg, patterns: Bullish Engulfing",
+  "technical_summary": "Sideways, RSI 48, ADX 14, MACD hist +0.04, vol 0.9x avg, patterns: Bullish Engulfing",
   "fundamental_summary": "PE 19.3081, PEG 2.91, ROE 12%, D/E 157.846, rev growth -6%",
-  "investment_thesis": "Sideways; price 109.7 vs 50EMA 110.2 / 200EMA 106.8. Fundamentals score 53/100 (ROE 12%, earnings growth 12%). Mixed signals; no edge at current levels.",
+  "investment_thesis": "Sideways; price 109.7 vs 50EMA 110.3 / 200EMA 106.7. Fundamentals score 53/100 (ROE 12%, earnings growth 12%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "None notable"
   ],
@@ -1492,8 +1461,8 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:46.649700+00:00",
-  "sector_relative_strength": -4.0
+  "last_updated": "2026-08-19T13:26:01.407690+00:00",
+  "sector_relative_strength": -6.5
  },
  {
   "symbol": "ALB",
@@ -1549,58 +1518,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.112445+00:00",
-  "sector_relative_strength": 9.2
- },
- {
-  "symbol": "AON",
-  "company_name": "AON",
-  "sector": "Unknown",
-  "industry": "Unknown",
-  "current_price": 343.2,
-  "technical_score": 61.8,
-  "fundamental_score": 50.0,
-  "momentum_score": 24.7,
-  "quality_score": 50.0,
-  "risk_score": 60.0,
-  "overall_score": 50.8,
-  "recommendation": "HOLD",
-  "target_price": 343.2,
-  "upside_percent": -0.0,
-  "stop_loss": 315.74,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 75.0,
-  "entry_zone_low": 349.1,
-  "entry_zone_high": 383.38,
-  "risk_reward": 0,
-  "extension_atr": -1.4,
-  "entry_note": "Price is -1.4 ATRs above 20EMA, RSI 40, 1-month move -4%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 51.2,
-  "data_quality": "1/12",
-  "data_quality_pct": 8,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2717 price vs 50EMA",
-   "\u2713 50>200 EMA structure",
-   "\u2713 golden cross (recent)",
-   "\u2713 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2717 RSI healthy (40)",
-   "\u2717 MACD positive"
-  ],
-  "technical_summary": "Sideways, RSI 40, ADX 19, MACD hist -2.77, vol 0.5x avg, patterns: Doji",
-  "fundamental_summary": "PE n/a, PEG n/a, ROE 0%, D/E n/a, rev growth 0%",
-  "investment_thesis": "Sideways; price 343.2 vs 50EMA 349.1 / 200EMA 340.5. Fundamentals score 50/100 (ROE 0%, earnings growth 0%). Mixed signals; no edge at current levels.",
-  "key_strengths": [
-   "Recent golden cross",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Standard market risk"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.830409+00:00",
-  "sector_relative_strength": -10.7
+  "last_updated": "2026-08-19T13:26:01.983508+00:00",
+  "sector_relative_strength": 7.1
  },
  {
   "symbol": "ALGN",
@@ -1636,14 +1555,14 @@
    "\u2713 accumulation (A/D)",
    "\u2717 RSI healthy (44)",
    "\u2717 MACD positive",
-   "\u2713 PE 29",
+   "\u2713 PE 30",
    "\u2717 earnings growth -12%",
    "\u2717 revenue growth 4%",
    "\u2713 D/E 3",
    "\u2717 ROE 10%"
   ],
   "technical_summary": "Sideways, RSI 44, ADX 10, MACD hist -0.28, vol 0.8x avg",
-  "fundamental_summary": "PE 29.100521, PEG 0.86, ROE 10%, D/E 2.855, rev growth 4%",
+  "fundamental_summary": "PE 29.666079, PEG 0.86, ROE 10%, D/E 2.855, rev growth 4%",
   "investment_thesis": "Sideways; price 167.9 vs 50EMA 174.3 / 200EMA 171.8. Fundamentals score 74/100 (ROE 10%, earnings growth -12%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "Low debt",
@@ -1653,12 +1572,12 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.066411+00:00",
-  "sector_relative_strength": 10.0
+  "last_updated": "2026-08-19T13:26:02.017224+00:00",
+  "sector_relative_strength": 5.1
  },
  {
   "symbol": "AIG",
-  "company_name": "American International Group, Inc.",
+  "company_name": "American International Group, I",
   "sector": "Financial Services",
   "industry": "Insurance - Diversified",
   "current_price": 76.12,
@@ -1697,8 +1616,8 @@
    "\u2713 D/E 22",
    "\u2717 ROE 7%"
   ],
-  "technical_summary": "Sideways, RSI 41, ADX 14, MACD hist -0.45, vol 0.6x avg, patterns: Shooting Star",
-  "fundamental_summary": "PE 13.8905115, PEG 0.63, ROE 7%, D/E 22.466, rev growth 0%",
+  "technical_summary": "Sideways, RSI 41, ADX 14, MACD hist -0.45, vol 0.7x avg, patterns: Shooting Star",
+  "fundamental_summary": "PE 13.84, PEG 0.63, ROE 7%, D/E 22.466, rev growth 0%",
   "investment_thesis": "Sideways; price 76.1 vs 50EMA 77.6 / 200EMA 77.0. Fundamentals score 73/100 (ROE 7%, earnings growth -10%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "Low debt",
@@ -1708,8 +1627,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:46.661921+00:00",
-  "sector_relative_strength": -9.6
+  "last_updated": "2026-08-19T13:26:01.744951+00:00",
+  "sector_relative_strength": -15.4
  },
  {
   "symbol": "AEP",
@@ -1762,62 +1681,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:46.627446+00:00",
-  "sector_relative_strength": -4.0
- },
- {
-  "symbol": "AKAM",
-  "company_name": "Akamai Technologies, Inc.",
-  "sector": "Technology",
-  "industry": "Software - Infrastructure",
-  "current_price": 115.2,
-  "technical_score": 27.8,
-  "fundamental_score": 51.0,
-  "momentum_score": 41.5,
-  "quality_score": 55.0,
-  "risk_score": 60.0,
-  "overall_score": 42.3,
-  "recommendation": "AVOID",
-  "target_price": 115.2,
-  "upside_percent": 0.0,
-  "stop_loss": 105.98,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 80.0,
-  "entry_zone_low": 121.33,
-  "entry_zone_high": 165.62,
-  "risk_reward": 0.0,
-  "extension_atr": -0.7,
-  "entry_note": "Price is -0.7 ATRs above 20EMA, RSI 45, 1-month move -4%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 46.9,
-  "data_quality": "12/12",
-  "data_quality_pct": 100,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2717 price vs 50EMA",
-   "\u2713 50>200 EMA structure",
-   "\u2717 higher highs & lows",
-   "\u2717 accumulation (A/D)",
-   "\u2717 RSI healthy (45)",
-   "\u2713 MACD positive",
-   "\u2717 PE 42",
-   "\u2717 earnings growth -27%",
-   "\u2717 revenue growth 5%",
-   "\u2717 D/E 197",
-   "\u2717 ROE 9%"
-  ],
-  "technical_summary": "Sideways, RSI 45, ADX 16, MACD hist +0.69, vol 0.7x avg",
-  "fundamental_summary": "PE 41.890907, PEG 1.48, ROE 9%, D/E 196.672, rev growth 5%",
-  "investment_thesis": "Sideways; price 115.2 vs 50EMA 121.3 / 200EMA 110.7. Fundamentals score 51/100 (ROE 9%, earnings growth -27%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
-  "key_strengths": [
-   "None notable"
-  ],
-  "key_risks": [
-   "Elevated leverage",
-   "Declining earnings"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.185982+00:00",
-  "sector_relative_strength": 2.0
+  "last_updated": "2026-08-19T13:26:01.523281+00:00",
+  "sector_relative_strength": -6.5
  },
  {
   "symbol": "AMT",
@@ -1837,11 +1702,11 @@
   "stop_loss": 158.54,
   "entry_signal": "NO ENTRY",
   "entry_score": 75.0,
-  "entry_zone_low": 172.71,
+  "entry_zone_low": 172.57,
   "entry_zone_high": 195.2,
   "risk_reward": 0,
   "extension_atr": 0.1,
-  "entry_note": "Price is 0.1 ATRs above 20EMA, RSI 51, 1-month move +3%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "entry_note": "Price is 0.1 ATRs above 20EMA, RSI 51, 1-month move +5%, risk-reward 0.0:1 at current price. Not a buy candidate.",
   "week52_position": 26.3,
   "data_quality": "1/12",
   "data_quality_pct": 8,
@@ -1854,9 +1719,9 @@
    "\u2713 RSI healthy (51)",
    "\u2713 MACD positive"
   ],
-  "technical_summary": "Downtrend, RSI 51, ADX 17, MACD hist +0.35, vol 0.6x avg",
+  "technical_summary": "Downtrend, RSI 51, ADX 17, MACD hist +0.34, vol 0.6x avg",
   "fundamental_summary": "PE n/a, PEG n/a, ROE 0%, D/E n/a, rev growth 0%",
-  "investment_thesis": "Downtrend; price 172.3 vs 50EMA 172.7 / 200EMA 177.9. Fundamentals score 50/100 (ROE 0%, earnings growth 0%). Mixed signals; no edge at current levels.",
+  "investment_thesis": "Downtrend; price 172.3 vs 50EMA 172.6 / 200EMA 177.8. Fundamentals score 50/100 (ROE 0%, earnings growth 0%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "None notable"
   ],
@@ -1864,55 +1729,55 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.824906+00:00",
-  "sector_relative_strength": -10.7
+  "last_updated": "2026-08-19T13:26:02.575743+00:00",
+  "sector_relative_strength": 12.3
  },
  {
-  "symbol": "AOS",
-  "company_name": "AOS",
+  "symbol": "AKAM",
+  "company_name": "AKAM",
   "sector": "Unknown",
   "industry": "Unknown",
-  "current_price": 60.86,
-  "technical_score": 26.0,
+  "current_price": 115.2,
+  "technical_score": 23.8,
   "fundamental_score": 50.0,
-  "momentum_score": 35.6,
+  "momentum_score": 42.7,
   "quality_score": 50.0,
   "risk_score": 60.0,
-  "overall_score": 39.9,
+  "overall_score": 40.2,
   "recommendation": "HOLD",
-  "target_price": 60.86,
-  "upside_percent": -0.0,
-  "stop_loss": 55.99,
+  "target_price": 115.2,
+  "upside_percent": 0.0,
+  "stop_loss": 105.98,
   "entry_signal": "NO ENTRY",
   "entry_score": 75.0,
-  "entry_zone_low": 61.05,
-  "entry_zone_high": 64.7,
-  "risk_reward": 0,
-  "extension_atr": -0.5,
-  "entry_note": "Price is -0.5 ATRs above 20EMA, RSI 48, 1-month move +1%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 25.9,
+  "entry_zone_low": 121.16,
+  "entry_zone_high": 165.62,
+  "risk_reward": 0.0,
+  "extension_atr": -0.7,
+  "entry_note": "Price is -0.7 ATRs above 20EMA, RSI 45, 1-month move -8%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 46.9,
   "data_quality": "1/12",
   "data_quality_pct": 8,
   "score_drivers": [
-   "\u2717 price vs 200EMA",
+   "\u2713 price vs 200EMA",
    "\u2717 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
-   "\u2713 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2717 RSI healthy (48)",
-   "\u2717 MACD positive"
+   "\u2713 50>200 EMA structure",
+   "\u2717 higher highs & lows",
+   "\u2717 accumulation (A/D)",
+   "\u2717 RSI healthy (45)",
+   "\u2713 MACD positive"
   ],
-  "technical_summary": "Downtrend, RSI 48, ADX 14, MACD hist -0.21, vol 0.6x avg",
+  "technical_summary": "Sideways, RSI 45, ADX 16, MACD hist +0.66, vol 0.8x avg",
   "fundamental_summary": "PE n/a, PEG n/a, ROE 0%, D/E n/a, rev growth 0%",
-  "investment_thesis": "Downtrend; price 60.9 vs 50EMA 61.1 / 200EMA 63.8. Fundamentals score 50/100 (ROE 0%, earnings growth 0%). Mixed signals; no edge at current levels.",
+  "investment_thesis": "Sideways; price 115.2 vs 50EMA 121.2 / 200EMA 110.8. Fundamentals score 50/100 (ROE 0%, earnings growth 0%). Mixed signals; no edge at current levels.",
   "key_strengths": [
-   "Accumulation pattern (A/D rising)"
+   "None notable"
   ],
   "key_risks": [
-   "Bearish trend structure"
+   "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-08-18T21:44:47.838081+00:00",
-  "sector_relative_strength": -10.7
+  "last_updated": "2026-08-19T13:26:02.575067+00:00",
+  "sector_relative_strength": 12.3
  }
 ]
