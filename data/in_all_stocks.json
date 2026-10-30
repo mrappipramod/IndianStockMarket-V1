@@ -54,7 +54,7 @@
    "Standard market risk"
   ],
   "is_breakout": true,
-  "last_updated": "2026-10-29T18:36:30.535204+00:00",
+  "last_updated": "2026-10-30T01:11:17.927817+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -111,7 +111,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:21.582512+00:00",
+  "last_updated": "2026-10-30T01:11:07.521599+00:00",
   "sector_relative_strength": 5.7
  },
  {
@@ -169,7 +169,7 @@
    "Rich valuation (PE 74)"
   ],
   "is_breakout": true,
-  "last_updated": "2026-10-29T18:36:15.226615+00:00",
+  "last_updated": "2026-10-30T01:10:59.924762+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -227,7 +227,7 @@
    "Rich valuation (PE 73)"
   ],
   "is_breakout": true,
-  "last_updated": "2026-10-29T18:36:43.767370+00:00",
+  "last_updated": "2026-10-30T01:11:33.648564+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -282,7 +282,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:26.670178+00:00",
+  "last_updated": "2026-10-30T01:11:13.331603+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -339,7 +339,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:41.070063+00:00",
+  "last_updated": "2026-10-30T01:11:30.461221+00:00",
   "sector_relative_strength": 17.0
  },
  {
@@ -396,7 +396,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:42.299996+00:00",
+  "last_updated": "2026-10-30T01:11:31.817327+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -453,7 +453,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:45.693506+00:00",
+  "last_updated": "2026-10-30T01:11:35.916809+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -509,7 +509,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:22.962709+00:00",
+  "last_updated": "2026-10-30T01:11:09.318735+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -564,7 +564,7 @@
    "Rich valuation (PE 88)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:23.956491+00:00",
+  "last_updated": "2026-10-30T01:11:10.299865+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -602,14 +602,14 @@
    "\u2713 accumulation (A/D)",
    "\u2713 RSI healthy (53)",
    "\u2713 MACD positive",
-   "\u2717 PE 47",
+   "\u2717 PE 48",
    "\u2713 earnings growth 25%",
    "\u2713 revenue growth 34%",
    "\u2713 D/E 17",
    "\u2713 ROE 25%"
   ],
   "technical_summary": "Uptrend, RSI 53, ADX 23, MACD hist +2.31, vol 1.7x avg, patterns: Bullish Engulfing, Bullish Marubozu",
-  "fundamental_summary": "PE 46.543682, PEG n/a, ROE 25%, D/E 16.771, rev growth 34%",
+  "fundamental_summary": "PE 47.582916, PEG n/a, ROE 25%, D/E 16.771, rev growth 34%",
   "investment_thesis": "Uptrend; price 2165.3 vs 50EMA 2111.0 / 200EMA 1980.5. Fundamentals score 81/100 (ROE 25%, earnings growth 25%). Both pillars aligned \u2014 institutional-quality setup.",
   "key_strengths": [
    "High ROE (25%)",
@@ -622,7 +622,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:16.697402+00:00",
+  "last_updated": "2026-10-30T01:11:01.740531+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -676,7 +676,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:31.416437+00:00",
+  "last_updated": "2026-10-30T01:11:19.134038+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -732,7 +732,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:22.195518+00:00",
+  "last_updated": "2026-10-30T01:11:08.387637+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -787,7 +787,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:34.203967+00:00",
+  "last_updated": "2026-10-30T01:11:22.144531+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -831,7 +831,7 @@
    "\u2713 D/E 1"
   ],
   "technical_summary": "Strong Uptrend, RSI 60, ADX 45, MACD hist -6.21, vol 0.7x avg, patterns: Morning Star",
-  "fundamental_summary": "PE 15.960351, PEG n/a, ROE 0%, D/E 0.837, rev growth 13%",
+  "fundamental_summary": "PE 15.866394, PEG n/a, ROE 0%, D/E 0.837, rev growth 13%",
   "investment_thesis": "Strong Uptrend; price 630.8 vs 50EMA 557.8 / 200EMA 539.8. Fundamentals score 83/100 (ROE 0%, earnings growth 17%). Both pillars aligned \u2014 institutional-quality setup.",
   "key_strengths": [
    "Strong earnings growth (17%)",
@@ -844,7 +844,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.282658+00:00",
+  "last_updated": "2026-10-30T01:11:34.266001+00:00",
   "sector_relative_strength": 17.0
  },
  {
@@ -899,7 +899,7 @@
    "Rich valuation (PE 111)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:34.531978+00:00",
+  "last_updated": "2026-10-30T01:11:22.675669+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -937,14 +937,14 @@
    "\u2713 accumulation (A/D)",
    "\u2713 RSI healthy (57)",
    "\u2713 MACD positive",
-   "\u2713 PE 17",
+   "\u2713 PE 19",
    "\u2713 earnings growth 42%",
    "\u2713 revenue growth 24%",
    "\u2713 D/E 6",
    "\u2713 ROE 27%"
   ],
   "technical_summary": "Uptrend, RSI 57, ADX 23, MACD hist +33.68, vol 0.9x avg",
-  "fundamental_summary": "PE 17.036543, PEG n/a, ROE 27%, D/E 6.007, rev growth 24%",
+  "fundamental_summary": "PE 18.762865, PEG n/a, ROE 27%, D/E 6.007, rev growth 24%",
   "investment_thesis": "Uptrend; price 5322.5 vs 50EMA 5221.8 / 200EMA 5173.3. Fundamentals score 100/100 (ROE 27%, earnings growth 42%). Constructive but awaiting fuller confirmation.",
   "key_strengths": [
    "High ROE (27%)",
@@ -957,7 +957,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:28.794369+00:00",
+  "last_updated": "2026-10-30T01:11:15.836317+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -1015,7 +1015,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:36.856891+00:00",
+  "last_updated": "2026-10-30T01:11:25.308055+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -1070,7 +1070,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:26.842174+00:00",
+  "last_updated": "2026-10-30T01:11:13.658235+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -1122,7 +1122,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.076912+00:00",
+  "last_updated": "2026-10-30T01:11:25.539585+00:00",
   "sector_relative_strength": 5.7
  },
  {
@@ -1177,7 +1177,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:43.310748+00:00",
+  "last_updated": "2026-10-30T01:11:33.051044+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -1230,7 +1230,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:17.351095+00:00",
+  "last_updated": "2026-10-30T01:11:02.754835+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -1287,7 +1287,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:23.318229+00:00",
+  "last_updated": "2026-10-30T01:11:09.558547+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -1342,7 +1342,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:47.284718+00:00",
+  "last_updated": "2026-10-30T01:11:37.891664+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -1397,7 +1397,7 @@
    "Rich valuation (PE 184)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:34.580587+00:00",
+  "last_updated": "2026-10-30T01:11:22.656337+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -1451,7 +1451,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:26.172831+00:00",
+  "last_updated": "2026-10-30T01:11:12.480163+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -1506,7 +1506,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:22.914688+00:00",
+  "last_updated": "2026-10-30T01:11:09.057362+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -1561,7 +1561,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:29.970067+00:00",
+  "last_updated": "2026-10-30T01:11:16.970568+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -1619,7 +1619,7 @@
    "Death cross"
   ],
   "is_breakout": true,
-  "last_updated": "2026-10-29T18:36:30.297418+00:00",
+  "last_updated": "2026-10-30T01:11:17.602778+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -1662,7 +1662,7 @@
    "\u2713 D/E 21"
   ],
   "technical_summary": "Uptrend, RSI 49, ADX 24, MACD hist -5.33, vol 1.0x avg",
-  "fundamental_summary": "PE 25.935938, PEG n/a, ROE 0%, D/E 21.31, rev growth 16%",
+  "fundamental_summary": "PE 26.210327, PEG n/a, ROE 0%, D/E 21.31, rev growth 16%",
   "investment_thesis": "Uptrend; price 1644.8 vs 50EMA 1643.6 / 200EMA 1492.7. Fundamentals score 89/100 (ROE 0%, earnings growth 26%). Constructive but awaiting fuller confirmation.",
   "key_strengths": [
    "Strong earnings growth (26%)",
@@ -1674,7 +1674,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:17.618196+00:00",
+  "last_updated": "2026-10-30T01:11:02.772214+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -1730,7 +1730,7 @@
    "Rich valuation (PE 295)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:41.042841+00:00",
+  "last_updated": "2026-10-30T01:11:30.268155+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -1787,7 +1787,7 @@
    "Rich valuation (PE 63)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.105452+00:00",
+  "last_updated": "2026-10-30T01:11:34.096150+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -1843,7 +1843,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:35.414790+00:00",
+  "last_updated": "2026-10-30T01:11:23.548123+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -1900,7 +1900,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:34.390810+00:00",
+  "last_updated": "2026-10-30T01:11:22.432872+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -1955,7 +1955,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:35.775847+00:00",
+  "last_updated": "2026-10-30T01:11:24.128970+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -2009,7 +2009,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:33.805404+00:00",
+  "last_updated": "2026-10-30T01:11:21.666797+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -2064,7 +2064,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:36.672032+00:00",
+  "last_updated": "2026-10-30T01:11:25.119847+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -2118,7 +2118,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:49.120461+00:00",
+  "last_updated": "2026-10-30T01:11:40.118413+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -2175,7 +2175,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:16.302793+00:00",
+  "last_updated": "2026-10-30T01:11:01.317361+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -2229,7 +2229,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:18.010062+00:00",
+  "last_updated": "2026-10-30T01:11:03.323849+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -2285,7 +2285,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:40.379818+00:00",
+  "last_updated": "2026-10-30T01:11:29.357105+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -2340,8 +2340,63 @@
    "Rich valuation (PE 82)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:42.535807+00:00",
+  "last_updated": "2026-10-30T01:11:32.126250+00:00",
   "sector_relative_strength": 7.2
+ },
+ {
+  "symbol": "TCS",
+  "company_name": "Tata Consultancy Services Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 2460.0,
+  "technical_score": 53.7,
+  "fundamental_score": 86.0,
+  "momentum_score": 67.6,
+  "quality_score": 100,
+  "risk_score": 92.0,
+  "overall_score": 73.6,
+  "recommendation": "HOLD",
+  "target_price": 2460.0,
+  "upside_percent": 0.0,
+  "stop_loss": 2263.2,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 65.0,
+  "entry_zone_low": 2308.46,
+  "entry_zone_high": 2545.97,
+  "risk_reward": 0,
+  "extension_atr": 1.5,
+  "entry_note": "Price is 1.5 ATRs above 20EMA, RSI 65, 1-month move +19%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 38.4,
+  "data_quality": "12/12",
+  "data_quality_pct": 100,
+  "score_drivers": [
+   "\u2713 price vs 200EMA",
+   "\u2713 price vs 50EMA",
+   "\u2717 50>200 EMA structure",
+   "\u2717 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2713 RSI healthy (65)",
+   "\u2713 MACD positive",
+   "\u2713 PE 17",
+   "\u2713 earnings growth 15%",
+   "\u2713 revenue growth 11%",
+   "\u2713 D/E 10",
+   "\u2713 ROE 46%"
+  ],
+  "technical_summary": "Sideways, RSI 65, ADX 39, MACD hist +27.97, vol 1.1x avg, patterns: Hammer",
+  "fundamental_summary": "PE 17.36997, PEG 3.34, ROE 46%, D/E 9.83, rev growth 11%",
+  "investment_thesis": "Sideways; price 2460.0 vs 50EMA 2277.8 / 200EMA 2422.2. Fundamentals score 86/100 (ROE 46%, earnings growth 15%). Mixed signals; no edge at current levels.",
+  "key_strengths": [
+   "High ROE (46%)",
+   "Low debt",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Standard market risk"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-10-30T01:11:35.823552+00:00",
+  "sector_relative_strength": 16.0
  },
  {
   "symbol": "WELCORP",
@@ -2394,7 +2449,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:48.274727+00:00",
+  "last_updated": "2026-10-30T01:11:39.067848+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -2449,63 +2504,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.071739+00:00",
+  "last_updated": "2026-10-30T01:11:04.652000+00:00",
   "sector_relative_strength": -8.7
- },
- {
-  "symbol": "TCS",
-  "company_name": "Tata Consultancy Services Limited",
-  "sector": "Technology",
-  "industry": "Information Technology Services",
-  "current_price": 2460.0,
-  "technical_score": 53.7,
-  "fundamental_score": 86.0,
-  "momentum_score": 67.6,
-  "quality_score": 100,
-  "risk_score": 80.0,
-  "overall_score": 73.0,
-  "recommendation": "HOLD",
-  "target_price": 2460.0,
-  "upside_percent": 0.0,
-  "stop_loss": 2263.2,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 65.0,
-  "entry_zone_low": 2308.46,
-  "entry_zone_high": 2545.97,
-  "risk_reward": 0,
-  "extension_atr": 1.5,
-  "entry_note": "Price is 1.5 ATRs above 20EMA, RSI 65, 1-month move +19%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 38.4,
-  "data_quality": "12/12",
-  "data_quality_pct": 100,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2713 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
-   "\u2717 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2713 RSI healthy (65)",
-   "\u2713 MACD positive",
-   "\u2713 PE 17",
-   "\u2713 earnings growth 15%",
-   "\u2713 revenue growth 11%",
-   "\u2713 D/E 10",
-   "\u2713 ROE 46%"
-  ],
-  "technical_summary": "Sideways, RSI 65, ADX 39, MACD hist +27.97, vol 1.1x avg, patterns: Hammer",
-  "fundamental_summary": "PE 17.36997, PEG 3.39, ROE 46%, D/E 9.83, rev growth 11%",
-  "investment_thesis": "Sideways; price 2460.0 vs 50EMA 2277.8 / 200EMA 2422.2. Fundamentals score 86/100 (ROE 46%, earnings growth 15%). Mixed signals; no edge at current levels.",
-  "key_strengths": [
-   "High ROE (46%)",
-   "Low debt",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Standard market risk"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:45.519753+00:00",
-  "sector_relative_strength": 16.0
  },
  {
   "symbol": "EMCURE",
@@ -2559,7 +2559,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:25.233774+00:00",
+  "last_updated": "2026-10-30T01:11:11.589540+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -2613,7 +2613,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:15.974929+00:00",
+  "last_updated": "2026-10-30T01:11:00.825550+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -2668,7 +2668,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:28.301749+00:00",
+  "last_updated": "2026-10-30T01:11:15.217354+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -2723,7 +2723,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:33.008648+00:00",
+  "last_updated": "2026-10-30T01:11:21.076237+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -2777,7 +2777,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:28.028766+00:00",
+  "last_updated": "2026-10-30T01:11:15.071479+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -2831,7 +2831,7 @@
    "Standard market risk"
   ],
   "is_breakout": true,
-  "last_updated": "2026-10-29T18:36:40.714309+00:00",
+  "last_updated": "2026-10-30T01:11:30.094562+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -2885,7 +2885,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:27.580435+00:00",
+  "last_updated": "2026-10-30T01:11:14.325384+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -2940,7 +2940,7 @@
    "Rich valuation (PE 637)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:25.551932+00:00",
+  "last_updated": "2026-10-30T01:11:12.100222+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -2995,7 +2995,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.589007+00:00",
+  "last_updated": "2026-10-30T01:11:26.142477+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -3048,7 +3048,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:27.107788+00:00",
+  "last_updated": "2026-10-30T01:11:13.759117+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -3102,7 +3102,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:41.120814+00:00",
+  "last_updated": "2026-10-30T01:11:30.225051+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -3156,7 +3156,7 @@
    "Rich valuation (PE 397)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:38.667164+00:00",
+  "last_updated": "2026-10-30T01:11:27.608982+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -3211,7 +3211,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:20.228038+00:00",
+  "last_updated": "2026-10-30T01:11:06.082937+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -3267,7 +3267,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:28.262699+00:00",
+  "last_updated": "2026-10-30T01:11:15.124501+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -3325,8 +3325,63 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.602412+00:00",
+  "last_updated": "2026-10-30T01:11:28.706745+00:00",
   "sector_relative_strength": 16.0
+ },
+ {
+  "symbol": "MCX",
+  "company_name": "Multi Commodity Exchange of India Limited",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "current_price": 3180.6,
+  "technical_score": 73.7,
+  "fundamental_score": 74.0,
+  "momentum_score": 45.0,
+  "quality_score": 73.0,
+  "risk_score": 92.0,
+  "overall_score": 70.3,
+  "recommendation": "BUY",
+  "target_price": 3551.03,
+  "upside_percent": 11.6,
+  "stop_loss": 3074.96,
+  "entry_signal": "ENTER NOW",
+  "entry_score": 100,
+  "entry_zone_low": 3170.06,
+  "entry_zone_high": 3498.81,
+  "risk_reward": 3.51,
+  "extension_atr": -0.1,
+  "entry_note": "Price is -0.1 ATRs above 20EMA, RSI 49, 1-month move -3%, risk-reward 3.5:1 at current price. Entry conditions favorable at current levels.",
+  "week52_position": 82.5,
+  "data_quality": "8/12",
+  "data_quality_pct": 67,
+  "score_drivers": [
+   "\u2713 price vs 200EMA",
+   "\u2713 price vs 50EMA",
+   "\u2713 50>200 EMA structure",
+   "\u2713 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2717 RSI healthy (49)",
+   "\u2717 MACD positive",
+   "\u2717 PE 67",
+   "\u2713 earnings growth 103%",
+   "\u2713 revenue growth 85%",
+   "\u2713 D/E 0"
+  ],
+  "technical_summary": "Uptrend, RSI 49, ADX 19, MACD hist -13.97, vol 0.6x avg, patterns: Bullish Engulfing",
+  "fundamental_summary": "PE 67.4812, PEG n/a, ROE 0%, D/E 0.113, rev growth 85%",
+  "investment_thesis": "Uptrend; price 3180.6 vs 50EMA 3170.1 / 200EMA 2801.7. Fundamentals score 74/100 (ROE 0%, earnings growth 103%). Constructive but awaiting fuller confirmation.",
+  "key_strengths": [
+   "Strong earnings growth (103%)",
+   "Low debt",
+   "Uptrend",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Rich valuation (PE 67)"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-10-30T01:11:24.693170+00:00",
+  "sector_relative_strength": -10.9
  },
  {
   "symbol": "DLF",
@@ -3382,7 +3437,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:24.323294+00:00",
+  "last_updated": "2026-10-30T01:11:10.413460+00:00",
   "sector_relative_strength": -2.8
  },
  {
@@ -3434,7 +3489,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:43.257216+00:00",
+  "last_updated": "2026-10-30T01:11:32.920190+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -3490,63 +3545,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:24.535232+00:00",
+  "last_updated": "2026-10-30T01:11:10.879845+00:00",
   "sector_relative_strength": 16.0
- },
- {
-  "symbol": "MCX",
-  "company_name": "Multi Commodity Exchange of India Limited",
-  "sector": "Financial Services",
-  "industry": "Financial Data & Stock Exchanges",
-  "current_price": 3180.6,
-  "technical_score": 73.7,
-  "fundamental_score": 74.0,
-  "momentum_score": 45.0,
-  "quality_score": 73.0,
-  "risk_score": 80.0,
-  "overall_score": 69.7,
-  "recommendation": "BUY",
-  "target_price": 3551.03,
-  "upside_percent": 11.6,
-  "stop_loss": 3074.96,
-  "entry_signal": "ENTER NOW",
-  "entry_score": 100,
-  "entry_zone_low": 3170.06,
-  "entry_zone_high": 3498.81,
-  "risk_reward": 3.51,
-  "extension_atr": -0.1,
-  "entry_note": "Price is -0.1 ATRs above 20EMA, RSI 49, 1-month move -3%, risk-reward 3.5:1 at current price. Entry conditions favorable at current levels.",
-  "week52_position": 82.5,
-  "data_quality": "8/12",
-  "data_quality_pct": 67,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2713 price vs 50EMA",
-   "\u2713 50>200 EMA structure",
-   "\u2713 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2717 RSI healthy (49)",
-   "\u2717 MACD positive",
-   "\u2717 PE 67",
-   "\u2713 earnings growth 103%",
-   "\u2713 revenue growth 85%",
-   "\u2713 D/E 0"
-  ],
-  "technical_summary": "Uptrend, RSI 49, ADX 19, MACD hist -13.97, vol 0.6x avg, patterns: Bullish Engulfing",
-  "fundamental_summary": "PE 67.4812, PEG n/a, ROE 0%, D/E 0.113, rev growth 85%",
-  "investment_thesis": "Uptrend; price 3180.6 vs 50EMA 3170.1 / 200EMA 2801.7. Fundamentals score 74/100 (ROE 0%, earnings growth 103%). Constructive but awaiting fuller confirmation.",
-  "key_strengths": [
-   "Strong earnings growth (103%)",
-   "Low debt",
-   "Uptrend",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Rich valuation (PE 67)"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:36.269036+00:00",
-  "sector_relative_strength": -10.9
  },
  {
   "symbol": "VIJAYA",
@@ -3600,7 +3600,7 @@
    "Rich valuation (PE 80)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:47.835965+00:00",
+  "last_updated": "2026-10-30T01:11:38.752710+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -3656,7 +3656,7 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.492819+00:00",
+  "last_updated": "2026-10-30T01:11:04.998010+00:00",
   "sector_relative_strength": 17.0
  },
  {
@@ -3711,7 +3711,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:34.574905+00:00",
+  "last_updated": "2026-10-30T01:11:22.573869+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -3765,7 +3765,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:32.009741+00:00",
+  "last_updated": "2026-10-30T01:11:19.703458+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -3819,7 +3819,7 @@
    "Rich valuation (PE 88)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:42.537047+00:00",
+  "last_updated": "2026-10-30T01:11:31.942834+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -3873,7 +3873,7 @@
    "Rich valuation (PE 97)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:22.865228+00:00",
+  "last_updated": "2026-10-30T01:11:08.895975+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -3930,7 +3930,7 @@
    "Rich valuation (PE 63)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:34.735174+00:00",
+  "last_updated": "2026-10-30T01:11:22.837779+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -3984,7 +3984,61 @@
    "Rich valuation (PE 73)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:48.269233+00:00",
+  "last_updated": "2026-10-30T01:11:39.223535+00:00",
+  "sector_relative_strength": 7.2
+ },
+ {
+  "symbol": "BOSCHLTD",
+  "company_name": "Bosch Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 47625.0,
+  "technical_score": 73.4,
+  "fundamental_score": 54.0,
+  "momentum_score": 85,
+  "quality_score": 68.0,
+  "risk_score": 92.0,
+  "overall_score": 68.7,
+  "recommendation": "AVOID",
+  "target_price": 47625.0,
+  "upside_percent": 0.0,
+  "stop_loss": 43815.0,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 60.0,
+  "entry_zone_low": 45449.28,
+  "entry_zone_high": 50250.0,
+  "risk_reward": 0,
+  "extension_atr": 1.8,
+  "entry_note": "Price is 1.8 ATRs above 20EMA, RSI 61, 1-month move +1%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 89.0,
+  "data_quality": "8/12",
+  "data_quality_pct": 67,
+  "score_drivers": [
+   "\u2713 price vs 200EMA",
+   "\u2713 price vs 50EMA",
+   "\u2713 50>200 EMA structure",
+   "\u2717 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2713 RSI healthy (61)",
+   "\u2713 MACD positive",
+   "\u2717 PE 59",
+   "\u2717 earnings growth -37%",
+   "\u2713 revenue growth 22%",
+   "\u2713 D/E 1"
+  ],
+  "technical_summary": "Strong Uptrend, RSI 61, ADX 26, MACD hist +267.71, vol 0.6x avg, patterns: Bullish Engulfing, Bullish Marubozu",
+  "fundamental_summary": "PE 59.364235, PEG n/a, ROE 0%, D/E 0.8, rev growth 22%",
+  "investment_thesis": "Strong Uptrend; price 47625.0 vs 50EMA 45449.3 / 200EMA 41237.1. Fundamentals score 54/100 (ROE 0%, earnings growth -37%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
+  "key_strengths": [
+   "Low debt",
+   "Strong Uptrend",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Declining earnings"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-10-30T01:11:05.592913+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -4041,7 +4095,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:28.813937+00:00",
+  "last_updated": "2026-10-30T01:11:15.748142+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -4084,7 +4138,7 @@
    "\u2713 D/E 11"
   ],
   "technical_summary": "Uptrend, RSI 57, ADX 15, MACD hist +4.53, vol 0.4x avg",
-  "fundamental_summary": "PE 74.86276, PEG n/a, ROE 0%, D/E 10.642, rev growth 30%",
+  "fundamental_summary": "PE 74.82401, PEG n/a, ROE 0%, D/E 10.642, rev growth 30%",
   "investment_thesis": "Uptrend; price 1449.0 vs 50EMA 1377.2 / 200EMA 1216.2. Fundamentals score 74/100 (ROE 0%, earnings growth 41%). Constructive but awaiting fuller confirmation.",
   "key_strengths": [
    "Strong earnings growth (41%)",
@@ -4095,7 +4149,7 @@
    "Rich valuation (PE 75)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:26.674716+00:00",
+  "last_updated": "2026-10-30T01:11:13.169052+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -4150,62 +4204,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:15.480358+00:00",
+  "last_updated": "2026-10-30T01:11:00.158620+00:00",
   "sector_relative_strength": -8.7
- },
- {
-  "symbol": "BOSCHLTD",
-  "company_name": "Bosch Limited",
-  "sector": "Consumer Cyclical",
-  "industry": "Auto Parts",
-  "current_price": 47625.0,
-  "technical_score": 73.4,
-  "fundamental_score": 54.0,
-  "momentum_score": 85,
-  "quality_score": 68.0,
-  "risk_score": 80.0,
-  "overall_score": 68.1,
-  "recommendation": "AVOID",
-  "target_price": 47625.0,
-  "upside_percent": 0.0,
-  "stop_loss": 43815.0,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 60.0,
-  "entry_zone_low": 45449.28,
-  "entry_zone_high": 50250.0,
-  "risk_reward": 0,
-  "extension_atr": 1.8,
-  "entry_note": "Price is 1.8 ATRs above 20EMA, RSI 61, 1-month move +1%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 89.0,
-  "data_quality": "8/12",
-  "data_quality_pct": 67,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2713 price vs 50EMA",
-   "\u2713 50>200 EMA structure",
-   "\u2717 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2713 RSI healthy (61)",
-   "\u2713 MACD positive",
-   "\u2717 PE 59",
-   "\u2717 earnings growth -37%",
-   "\u2713 revenue growth 22%",
-   "\u2713 D/E 1"
-  ],
-  "technical_summary": "Strong Uptrend, RSI 61, ADX 26, MACD hist +267.71, vol 0.6x avg, patterns: Bullish Engulfing, Bullish Marubozu",
-  "fundamental_summary": "PE 59.364235, PEG n/a, ROE 0%, D/E 0.8, rev growth 22%",
-  "investment_thesis": "Strong Uptrend; price 47625.0 vs 50EMA 45449.3 / 200EMA 41237.1. Fundamentals score 54/100 (ROE 0%, earnings growth -37%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
-  "key_strengths": [
-   "Low debt",
-   "Strong Uptrend",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Declining earnings"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.906855+00:00",
-  "sector_relative_strength": 7.2
  },
  {
   "symbol": "HEXT",
@@ -4258,7 +4258,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:28.691974+00:00",
+  "last_updated": "2026-10-30T01:11:15.761220+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -4295,23 +4295,23 @@
    "\u2717 accumulation (A/D)",
    "\u2713 RSI healthy (53)",
    "\u2717 MACD positive",
-   "\u2717 PE 87",
+   "\u2717 PE 88",
    "\u2713 earnings growth 15%",
    "\u2713 revenue growth 16%",
    "\u2713 D/E 84",
    "\u2713 ROE 13%"
   ],
   "technical_summary": "Uptrend, RSI 53, ADX 23, MACD hist -6.69, vol 0.8x avg, patterns: Morning Star",
-  "fundamental_summary": "PE 87.03432, PEG n/a, ROE 13%, D/E 84.092, rev growth 16%",
+  "fundamental_summary": "PE 88.11414, PEG n/a, ROE 13%, D/E 84.092, rev growth 16%",
   "investment_thesis": "Uptrend; price 702.2 vs 50EMA 672.8 / 200EMA 598.1. Fundamentals score 64/100 (ROE 13%, earnings growth 15%). Constructive but awaiting fuller confirmation.",
   "key_strengths": [
    "Uptrend"
   ],
   "key_risks": [
-   "Rich valuation (PE 87)"
+   "Rich valuation (PE 88)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:14.836217+00:00",
+  "last_updated": "2026-10-30T01:10:59.408119+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -4365,7 +4365,63 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:24.520146+00:00",
+  "last_updated": "2026-10-30T01:11:10.955160+00:00",
+  "sector_relative_strength": 7.2
+ },
+ {
+  "symbol": "TVSMOTOR",
+  "company_name": "TVS Motor Company Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "current_price": 4239.9,
+  "technical_score": 67.9,
+  "fundamental_score": 61.0,
+  "momentum_score": 74.0,
+  "quality_score": 75.0,
+  "risk_score": 65.0,
+  "overall_score": 67.0,
+  "recommendation": "BUY",
+  "target_price": 4590.33,
+  "upside_percent": 8.3,
+  "stop_loss": 4006.28,
+  "entry_signal": "ENTER NOW",
+  "entry_score": 85.0,
+  "entry_zone_low": 4086.41,
+  "entry_zone_high": 4506.92,
+  "risk_reward": 1.5,
+  "extension_atr": 1.6,
+  "entry_note": "Price is 1.6 ATRs above 20EMA, RSI 63, 1-month move +4%, risk-reward 1.5:1 at current price. Entry conditions favorable at current levels.",
+  "week52_position": 80.5,
+  "data_quality": "10/12",
+  "data_quality_pct": 83,
+  "score_drivers": [
+   "\u2713 price vs 200EMA",
+   "\u2713 price vs 50EMA",
+   "\u2713 50>200 EMA structure",
+   "\u2717 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2713 RSI healthy (63)",
+   "\u2713 MACD positive",
+   "\u2717 PE 53",
+   "\u2713 earnings growth 50%",
+   "\u2713 revenue growth 39%",
+   "\u2717 D/E 321",
+   "\u2713 ROE 37%"
+  ],
+  "technical_summary": "Strong Uptrend, RSI 63, ADX 27, MACD hist +26.39, vol 1.0x avg, patterns: Hammer",
+  "fundamental_summary": "PE 53.134697, PEG n/a, ROE 37%, D/E 320.877, rev growth 39%",
+  "investment_thesis": "Strong Uptrend; price 4239.9 vs 50EMA 4057.6 / 200EMA 3800.2. Fundamentals score 61/100 (ROE 37%, earnings growth 50%). Constructive but awaiting fuller confirmation.",
+  "key_strengths": [
+   "High ROE (37%)",
+   "Strong earnings growth (50%)",
+   "Strong Uptrend",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Elevated leverage"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-10-30T01:11:37.510796+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -4420,7 +4476,7 @@
    "Rich valuation (PE 320)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:23.308035+00:00",
+  "last_updated": "2026-10-30T01:11:09.439405+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -4474,64 +4530,8 @@
    "Rich valuation (PE 165)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.239635+00:00",
+  "last_updated": "2026-10-30T01:11:25.520405+00:00",
   "sector_relative_strength": -8.7
- },
- {
-  "symbol": "TVSMOTOR",
-  "company_name": "TVS Motor Company Limited",
-  "sector": "Consumer Cyclical",
-  "industry": "Auto Manufacturers",
-  "current_price": 4239.9,
-  "technical_score": 67.9,
-  "fundamental_score": 61.0,
-  "momentum_score": 74.0,
-  "quality_score": 75.0,
-  "risk_score": 53.0,
-  "overall_score": 66.4,
-  "recommendation": "BUY",
-  "target_price": 4590.33,
-  "upside_percent": 8.3,
-  "stop_loss": 4006.28,
-  "entry_signal": "ENTER NOW",
-  "entry_score": 85.0,
-  "entry_zone_low": 4086.41,
-  "entry_zone_high": 4506.92,
-  "risk_reward": 1.5,
-  "extension_atr": 1.6,
-  "entry_note": "Price is 1.6 ATRs above 20EMA, RSI 63, 1-month move +4%, risk-reward 1.5:1 at current price. Entry conditions favorable at current levels.",
-  "week52_position": 80.5,
-  "data_quality": "10/12",
-  "data_quality_pct": 83,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2713 price vs 50EMA",
-   "\u2713 50>200 EMA structure",
-   "\u2717 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2713 RSI healthy (63)",
-   "\u2713 MACD positive",
-   "\u2717 PE 53",
-   "\u2713 earnings growth 50%",
-   "\u2713 revenue growth 39%",
-   "\u2717 D/E 321",
-   "\u2713 ROE 37%"
-  ],
-  "technical_summary": "Strong Uptrend, RSI 63, ADX 27, MACD hist +26.39, vol 1.0x avg, patterns: Hammer",
-  "fundamental_summary": "PE 53.134697, PEG n/a, ROE 37%, D/E 320.877, rev growth 39%",
-  "investment_thesis": "Strong Uptrend; price 4239.9 vs 50EMA 4057.6 / 200EMA 3800.2. Fundamentals score 61/100 (ROE 37%, earnings growth 50%). Constructive but awaiting fuller confirmation.",
-  "key_strengths": [
-   "High ROE (37%)",
-   "Strong earnings growth (50%)",
-   "Strong Uptrend",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Elevated leverage"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.908720+00:00",
-  "sector_relative_strength": 7.2
  },
  {
   "symbol": "WIPRO",
@@ -4585,7 +4585,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:48.563581+00:00",
+  "last_updated": "2026-10-30T01:11:39.391146+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -4639,7 +4639,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:26.309708+00:00",
+  "last_updated": "2026-10-30T01:11:13.186603+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -4695,7 +4695,7 @@
    "Declining earnings"
   ],
   "is_breakout": true,
-  "last_updated": "2026-10-29T18:36:24.342064+00:00",
+  "last_updated": "2026-10-30T01:11:11.020134+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -4749,7 +4749,7 @@
    "Rich valuation (PE 90)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:42.152542+00:00",
+  "last_updated": "2026-10-30T01:11:31.524847+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -4802,7 +4802,7 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:14.957954+00:00",
+  "last_updated": "2026-10-30T01:10:59.780582+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -4855,7 +4855,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:41.703896+00:00",
+  "last_updated": "2026-10-30T01:11:31.121270+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -4911,7 +4911,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.682869+00:00",
+  "last_updated": "2026-10-30T01:11:28.751258+00:00",
   "sector_relative_strength": 5.7
  },
  {
@@ -4966,7 +4966,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:45.127844+00:00",
+  "last_updated": "2026-10-30T01:11:35.328029+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -5021,7 +5021,7 @@
    "Rich valuation (PE 82)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:45.618876+00:00",
+  "last_updated": "2026-10-30T01:11:35.870751+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -5075,7 +5075,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:20.337497+00:00",
+  "last_updated": "2026-10-30T01:11:06.138033+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -5129,7 +5129,7 @@
    "Rich valuation (PE 68)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:27.645883+00:00",
+  "last_updated": "2026-10-30T01:11:14.586005+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -5182,7 +5182,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.410051+00:00",
+  "last_updated": "2026-10-30T01:11:05.146539+00:00",
   "sector_relative_strength": 17.0
  },
  {
@@ -5237,7 +5237,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:20.769838+00:00",
+  "last_updated": "2026-10-30T01:11:06.638932+00:00",
   "sector_relative_strength": 5.7
  },
  {
@@ -5291,7 +5291,7 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:38.585616+00:00",
+  "last_updated": "2026-10-30T01:11:27.313724+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -5346,7 +5346,7 @@
    "Rich valuation (PE 1656)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:41.121851+00:00",
+  "last_updated": "2026-10-30T01:11:30.581135+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -5401,7 +5401,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.821345+00:00",
+  "last_updated": "2026-10-30T01:11:34.851895+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -5456,7 +5456,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:30.981620+00:00",
+  "last_updated": "2026-10-30T01:11:18.516579+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -5509,7 +5509,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:30.792304+00:00",
+  "last_updated": "2026-10-30T01:11:18.189554+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -5564,7 +5564,7 @@
    "Rich valuation (PE 128)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.382019+00:00",
+  "last_updated": "2026-10-30T01:11:28.306845+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -5617,7 +5617,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:25.915656+00:00",
+  "last_updated": "2026-10-30T01:11:12.641339+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -5673,7 +5673,7 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:47.248821+00:00",
+  "last_updated": "2026-10-30T01:11:37.838201+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -5726,7 +5726,7 @@
    "Rich valuation (PE 118)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:17.961355+00:00",
+  "last_updated": "2026-10-30T01:11:03.201454+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -5782,7 +5782,7 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:35.177220+00:00",
+  "last_updated": "2026-10-30T01:11:23.280198+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -5835,7 +5835,7 @@
    "Rich valuation (PE 87)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.638682+00:00",
+  "last_updated": "2026-10-30T01:11:34.838696+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -5889,7 +5889,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:35.813907+00:00",
+  "last_updated": "2026-10-30T01:11:24.080865+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -5942,7 +5942,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:20.988813+00:00",
+  "last_updated": "2026-10-30T01:11:07.114631+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -5994,7 +5994,7 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:36.731612+00:00",
+  "last_updated": "2026-10-30T01:11:25.186228+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -6047,7 +6047,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.051469+00:00",
+  "last_updated": "2026-10-30T01:11:27.737027+00:00",
   "sector_relative_strength": 5.7
  },
  {
@@ -6097,7 +6097,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.868081+00:00",
+  "last_updated": "2026-10-30T01:11:37.399078+00:00",
   "sector_relative_strength": 17.0
  },
  {
@@ -6150,7 +6150,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:28.883175+00:00",
+  "last_updated": "2026-10-30T01:11:16.113081+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -6205,7 +6205,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:16.332164+00:00",
+  "last_updated": "2026-10-30T01:11:01.254462+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -6257,7 +6257,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:23.196164+00:00",
+  "last_updated": "2026-10-30T01:11:09.382635+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -6310,7 +6310,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:25.435362+00:00",
+  "last_updated": "2026-10-30T01:11:12.021250+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -6363,7 +6363,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.949077+00:00",
+  "last_updated": "2026-10-30T01:11:29.073340+00:00",
   "sector_relative_strength": -2.8
  },
  {
@@ -6417,7 +6417,7 @@
    "Rich valuation (PE 89)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:15.594514+00:00",
+  "last_updated": "2026-10-30T01:11:00.541738+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -6469,7 +6469,7 @@
    "Rich valuation (PE 63)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.012520+00:00",
+  "last_updated": "2026-10-30T01:11:04.370028+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -6513,7 +6513,7 @@
    "\u2713 ROE 47%"
   ],
   "technical_summary": "Sideways, RSI 39, ADX 35, MACD hist -7.41, vol 1.2x avg, patterns: Bullish Engulfing",
-  "fundamental_summary": "PE 24.340012, PEG n/a, ROE 47%, D/E 0.468, rev growth 7%",
+  "fundamental_summary": "PE 24.482105, PEG n/a, ROE 47%, D/E 0.468, rev growth 7%",
   "investment_thesis": "Sideways; price 9986.0 vs 50EMA 10738.9 / 200EMA 9930.8. Fundamentals score 87/100 (ROE 47%, earnings growth 28%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "High ROE (47%)",
@@ -6524,7 +6524,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:38.813888+00:00",
+  "last_updated": "2026-10-30T01:11:27.704960+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -6578,7 +6578,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.913210+00:00",
+  "last_updated": "2026-10-30T01:11:26.640502+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -6632,7 +6632,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.426366+00:00",
+  "last_updated": "2026-10-30T01:11:28.382579+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -6685,7 +6685,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.229428+00:00",
+  "last_updated": "2026-10-30T01:11:34.303542+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -6739,7 +6739,7 @@
    "Rich valuation (PE 80)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:28.006458+00:00",
+  "last_updated": "2026-10-30T01:11:14.800837+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -6794,7 +6794,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:33.409100+00:00",
+  "last_updated": "2026-10-30T01:11:21.163011+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -6847,7 +6847,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:38.641119+00:00",
+  "last_updated": "2026-10-30T01:11:27.403979+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -6901,7 +6901,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:35.963639+00:00",
+  "last_updated": "2026-10-30T01:11:24.105043+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -6953,7 +6953,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:48.846430+00:00",
+  "last_updated": "2026-10-30T01:11:39.779122+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -7006,7 +7006,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:36.761443+00:00",
+  "last_updated": "2026-10-30T01:11:24.982598+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -7060,7 +7060,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:18.509894+00:00",
+  "last_updated": "2026-10-30T01:11:04.038740+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -7114,7 +7114,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:29.320420+00:00",
+  "last_updated": "2026-10-30T01:11:16.492817+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -7167,7 +7167,7 @@
    "Rich valuation (PE 64)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:21.573151+00:00",
+  "last_updated": "2026-10-30T01:11:07.599101+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -7222,7 +7222,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:45.001710+00:00",
+  "last_updated": "2026-10-30T01:11:35.312743+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -7276,7 +7276,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:27.880990+00:00",
+  "last_updated": "2026-10-30T01:11:14.657683+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -7332,7 +7332,7 @@
    "Rich valuation (PE 95)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:21.565907+00:00",
+  "last_updated": "2026-10-30T01:11:07.453049+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -7385,7 +7385,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:16.488538+00:00",
+  "last_updated": "2026-10-30T01:11:01.597159+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -7438,7 +7438,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:20.596837+00:00",
+  "last_updated": "2026-10-30T01:11:06.555500+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -7492,7 +7492,7 @@
    "Rich valuation (PE 88)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:43.773987+00:00",
+  "last_updated": "2026-10-30T01:11:33.532711+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -7547,7 +7547,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.579107+00:00",
+  "last_updated": "2026-10-30T01:11:05.145473+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -7602,7 +7602,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:34.146945+00:00",
+  "last_updated": "2026-10-30T01:11:22.114943+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -7639,14 +7639,14 @@
    "\u2717 accumulation (A/D)",
    "\u2717 RSI healthy (38)",
    "\u2717 MACD positive",
-   "\u2717 PE 71",
+   "\u2717 PE 78",
    "\u2713 earnings growth 66%",
    "\u2713 revenue growth 274%",
    "\u2713 D/E 11",
    "\u2713 ROE 24%"
   ],
   "technical_summary": "Sideways, RSI 38, ADX 21, MACD hist -31.87, vol 2.2x avg",
-  "fundamental_summary": "PE 71.236336, PEG n/a, ROE 24%, D/E 10.744, rev growth 274%",
+  "fundamental_summary": "PE 77.7635, PEG n/a, ROE 24%, D/E 10.744, rev growth 274%",
   "investment_thesis": "Sideways; price 4135.1 vs 50EMA 4372.3 / 200EMA 3829.0. Fundamentals score 81/100 (ROE 24%, earnings growth 66%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "High ROE (24%)",
@@ -7654,10 +7654,10 @@
    "Low debt"
   ],
   "key_risks": [
-   "Rich valuation (PE 71)"
+   "Rich valuation (PE 78)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:41.762215+00:00",
+  "last_updated": "2026-10-30T01:11:30.589048+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -7694,23 +7694,23 @@
    "\u2717 accumulation (A/D)",
    "\u2717 RSI healthy (42)",
    "\u2717 MACD positive",
-   "\u2717 PE 63",
+   "\u2717 PE 64",
    "\u2713 earnings growth 32%",
    "\u2713 revenue growth 81%",
    "\u2713 D/E 49"
   ],
   "technical_summary": "Sideways, RSI 42, ADX 20, MACD hist -10.64, vol 0.6x avg, patterns: Bullish Engulfing, Doji",
-  "fundamental_summary": "PE 63.025623, PEG n/a, ROE 0%, D/E 48.762, rev growth 81%",
+  "fundamental_summary": "PE 64.28038, PEG n/a, ROE 0%, D/E 48.762, rev growth 81%",
   "investment_thesis": "Sideways; price 1572.6 vs 50EMA 1620.7 / 200EMA 1508.6. Fundamentals score 74/100 (ROE 0%, earnings growth 32%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "Strong earnings growth (32%)",
    "Low debt"
   ],
   "key_risks": [
-   "Rich valuation (PE 63)"
+   "Rich valuation (PE 64)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:45.324507+00:00",
+  "last_updated": "2026-10-30T01:11:35.786930+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -7763,7 +7763,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:16.821354+00:00",
+  "last_updated": "2026-10-30T01:11:01.775868+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -7816,7 +7816,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:18.957526+00:00",
+  "last_updated": "2026-10-30T01:11:04.401201+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -7871,7 +7871,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.558794+00:00",
+  "last_updated": "2026-10-30T01:11:26.022871+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -7925,7 +7925,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:42.075615+00:00",
+  "last_updated": "2026-10-30T01:11:31.585201+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -7978,7 +7978,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:26.719595+00:00",
+  "last_updated": "2026-10-30T01:11:13.610643+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -8030,7 +8030,7 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:40.323360+00:00",
+  "last_updated": "2026-10-30T01:11:29.512143+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -8084,7 +8084,7 @@
    "Rich valuation (PE 77)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:26.106754+00:00",
+  "last_updated": "2026-10-30T01:11:12.761178+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -8138,7 +8138,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:35.040655+00:00",
+  "last_updated": "2026-10-30T01:11:23.100178+00:00",
   "sector_relative_strength": -2.8
  },
  {
@@ -8193,7 +8193,7 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.046285+00:00",
+  "last_updated": "2026-10-30T01:11:28.057015+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -8250,7 +8250,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:32.523365+00:00",
+  "last_updated": "2026-10-30T01:11:20.112242+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -8305,7 +8305,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:15.599473+00:00",
+  "last_updated": "2026-10-30T01:11:00.383737+00:00",
   "sector_relative_strength": 5.7
  },
  {
@@ -8360,7 +8360,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:25.264097+00:00",
+  "last_updated": "2026-10-30T01:11:11.644803+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -8416,7 +8416,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:35.574959+00:00",
+  "last_updated": "2026-10-30T01:11:23.607038+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -8471,7 +8471,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.469410+00:00",
+  "last_updated": "2026-10-30T01:11:36.888747+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -8524,7 +8524,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:26.444842+00:00",
+  "last_updated": "2026-10-30T01:11:13.301540+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -8577,7 +8577,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:34.244748+00:00",
+  "last_updated": "2026-10-30T01:11:22.154494+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -8632,7 +8632,7 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.943990+00:00",
+  "last_updated": "2026-10-30T01:11:28.799894+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -8687,7 +8687,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:18.655055+00:00",
+  "last_updated": "2026-10-30T01:11:04.177130+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -8741,7 +8741,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.312335+00:00",
+  "last_updated": "2026-10-30T01:11:28.158956+00:00",
   "sector_relative_strength": 5.7
  },
  {
@@ -8796,7 +8796,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:43.234872+00:00",
+  "last_updated": "2026-10-30T01:11:32.827333+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -8853,7 +8853,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:42.968774+00:00",
+  "last_updated": "2026-10-30T01:11:32.594858+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -8908,7 +8908,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:15.309065+00:00",
+  "last_updated": "2026-10-30T01:11:00.234080+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -8963,7 +8963,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:36.020890+00:00",
+  "last_updated": "2026-10-30T01:11:24.328339+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -9017,7 +9017,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:43.183818+00:00",
+  "last_updated": "2026-10-30T01:11:32.797855+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -9071,7 +9071,7 @@
    "Rich valuation (PE 84)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.749423+00:00",
+  "last_updated": "2026-10-30T01:11:37.307119+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -9125,7 +9125,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:36.475879+00:00",
+  "last_updated": "2026-10-30T01:11:24.791596+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -9162,13 +9162,13 @@
    "\u2713 accumulation (A/D)",
    "\u2717 RSI healthy (43)",
    "\u2717 MACD positive",
-   "\u2717 PE 98",
+   "\u2717 PE 97",
    "\u2713 earnings growth 24%",
    "\u2713 revenue growth 19%",
    "\u2713 D/E 10"
   ],
   "technical_summary": "Sideways, RSI 43, ADX 22, MACD hist -11.48, vol 0.8x avg, patterns: Bullish Engulfing",
-  "fundamental_summary": "PE 98.209755, PEG n/a, ROE 0%, D/E 10.292, rev growth 19%",
+  "fundamental_summary": "PE 97.155624, PEG n/a, ROE 0%, D/E 10.292, rev growth 19%",
   "investment_thesis": "Sideways; price 1086.1 vs 50EMA 1136.5 / 200EMA 1051.6. Fundamentals score 69/100 (ROE 0%, earnings growth 24%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "Strong earnings growth (24%)",
@@ -9176,10 +9176,10 @@
    "Accumulation pattern (A/D rising)"
   ],
   "key_risks": [
-   "Rich valuation (PE 98)"
+   "Rich valuation (PE 97)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:20.718599+00:00",
+  "last_updated": "2026-10-30T01:11:06.574842+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -9234,7 +9234,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.962229+00:00",
+  "last_updated": "2026-10-30T01:11:37.494232+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -9287,7 +9287,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:30.446423+00:00",
+  "last_updated": "2026-10-30T01:11:17.645597+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -9339,7 +9339,7 @@
    "Rich valuation (PE 164)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.786929+00:00",
+  "last_updated": "2026-10-30T01:11:28.732292+00:00",
   "sector_relative_strength": 17.0
  },
  {
@@ -9393,7 +9393,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:47.682654+00:00",
+  "last_updated": "2026-10-30T01:11:38.288322+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -9445,7 +9445,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:48.450929+00:00",
+  "last_updated": "2026-10-30T01:11:39.234330+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -9500,7 +9500,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:33.431814+00:00",
+  "last_updated": "2026-10-30T01:11:21.243497+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -9556,7 +9556,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:35.366557+00:00",
+  "last_updated": "2026-10-30T01:11:23.622849+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -9609,7 +9609,7 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:38.043732+00:00",
+  "last_updated": "2026-10-30T01:11:26.639638+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -9662,7 +9662,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:16.876841+00:00",
+  "last_updated": "2026-10-30T01:11:02.099975+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -9714,7 +9714,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:27.644489+00:00",
+  "last_updated": "2026-10-30T01:11:14.620661+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -9769,7 +9769,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:35.573068+00:00",
+  "last_updated": "2026-10-30T01:11:23.744362+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -9822,7 +9822,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:17.568700+00:00",
+  "last_updated": "2026-10-30T01:11:02.788743+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -9873,7 +9873,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:47.378279+00:00",
+  "last_updated": "2026-10-30T01:11:38.120137+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -9927,7 +9927,7 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:21.374753+00:00",
+  "last_updated": "2026-10-30T01:11:07.387094+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -9980,7 +9980,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:14.956611+00:00",
+  "last_updated": "2026-10-30T01:10:59.586603+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -10035,7 +10035,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:22.725717+00:00",
+  "last_updated": "2026-10-30T01:11:08.752580+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -10089,7 +10089,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:23.551055+00:00",
+  "last_updated": "2026-10-30T01:11:09.808422+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -10142,7 +10142,7 @@
    "Rich valuation (PE 115)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:42.005808+00:00",
+  "last_updated": "2026-10-30T01:11:31.601480+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -10195,7 +10195,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:14.299556+00:00",
+  "last_updated": "2026-10-30T01:10:59.029310+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -10253,7 +10253,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:21.701748+00:00",
+  "last_updated": "2026-10-30T01:11:07.600108+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -10308,7 +10308,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:42.966494+00:00",
+  "last_updated": "2026-10-30T01:11:32.603452+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -10363,7 +10363,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:33.806656+00:00",
+  "last_updated": "2026-10-30T01:11:21.694033+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -10418,7 +10418,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:26.892186+00:00",
+  "last_updated": "2026-10-30T01:11:13.680958+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -10470,7 +10470,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:26.049209+00:00",
+  "last_updated": "2026-10-30T01:11:12.877509+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -10522,7 +10522,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.052644+00:00",
+  "last_updated": "2026-10-30T01:11:36.333060+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -10578,7 +10578,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:43.918286+00:00",
+  "last_updated": "2026-10-30T01:11:33.796132+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -10633,7 +10633,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:29.500113+00:00",
+  "last_updated": "2026-10-30T01:11:16.694680+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -10689,7 +10689,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.443022+00:00",
+  "last_updated": "2026-10-30T01:11:26.071725+00:00",
   "sector_relative_strength": 17.0
  },
  {
@@ -10741,7 +10741,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:33.329992+00:00",
+  "last_updated": "2026-10-30T01:11:21.527442+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -10799,7 +10799,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:40.811458+00:00",
+  "last_updated": "2026-10-30T01:11:29.724538+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -10852,7 +10852,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:32.590080+00:00",
+  "last_updated": "2026-10-30T01:11:20.209828+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -10909,7 +10909,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:29.310447+00:00",
+  "last_updated": "2026-10-30T01:11:16.220951+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -10964,7 +10964,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:35.033663+00:00",
+  "last_updated": "2026-10-30T01:11:23.081299+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -11017,7 +11017,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:43.386816+00:00",
+  "last_updated": "2026-10-30T01:11:33.152586+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -11072,7 +11072,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:16.971350+00:00",
+  "last_updated": "2026-10-30T01:11:02.167612+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -11127,7 +11127,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:29.673217+00:00",
+  "last_updated": "2026-10-30T01:11:17.074837+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -11181,7 +11181,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:30.633677+00:00",
+  "last_updated": "2026-10-30T01:11:18.023764+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -11234,7 +11234,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:22.251229+00:00",
+  "last_updated": "2026-10-30T01:11:08.521284+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -11287,7 +11287,7 @@
    "Rich valuation (PE 466)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:45.665754+00:00",
+  "last_updated": "2026-10-30T01:11:36.081503+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -11340,7 +11340,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:25.717960+00:00",
+  "last_updated": "2026-10-30T01:11:12.254842+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -11383,7 +11383,7 @@
    "\u2717 D/E 145"
   ],
   "technical_summary": "Sideways, RSI 43, ADX 14, MACD hist -4.33, vol 0.8x avg, patterns: Bearish Engulfing, Doji",
-  "fundamental_summary": "PE 21.422375, PEG n/a, ROE 0%, D/E 145.214, rev growth 209%",
+  "fundamental_summary": "PE 21.437456, PEG n/a, ROE 0%, D/E 145.214, rev growth 209%",
   "investment_thesis": "Sideways; price 1774.8 vs 50EMA 1826.6 / 200EMA 1683.8. Fundamentals score 79/100 (ROE 0%, earnings growth 169%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "Strong earnings growth (169%)"
@@ -11392,7 +11392,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:34.982851+00:00",
+  "last_updated": "2026-10-30T01:11:23.138004+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -11445,7 +11445,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:24.936506+00:00",
+  "last_updated": "2026-10-30T01:11:11.506953+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -11500,7 +11500,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:17.685058+00:00",
+  "last_updated": "2026-10-30T01:11:03.240552+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -11553,7 +11553,7 @@
    "Rich valuation (PE 109)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:40.716145+00:00",
+  "last_updated": "2026-10-30T01:11:29.971863+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -11605,7 +11605,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.721478+00:00",
+  "last_updated": "2026-10-30T01:11:05.477949+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -11661,7 +11661,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:28.747126+00:00",
+  "last_updated": "2026-10-30T01:11:15.642543+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -11714,7 +11714,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.079462+00:00",
+  "last_updated": "2026-10-30T01:11:25.540531+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -11768,59 +11768,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:15.896750+00:00",
-  "sector_relative_strength": -10.9
- },
- {
-  "symbol": "IDFCFIRSTB",
-  "company_name": "IDFC First Bank Limited",
-  "sector": "Financial Services",
-  "industry": "Banks - Regional",
-  "current_price": 73.53,
-  "technical_score": 23.4,
-  "fundamental_score": 82.0,
-  "momentum_score": 3.7,
-  "quality_score": 65.0,
-  "risk_score": 80.0,
-  "overall_score": 48.0,
-  "recommendation": "AVOID",
-  "target_price": 73.53,
-  "upside_percent": 0.0,
-  "stop_loss": 67.65,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 75.0,
-  "entry_zone_low": 80.03,
-  "entry_zone_high": 90.06,
-  "risk_reward": 0.0,
-  "extension_atr": -1.7,
-  "entry_note": "Price is -1.7 ATRs above 20EMA, RSI 34, 1-month move -9%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 49.3,
-  "data_quality": "8/12",
-  "data_quality_pct": 67,
-  "score_drivers": [
-   "\u2717 price vs 200EMA",
-   "\u2717 price vs 50EMA",
-   "\u2713 50>200 EMA structure",
-   "\u2717 higher highs & lows",
-   "\u2717 accumulation (A/D)",
-   "\u2717 RSI healthy (34)",
-   "\u2717 MACD positive",
-   "\u2713 PE 21",
-   "\u2713 earnings growth 246%",
-   "\u2713 revenue growth 32%",
-   "\u2717 ROE 6%"
-  ],
-  "technical_summary": "Sideways, RSI 34, ADX 32, MACD hist -0.53, vol 1.1x avg, patterns: Bullish Marubozu, Morning Star",
-  "fundamental_summary": "PE 21.269564, PEG n/a, ROE 6%, D/E n/a, rev growth 32%",
-  "investment_thesis": "Sideways; price 73.5 vs 50EMA 80.0 / 200EMA 78.0. Fundamentals score 82/100 (ROE 6%, earnings growth 246%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
-  "key_strengths": [
-   "Strong earnings growth (246%)"
-  ],
-  "key_risks": [
-   "Standard market risk"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:29.989306+00:00",
+  "last_updated": "2026-10-30T01:11:00.802063+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -11874,7 +11822,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.557706+00:00",
+  "last_updated": "2026-10-30T01:11:28.232476+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -11929,7 +11877,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.900307+00:00",
+  "last_updated": "2026-10-30T01:11:05.625974+00:00",
   "sector_relative_strength": 5.7
  },
  {
@@ -11984,7 +11932,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:28.113038+00:00",
+  "last_updated": "2026-10-30T01:11:15.136932+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -12039,7 +11987,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.459813+00:00",
+  "last_updated": "2026-10-30T01:11:34.328493+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -12090,60 +12038,8 @@
    "Rich valuation (PE 76)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:48.722444+00:00",
+  "last_updated": "2026-10-30T01:11:39.527660+00:00",
   "sector_relative_strength": 26.5
- },
- {
-  "symbol": "TMCV",
-  "company_name": "Tata Motors Limited",
-  "sector": "Consumer Cyclical",
-  "industry": "Auto Manufacturers",
-  "current_price": 399.7,
-  "technical_score": 23.9,
-  "fundamental_score": 82.0,
-  "momentum_score": 0,
-  "quality_score": 63.0,
-  "risk_score": 84.0,
-  "overall_score": 47.6,
-  "recommendation": "AVOID",
-  "target_price": 399.7,
-  "upside_percent": -0.0,
-  "stop_loss": 367.72,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 75.0,
-  "entry_zone_low": 426.18,
-  "entry_zone_high": 490.24,
-  "risk_reward": 0,
-  "extension_atr": -1.0,
-  "entry_note": "Price is -1.0 ATRs above 20EMA, RSI 40, 1-month move -8%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 48.3,
-  "data_quality": "7/12",
-  "data_quality_pct": 58,
-  "score_drivers": [
-   "\u2717 price vs 200EMA",
-   "\u2717 price vs 50EMA",
-   "\u2713 50>200 EMA structure",
-   "\u2717 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2717 RSI healthy (40)",
-   "\u2717 MACD positive",
-   "\u2713 PE 23",
-   "\u2713 revenue growth 35%",
-   "\u2713 D/E 25"
-  ],
-  "technical_summary": "Sideways, RSI 40, ADX 27, MACD hist -1.41, vol 1.0x avg, patterns: Doji",
-  "fundamental_summary": "PE 23.341108, PEG n/a, ROE 0%, D/E 24.605, rev growth 35%",
-  "investment_thesis": "Sideways; price 399.7 vs 50EMA 426.2 / 200EMA 415.8. Fundamentals score 82/100 (ROE 0%, earnings growth 0%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
-  "key_strengths": [
-   "Low debt",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Standard market risk"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.424309+00:00",
-  "sector_relative_strength": 7.2
  },
  {
   "symbol": "VBL",
@@ -12198,8 +12094,59 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:47.836823+00:00",
+  "last_updated": "2026-10-30T01:11:38.532187+00:00",
   "sector_relative_strength": -11.5
+ },
+ {
+  "symbol": "IOC",
+  "company_name": "Indian Oil Corporation Limited",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "current_price": 130.15,
+  "technical_score": 11.4,
+  "fundamental_score": 77.0,
+  "momentum_score": 50,
+  "quality_score": 50.0,
+  "risk_score": 80.0,
+  "overall_score": 47.4,
+  "recommendation": "HOLD",
+  "target_price": 130.15,
+  "upside_percent": 0.0,
+  "stop_loss": 119.74,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 75.0,
+  "entry_zone_low": 133.17,
+  "entry_zone_high": 144.64,
+  "risk_reward": 0.0,
+  "extension_atr": -0.2,
+  "entry_note": "Price is -0.2 ATRs above 20EMA, RSI 47, 1-month move -2%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 8.7,
+  "data_quality": "7/12",
+  "data_quality_pct": 58,
+  "score_drivers": [
+   "\u2717 price vs 200EMA",
+   "\u2717 price vs 50EMA",
+   "\u2717 50>200 EMA structure",
+   "\u2717 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2717 RSI healthy (47)",
+   "\u2713 MACD positive",
+   "\u2713 PE 5",
+   "\u2713 revenue growth 38%",
+   "\u2713 D/E 58"
+  ],
+  "technical_summary": "Downtrend, RSI 47, ADX 20, MACD hist +0.52, vol 1.1x avg, patterns: Bullish Engulfing",
+  "fundamental_summary": "PE 5.266963, PEG n/a, ROE 0%, D/E 58.446, rev growth 38%",
+  "investment_thesis": "Downtrend; price 130.1 vs 50EMA 133.2 / 200EMA 139.9. Fundamentals score 77/100 (ROE 0%, earnings growth 0%). Mixed signals; no edge at current levels.",
+  "key_strengths": [
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Bearish trend structure"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-10-30T01:11:18.924330+00:00",
+  "sector_relative_strength": 5.7
  },
  {
   "symbol": "SAIL",
@@ -12251,7 +12198,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:42.534038+00:00",
+  "last_updated": "2026-10-30T01:11:31.973056+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -12307,7 +12254,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:33.276557+00:00",
+  "last_updated": "2026-10-30T01:11:21.103681+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -12362,7 +12309,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:28.494536+00:00",
+  "last_updated": "2026-10-30T01:11:15.282234+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -12417,7 +12364,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:30.921153+00:00",
+  "last_updated": "2026-10-30T01:11:18.407324+00:00",
   "sector_relative_strength": 17.0
  },
  {
@@ -12472,7 +12419,7 @@
    "Rich valuation (PE 69)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.917949+00:00",
+  "last_updated": "2026-10-30T01:11:26.591385+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -12528,7 +12475,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:20.295683+00:00",
+  "last_updated": "2026-10-30T01:11:06.146410+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -12583,7 +12530,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:21.695001+00:00",
+  "last_updated": "2026-10-30T01:11:07.905317+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -12635,7 +12582,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:32.192948+00:00",
+  "last_updated": "2026-10-30T01:11:19.616125+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -12691,7 +12638,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.358203+00:00",
+  "last_updated": "2026-10-30T01:11:04.850203+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -12746,59 +12693,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:26.312751+00:00",
+  "last_updated": "2026-10-30T01:11:12.932736+00:00",
   "sector_relative_strength": 26.5
- },
- {
-  "symbol": "IOC",
-  "company_name": "Indian Oil Corporation Limited",
-  "sector": "Energy",
-  "industry": "Oil & Gas Refining & Marketing",
-  "current_price": 130.15,
-  "technical_score": 11.4,
-  "fundamental_score": 77.0,
-  "momentum_score": 50,
-  "quality_score": 50.0,
-  "risk_score": 68.0,
-  "overall_score": 46.8,
-  "recommendation": "HOLD",
-  "target_price": 130.15,
-  "upside_percent": 0.0,
-  "stop_loss": 119.74,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 75.0,
-  "entry_zone_low": 133.17,
-  "entry_zone_high": 144.64,
-  "risk_reward": 0.0,
-  "extension_atr": -0.2,
-  "entry_note": "Price is -0.2 ATRs above 20EMA, RSI 47, 1-month move -2%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 8.7,
-  "data_quality": "7/12",
-  "data_quality_pct": 58,
-  "score_drivers": [
-   "\u2717 price vs 200EMA",
-   "\u2717 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
-   "\u2717 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2717 RSI healthy (47)",
-   "\u2713 MACD positive",
-   "\u2713 PE 5",
-   "\u2713 revenue growth 38%",
-   "\u2713 D/E 58"
-  ],
-  "technical_summary": "Downtrend, RSI 47, ADX 20, MACD hist +0.52, vol 1.1x avg, patterns: Bullish Engulfing",
-  "fundamental_summary": "PE 5.3359246, PEG n/a, ROE 0%, D/E 58.446, rev growth 38%",
-  "investment_thesis": "Downtrend; price 130.1 vs 50EMA 133.2 / 200EMA 139.9. Fundamentals score 77/100 (ROE 0%, earnings growth 0%). Mixed signals; no edge at current levels.",
-  "key_strengths": [
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Bearish trend structure"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:31.376040+00:00",
-  "sector_relative_strength": 5.7
  },
  {
   "symbol": "NAM-INDIA",
@@ -12851,7 +12747,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.181695+00:00",
+  "last_updated": "2026-10-30T01:11:25.694121+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -12906,7 +12802,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:35.394787+00:00",
+  "last_updated": "2026-10-30T01:11:23.629758+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -12959,7 +12855,7 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:15.122667+00:00",
+  "last_updated": "2026-10-30T01:10:59.890215+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -13014,7 +12910,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.630300+00:00",
+  "last_updated": "2026-10-30T01:11:34.780012+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -13070,7 +12966,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:22.528520+00:00",
+  "last_updated": "2026-10-30T01:11:07.989234+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -13124,7 +13020,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:25.452727+00:00",
+  "last_updated": "2026-10-30T01:11:12.157289+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -13178,7 +13074,59 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:30.406015+00:00",
+  "last_updated": "2026-10-30T01:11:17.711730+00:00",
+  "sector_relative_strength": -10.9
+ },
+ {
+  "symbol": "IDFCFIRSTB",
+  "company_name": "IDFC First Bank Limited",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "current_price": 73.53,
+  "technical_score": 23.4,
+  "fundamental_score": 77.0,
+  "momentum_score": 3.7,
+  "quality_score": 65.0,
+  "risk_score": 80.0,
+  "overall_score": 46.2,
+  "recommendation": "AVOID",
+  "target_price": 73.53,
+  "upside_percent": 0.0,
+  "stop_loss": 67.65,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 75.0,
+  "entry_zone_low": 80.03,
+  "entry_zone_high": 90.06,
+  "risk_reward": 0.0,
+  "extension_atr": -1.7,
+  "entry_note": "Price is -1.7 ATRs above 20EMA, RSI 34, 1-month move -9%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 49.3,
+  "data_quality": "8/12",
+  "data_quality_pct": 67,
+  "score_drivers": [
+   "\u2717 price vs 200EMA",
+   "\u2717 price vs 50EMA",
+   "\u2713 50>200 EMA structure",
+   "\u2717 higher highs & lows",
+   "\u2717 accumulation (A/D)",
+   "\u2717 RSI healthy (34)",
+   "\u2717 MACD positive",
+   "\u2713 PE 28",
+   "\u2713 earnings growth 246%",
+   "\u2713 revenue growth 32%",
+   "\u2717 ROE 6%"
+  ],
+  "technical_summary": "Sideways, RSI 34, ADX 32, MACD hist -0.53, vol 1.1x avg, patterns: Bullish Marubozu, Morning Star",
+  "fundamental_summary": "PE 28.332047, PEG n/a, ROE 6%, D/E n/a, rev growth 32%",
+  "investment_thesis": "Sideways; price 73.5 vs 50EMA 80.0 / 200EMA 78.0. Fundamentals score 77/100 (ROE 6%, earnings growth 246%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
+  "key_strengths": [
+   "Strong earnings growth (246%)"
+  ],
+  "key_risks": [
+   "Standard market risk"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-10-30T01:11:17.195903+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -13231,7 +13179,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:36.338984+00:00",
+  "last_updated": "2026-10-30T01:11:24.567756+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -13287,7 +13235,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:48.290067+00:00",
+  "last_updated": "2026-10-30T01:11:39.018973+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -13341,7 +13289,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:23.626402+00:00",
+  "last_updated": "2026-10-30T01:11:09.905818+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -13395,7 +13343,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:31.282233+00:00",
+  "last_updated": "2026-10-30T01:11:18.771837+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -13445,7 +13393,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:38.964153+00:00",
+  "last_updated": "2026-10-30T01:11:27.766828+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -13503,8 +13451,60 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:20.935951+00:00",
+  "last_updated": "2026-10-30T01:11:06.804330+00:00",
   "sector_relative_strength": -11.5
+ },
+ {
+  "symbol": "TMCV",
+  "company_name": "Tata Motors Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "current_price": 399.7,
+  "technical_score": 23.9,
+  "fundamental_score": 77.0,
+  "momentum_score": 0,
+  "quality_score": 63.0,
+  "risk_score": 84.0,
+  "overall_score": 45.8,
+  "recommendation": "AVOID",
+  "target_price": 399.7,
+  "upside_percent": -0.0,
+  "stop_loss": 367.72,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 75.0,
+  "entry_zone_low": 426.18,
+  "entry_zone_high": 490.24,
+  "risk_reward": 0,
+  "extension_atr": -1.0,
+  "entry_note": "Price is -1.0 ATRs above 20EMA, RSI 40, 1-month move -8%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 48.3,
+  "data_quality": "7/12",
+  "data_quality_pct": 58,
+  "score_drivers": [
+   "\u2717 price vs 200EMA",
+   "\u2717 price vs 50EMA",
+   "\u2713 50>200 EMA structure",
+   "\u2717 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2717 RSI healthy (40)",
+   "\u2717 MACD positive",
+   "\u2713 PE 35",
+   "\u2713 revenue growth 35%",
+   "\u2713 D/E 25"
+  ],
+  "technical_summary": "Sideways, RSI 40, ADX 27, MACD hist -1.41, vol 1.0x avg, patterns: Doji",
+  "fundamental_summary": "PE 35.144863, PEG n/a, ROE 0%, D/E 24.605, rev growth 35%",
+  "investment_thesis": "Sideways; price 399.7 vs 50EMA 426.2 / 200EMA 415.8. Fundamentals score 77/100 (ROE 0%, earnings growth 0%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
+  "key_strengths": [
+   "Low debt",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Standard market risk"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-10-30T01:11:36.857157+00:00",
+  "sector_relative_strength": 7.2
  },
  {
   "symbol": "ABB",
@@ -13558,7 +13558,7 @@
    "Rich valuation (PE 89)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:14.363869+00:00",
+  "last_updated": "2026-10-30T01:10:58.966501+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -13614,7 +13614,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.436559+00:00",
+  "last_updated": "2026-10-30T01:11:34.436003+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -13670,7 +13670,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:18.163830+00:00",
+  "last_updated": "2026-10-30T01:11:03.693576+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -13725,7 +13725,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:14.785993+00:00",
+  "last_updated": "2026-10-30T01:10:59.484408+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -13780,7 +13780,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:17.266561+00:00",
+  "last_updated": "2026-10-30T01:11:02.245040+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -13833,7 +13833,7 @@
    "Rich valuation (PE 68)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.319137+00:00",
+  "last_updated": "2026-10-30T01:11:36.805593+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -13877,7 +13877,7 @@
    "\u2713 D/E 12"
   ],
   "technical_summary": "Downtrend, RSI 36, ADX 19, MACD hist -2.24, vol 0.7x avg",
-  "fundamental_summary": "PE 7.7641716, PEG 0.87, ROE 0%, D/E 11.629, rev growth 45%",
+  "fundamental_summary": "PE 7.64786, PEG 0.87, ROE 0%, D/E 11.629, rev growth 45%",
   "investment_thesis": "Downtrend; price 392.0 vs 50EMA 412.6 / 200EMA 413.2. Fundamentals score 90/100 (ROE 0%, earnings growth 1%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "Low debt"
@@ -13887,7 +13887,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:22.577936+00:00",
+  "last_updated": "2026-10-30T01:11:08.540855+00:00",
   "sector_relative_strength": 5.7
  },
  {
@@ -13941,7 +13941,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:40.065524+00:00",
+  "last_updated": "2026-10-30T01:11:29.159494+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -13998,7 +13998,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:20.512181+00:00",
+  "last_updated": "2026-10-30T01:11:06.444905+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -14052,7 +14052,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:33.983374+00:00",
+  "last_updated": "2026-10-30T01:11:22.000538+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -14107,7 +14107,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:48.173351+00:00",
+  "last_updated": "2026-10-30T01:11:38.916457+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -14159,7 +14159,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:30.075365+00:00",
+  "last_updated": "2026-10-30T01:11:17.381140+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -14211,7 +14211,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:31.387023+00:00",
+  "last_updated": "2026-10-30T01:11:18.696954+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -14265,7 +14265,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.797812+00:00",
+  "last_updated": "2026-10-30T01:11:05.604599+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -14322,7 +14322,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:23.174674+00:00",
+  "last_updated": "2026-10-30T01:11:08.983813+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -14375,7 +14375,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:33.010547+00:00",
+  "last_updated": "2026-10-30T01:11:20.693880+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -14429,7 +14429,7 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:18.556830+00:00",
+  "last_updated": "2026-10-30T01:11:03.788311+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -14484,7 +14484,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:40.796368+00:00",
+  "last_updated": "2026-10-30T01:11:30.174704+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -14537,8 +14537,61 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.088952+00:00",
+  "last_updated": "2026-10-30T01:11:33.749764+00:00",
   "sector_relative_strength": -10.9
+ },
+ {
+  "symbol": "RELIANCE",
+  "company_name": "Reliance Industries Limited",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "current_price": 1158.0,
+  "technical_score": 0,
+  "fundamental_score": 82.0,
+  "momentum_score": 25,
+  "quality_score": 68.0,
+  "risk_score": 92.0,
+  "overall_score": 43.9,
+  "recommendation": "AVOID",
+  "target_price": 1158.0,
+  "upside_percent": 0.0,
+  "stop_loss": 1065.36,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 75.0,
+  "entry_zone_low": 1229.74,
+  "entry_zone_high": 1343.68,
+  "risk_reward": 0,
+  "extension_atr": -1.5,
+  "entry_note": "Price is -1.5 ATRs above 20EMA, RSI 38, 1-month move -3%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 1.3,
+  "data_quality": "9/12",
+  "data_quality_pct": 75,
+  "score_drivers": [
+   "\u2717 price vs 200EMA",
+   "\u2717 price vs 50EMA",
+   "\u2717 50>200 EMA structure",
+   "\u2717 higher highs & lows",
+   "\u2717 accumulation (A/D)",
+   "\u2717 RSI healthy (38)",
+   "\u2713 MACD positive",
+   "\u2713 PE 21",
+   "\u2717 earnings growth -22%",
+   "\u2713 revenue growth 30%",
+   "\u2713 D/E 46"
+  ],
+  "technical_summary": "Strong Downtrend, RSI 38, ADX 27, MACD hist +2.10, vol 1.1x avg, patterns: Doji, Evening Star, Morning Star",
+  "fundamental_summary": "PE 21.14089, PEG 0.82, ROE 0%, D/E 46.278, rev growth 30%",
+  "investment_thesis": "Strong Downtrend; price 1158.0 vs 50EMA 1229.7 / 200EMA 1310.7. Fundamentals score 82/100 (ROE 0%, earnings growth -22%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
+  "key_strengths": [
+   "Low debt"
+  ],
+  "key_risks": [
+   "Declining earnings",
+   "Bearish trend structure"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-10-30T01:11:31.086558+00:00",
+  "sector_relative_strength": 5.7
  },
  {
   "symbol": "URBANCO",
@@ -14591,7 +14644,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:47.396005+00:00",
+  "last_updated": "2026-10-30T01:11:38.195600+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -14643,7 +14696,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:14.279977+00:00",
+  "last_updated": "2026-10-30T01:10:59.124083+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -14698,7 +14751,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:15.715553+00:00",
+  "last_updated": "2026-10-30T01:11:00.601113+00:00",
   "sector_relative_strength": 17.0
  },
  {
@@ -14753,7 +14806,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:23.823939+00:00",
+  "last_updated": "2026-10-30T01:11:09.884946+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -14810,7 +14863,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:35.787973+00:00",
+  "last_updated": "2026-10-30T01:11:24.085319+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -14864,7 +14917,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.962342+00:00",
+  "last_updated": "2026-10-30T01:11:29.185156+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -14920,7 +14973,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:17.616951+00:00",
+  "last_updated": "2026-10-30T01:11:02.704256+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -14975,7 +15028,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:27.978431+00:00",
+  "last_updated": "2026-10-30T01:11:14.738027+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -15030,7 +15083,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:28.912545+00:00",
+  "last_updated": "2026-10-30T01:11:16.074037+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -15084,7 +15137,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.442171+00:00",
+  "last_updated": "2026-10-30T01:11:25.782691+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -15140,7 +15193,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.560387+00:00",
+  "last_updated": "2026-10-30T01:11:05.162330+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -15192,61 +15245,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:28.460819+00:00",
+  "last_updated": "2026-10-30T01:11:15.583564+00:00",
   "sector_relative_strength": -10.9
- },
- {
-  "symbol": "RELIANCE",
-  "company_name": "Reliance Industries Limited",
-  "sector": "Energy",
-  "industry": "Oil & Gas Refining & Marketing",
-  "current_price": 1158.0,
-  "technical_score": 0,
-  "fundamental_score": 82.0,
-  "momentum_score": 25,
-  "quality_score": 68.0,
-  "risk_score": 80.0,
-  "overall_score": 43.2,
-  "recommendation": "AVOID",
-  "target_price": 1158.0,
-  "upside_percent": 0.0,
-  "stop_loss": 1065.36,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 75.0,
-  "entry_zone_low": 1229.74,
-  "entry_zone_high": 1343.68,
-  "risk_reward": 0,
-  "extension_atr": -1.5,
-  "entry_note": "Price is -1.5 ATRs above 20EMA, RSI 38, 1-month move -3%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 1.3,
-  "data_quality": "9/12",
-  "data_quality_pct": 75,
-  "score_drivers": [
-   "\u2717 price vs 200EMA",
-   "\u2717 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
-   "\u2717 higher highs & lows",
-   "\u2717 accumulation (A/D)",
-   "\u2717 RSI healthy (38)",
-   "\u2713 MACD positive",
-   "\u2713 PE 21",
-   "\u2717 earnings growth -22%",
-   "\u2713 revenue growth 30%",
-   "\u2713 D/E 46"
-  ],
-  "technical_summary": "Strong Downtrend, RSI 38, ADX 27, MACD hist +2.10, vol 1.1x avg, patterns: Doji, Evening Star, Morning Star",
-  "fundamental_summary": "PE 21.14089, PEG 0.82, ROE 0%, D/E 46.278, rev growth 30%",
-  "investment_thesis": "Strong Downtrend; price 1158.0 vs 50EMA 1229.7 / 200EMA 1310.7. Fundamentals score 82/100 (ROE 0%, earnings growth -22%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
-  "key_strengths": [
-   "Low debt"
-  ],
-  "key_risks": [
-   "Declining earnings",
-   "Bearish trend structure"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:41.798820+00:00",
-  "sector_relative_strength": 5.7
  },
  {
   "symbol": "RITES",
@@ -15298,7 +15298,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:41.921709+00:00",
+  "last_updated": "2026-10-30T01:11:31.381531+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -15355,7 +15355,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.868458+00:00",
+  "last_updated": "2026-10-30T01:11:26.492421+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -15409,7 +15409,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:48.662488+00:00",
+  "last_updated": "2026-10-30T01:11:39.529635+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -15461,7 +15461,7 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:14.637444+00:00",
+  "last_updated": "2026-10-30T01:10:59.337678+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -15517,7 +15517,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:33.002671+00:00",
+  "last_updated": "2026-10-30T01:11:20.779620+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -15572,7 +15572,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:23.264199+00:00",
+  "last_updated": "2026-10-30T01:11:09.387596+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -15625,7 +15625,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:30.907737+00:00",
+  "last_updated": "2026-10-30T01:11:18.259934+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -15677,7 +15677,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:34.626569+00:00",
+  "last_updated": "2026-10-30T01:11:22.579256+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -15729,7 +15729,7 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:35.899185+00:00",
+  "last_updated": "2026-10-30T01:11:24.070207+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -15781,7 +15781,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:41.518971+00:00",
+  "last_updated": "2026-10-30T01:11:31.003345+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -15835,7 +15835,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:45.290650+00:00",
+  "last_updated": "2026-10-30T01:11:35.654435+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -15893,7 +15893,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.942286+00:00",
+  "last_updated": "2026-10-30T01:11:35.119444+00:00",
   "sector_relative_strength": 17.0
  },
  {
@@ -15948,7 +15948,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:18.115157+00:00",
+  "last_updated": "2026-10-30T01:11:03.451291+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -16002,7 +16002,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:29.142430+00:00",
+  "last_updated": "2026-10-30T01:11:16.175361+00:00",
   "sector_relative_strength": 5.7
  },
  {
@@ -16045,7 +16045,7 @@
    "\u2713 D/E 7"
   ],
   "technical_summary": "Sideways, RSI 40, ADX 19, MACD hist -15.77, vol 0.4x avg, patterns: Bullish Engulfing, Doji",
-  "fundamental_summary": "PE 67.814285, PEG n/a, ROE 0%, D/E 7.251, rev growth 9%",
+  "fundamental_summary": "PE 67.64517, PEG n/a, ROE 0%, D/E 7.251, rev growth 9%",
   "investment_thesis": "Sideways; price 1910.0 vs 50EMA 2011.5 / 200EMA 1724.8. Fundamentals score 49/100 (ROE 0%, earnings growth -5%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "Low debt"
@@ -16055,7 +16055,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:31.184330+00:00",
+  "last_updated": "2026-10-30T01:11:18.502920+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -16111,7 +16111,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:48.332049+00:00",
+  "last_updated": "2026-10-30T01:11:39.042772+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -16155,7 +16155,7 @@
    "\u2717 ROE 10%"
   ],
   "technical_summary": "Sideways, RSI 29, ADX 21, MACD hist -46.56, vol 2.6x avg",
-  "fundamental_summary": "PE 50.3029, PEG n/a, ROE 10%, D/E 4.615, rev growth 22%",
+  "fundamental_summary": "PE 50.259407, PEG n/a, ROE 10%, D/E 4.615, rev growth 22%",
   "investment_thesis": "Sideways; price 2464.5 vs 50EMA 2894.6 / 200EMA 2566.9. Fundamentals score 61/100 (ROE 10%, earnings growth -1%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "Low debt"
@@ -16164,7 +16164,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:20.649124+00:00",
+  "last_updated": "2026-10-30T01:11:06.588505+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -16219,7 +16219,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:33.817730+00:00",
+  "last_updated": "2026-10-30T01:11:21.695022+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -16272,7 +16272,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:38.759425+00:00",
+  "last_updated": "2026-10-30T01:11:27.666874+00:00",
   "sector_relative_strength": -2.8
  },
  {
@@ -16325,7 +16325,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:24.946677+00:00",
+  "last_updated": "2026-10-30T01:11:11.132052+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -16381,7 +16381,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:38.248222+00:00",
+  "last_updated": "2026-10-30T01:11:27.158470+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -16434,7 +16434,7 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:40.189414+00:00",
+  "last_updated": "2026-10-30T01:11:29.279826+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -16490,7 +16490,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:40.663350+00:00",
+  "last_updated": "2026-10-30T01:11:29.875220+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -16545,7 +16545,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.224316+00:00",
+  "last_updated": "2026-10-30T01:11:36.959188+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -16599,7 +16599,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:18.564531+00:00",
+  "last_updated": "2026-10-30T01:11:03.897930+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -16653,7 +16653,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:47.391700+00:00",
+  "last_updated": "2026-10-30T01:11:38.050399+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -16706,7 +16706,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:16.817112+00:00",
+  "last_updated": "2026-10-30T01:11:01.784765+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -16759,7 +16759,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:17.201136+00:00",
+  "last_updated": "2026-10-30T01:11:02.276114+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -16811,7 +16811,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:18.559658+00:00",
+  "last_updated": "2026-10-30T01:11:04.039898+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -16866,7 +16866,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.132116+00:00",
+  "last_updated": "2026-10-30T01:11:25.640926+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -16921,7 +16921,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:20.934587+00:00",
+  "last_updated": "2026-10-30T01:11:06.911419+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -16975,8 +16975,64 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:30.454661+00:00",
+  "last_updated": "2026-10-30T01:11:17.664075+00:00",
   "sector_relative_strength": -10.8
+ },
+ {
+  "symbol": "AIAENG",
+  "company_name": "AIA Engineering Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 3608.0,
+  "technical_score": 8.0,
+  "fundamental_score": 60.0,
+  "momentum_score": 35,
+  "quality_score": 81.0,
+  "risk_score": 86.0,
+  "overall_score": 41.4,
+  "recommendation": "HOLD",
+  "target_price": 3608.0,
+  "upside_percent": 0.0,
+  "stop_loss": 3319.36,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 75.0,
+  "entry_zone_low": 3939.33,
+  "entry_zone_high": 4891.94,
+  "risk_reward": 0,
+  "extension_atr": -1.1,
+  "entry_note": "Price is -1.1 ATRs above 20EMA, RSI 33, 1-month move -6%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 20.5,
+  "data_quality": "8/12",
+  "data_quality_pct": 67,
+  "score_drivers": [
+   "\u2717 price vs 200EMA",
+   "\u2717 price vs 50EMA",
+   "\u2717 50>200 EMA structure",
+   "\u2717 death cross (recent)",
+   "\u2717 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2717 RSI healthy (33)",
+   "\u2713 MACD positive",
+   "\u2713 PE 27",
+   "\u2717 earnings growth -1%",
+   "\u2713 revenue growth 12%",
+   "\u2713 D/E 0"
+  ],
+  "technical_summary": "Strong Downtrend, RSI 33, ADX 36, MACD hist +2.54, vol 0.8x avg",
+  "fundamental_summary": "PE 26.807428, PEG n/a, ROE 0%, D/E 0.128, rev growth 12%",
+  "investment_thesis": "Strong Downtrend; price 3608.0 vs 50EMA 3939.3 / 200EMA 4035.1. Fundamentals score 60/100 (ROE 0%, earnings growth -1%). Mixed signals; no edge at current levels.",
+  "key_strengths": [
+   "Low debt",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Death cross",
+   "Declining earnings",
+   "Bearish trend structure"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-10-30T01:11:00.682598+00:00",
+  "sector_relative_strength": -8.7
  },
  {
   "symbol": "COLPAL",
@@ -17029,7 +17085,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:22.498410+00:00",
+  "last_updated": "2026-10-30T01:11:08.527649+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -17079,7 +17135,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:29.997936+00:00",
+  "last_updated": "2026-10-30T01:11:17.173227+00:00",
   "sector_relative_strength": 17.0
  },
  {
@@ -17136,7 +17192,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:32.927874+00:00",
+  "last_updated": "2026-10-30T01:11:20.745336+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -17190,7 +17246,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:16.479653+00:00",
+  "last_updated": "2026-10-30T01:11:01.401790+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -17244,64 +17300,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:41.371489+00:00",
+  "last_updated": "2026-10-30T01:11:30.771667+00:00",
   "sector_relative_strength": 26.5
- },
- {
-  "symbol": "AIAENG",
-  "company_name": "AIA Engineering Limited",
-  "sector": "Industrials",
-  "industry": "Specialty Industrial Machinery",
-  "current_price": 3608.0,
-  "technical_score": 8.0,
-  "fundamental_score": 60.0,
-  "momentum_score": 35,
-  "quality_score": 81.0,
-  "risk_score": 80.0,
-  "overall_score": 41.1,
-  "recommendation": "HOLD",
-  "target_price": 3608.0,
-  "upside_percent": 0.0,
-  "stop_loss": 3319.36,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 75.0,
-  "entry_zone_low": 3939.33,
-  "entry_zone_high": 4891.94,
-  "risk_reward": 0,
-  "extension_atr": -1.1,
-  "entry_note": "Price is -1.1 ATRs above 20EMA, RSI 33, 1-month move -6%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 20.5,
-  "data_quality": "8/12",
-  "data_quality_pct": 67,
-  "score_drivers": [
-   "\u2717 price vs 200EMA",
-   "\u2717 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
-   "\u2717 death cross (recent)",
-   "\u2717 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2717 RSI healthy (33)",
-   "\u2713 MACD positive",
-   "\u2713 PE 27",
-   "\u2717 earnings growth -1%",
-   "\u2713 revenue growth 12%",
-   "\u2713 D/E 0"
-  ],
-  "technical_summary": "Strong Downtrend, RSI 33, ADX 36, MACD hist +2.54, vol 0.8x avg",
-  "fundamental_summary": "PE 26.807428, PEG n/a, ROE 0%, D/E 0.128, rev growth 12%",
-  "investment_thesis": "Strong Downtrend; price 3608.0 vs 50EMA 3939.3 / 200EMA 4035.1. Fundamentals score 60/100 (ROE 0%, earnings growth -1%). Mixed signals; no edge at current levels.",
-  "key_strengths": [
-   "Low debt",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Death cross",
-   "Declining earnings",
-   "Bearish trend structure"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:15.980544+00:00",
-  "sector_relative_strength": -8.7
  },
  {
   "symbol": "BHARATFORG",
@@ -17351,7 +17351,7 @@
    "Rich valuation (PE 120)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.366360+00:00",
+  "last_updated": "2026-10-30T01:11:05.068557+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -17405,7 +17405,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:24.943161+00:00",
+  "last_updated": "2026-10-30T01:11:11.429548+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -17457,7 +17457,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:32.133744+00:00",
+  "last_updated": "2026-10-30T01:11:19.640171+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -17511,7 +17511,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.560310+00:00",
+  "last_updated": "2026-10-30T01:11:28.548328+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -17565,7 +17565,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:47.684611+00:00",
+  "last_updated": "2026-10-30T01:11:38.407475+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -17618,7 +17618,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:22.921224+00:00",
+  "last_updated": "2026-10-30T01:11:09.207902+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -17674,7 +17674,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:40.362625+00:00",
+  "last_updated": "2026-10-30T01:11:29.668567+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -17727,7 +17727,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:27.110076+00:00",
+  "last_updated": "2026-10-30T01:11:13.810872+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -17783,7 +17783,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:35.365236+00:00",
+  "last_updated": "2026-10-30T01:11:23.568488+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -17837,7 +17837,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:36.130583+00:00",
+  "last_updated": "2026-10-30T01:11:24.530529+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -17890,7 +17890,7 @@
    "Rich valuation (PE 83)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:43.510942+00:00",
+  "last_updated": "2026-10-30T01:11:33.367115+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -17946,7 +17946,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:16.144165+00:00",
+  "last_updated": "2026-10-30T01:11:00.980604+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -18003,7 +18003,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:16.477346+00:00",
+  "last_updated": "2026-10-30T01:11:01.535554+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -18057,7 +18057,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:32.183876+00:00",
+  "last_updated": "2026-10-30T01:11:20.069083+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -18111,7 +18111,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:38.341908+00:00",
+  "last_updated": "2026-10-30T01:11:27.087451+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -18164,7 +18164,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:21.995439+00:00",
+  "last_updated": "2026-10-30T01:11:07.989073+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -18220,7 +18220,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:49.003888+00:00",
+  "last_updated": "2026-10-30T01:11:39.854518+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -18274,7 +18274,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:22.590041+00:00",
+  "last_updated": "2026-10-30T01:11:08.878547+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -18326,7 +18326,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.841819+00:00",
+  "last_updated": "2026-10-30T01:11:37.364346+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -18380,7 +18380,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:28.313456+00:00",
+  "last_updated": "2026-10-30T01:11:15.214898+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -18418,14 +18418,14 @@
    "\u2713 accumulation (A/D)",
    "\u2717 RSI healthy (47)",
    "\u2713 MACD positive",
-   "\u2713 PE 21",
+   "\u2713 PE 20",
    "\u2717 earnings growth -10%",
    "\u2713 revenue growth 32%",
    "\u2713 D/E 71",
    "\u2717 ROE 11%"
   ],
   "technical_summary": "Downtrend, RSI 47, ADX 22, MACD hist +0.74, vol 1.4x avg, patterns: Bearish Engulfing",
-  "fundamental_summary": "PE 20.57016, PEG n/a, ROE 11%, D/E 71.17, rev growth 32%",
+  "fundamental_summary": "PE 20.35325, PEG n/a, ROE 11%, D/E 71.17, rev growth 32%",
   "investment_thesis": "Downtrend; price 115.2 vs 50EMA 118.5 / 200EMA 125.0. Fundamentals score 61/100 (ROE 11%, earnings growth -10%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "Accumulation pattern (A/D rising)"
@@ -18436,7 +18436,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:32.848720+00:00",
+  "last_updated": "2026-10-30T01:11:20.656315+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -18489,7 +18489,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:27.232720+00:00",
+  "last_updated": "2026-10-30T01:11:14.182688+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -18543,7 +18543,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:38.038529+00:00",
+  "last_updated": "2026-10-30T01:11:26.680999+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -18596,7 +18596,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:18.692519+00:00",
+  "last_updated": "2026-10-30T01:11:04.076292+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -18651,7 +18651,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:41.308926+00:00",
+  "last_updated": "2026-10-30T01:11:30.615291+00:00",
   "sector_relative_strength": 17.0
  },
  {
@@ -18709,7 +18709,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:47.360809+00:00",
+  "last_updated": "2026-10-30T01:11:37.933428+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -18763,7 +18763,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:24.937064+00:00",
+  "last_updated": "2026-10-30T01:11:11.456711+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -18819,7 +18819,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.822013+00:00",
+  "last_updated": "2026-10-30T01:11:34.852701+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -18873,7 +18873,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:23.772826+00:00",
+  "last_updated": "2026-10-30T01:11:10.194409+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -18928,7 +18928,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:30.748631+00:00",
+  "last_updated": "2026-10-30T01:11:18.072904+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -18983,7 +18983,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:17.286051+00:00",
+  "last_updated": "2026-10-30T01:11:02.263607+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -19039,7 +19039,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:25.429587+00:00",
+  "last_updated": "2026-10-30T01:11:11.949303+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -19094,7 +19094,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:42.905927+00:00",
+  "last_updated": "2026-10-30T01:11:32.311008+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -19146,7 +19146,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:21.130641+00:00",
+  "last_updated": "2026-10-30T01:11:07.064004+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -19202,7 +19202,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:27.529623+00:00",
+  "last_updated": "2026-10-30T01:11:14.246010+00:00",
   "sector_relative_strength": -2.8
  },
  {
@@ -19256,7 +19256,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:31.865210+00:00",
+  "last_updated": "2026-10-30T01:11:19.618086+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -19311,7 +19311,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:23.953227+00:00",
+  "last_updated": "2026-10-30T01:11:10.264012+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -19361,7 +19361,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:38.202563+00:00",
+  "last_updated": "2026-10-30T01:11:26.782802+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -19415,7 +19415,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:45.431718+00:00",
+  "last_updated": "2026-10-30T01:11:35.442521+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -19468,7 +19468,7 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:40.539314+00:00",
+  "last_updated": "2026-10-30T01:11:29.796802+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -19522,7 +19522,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:47.843702+00:00",
+  "last_updated": "2026-10-30T01:11:38.594343+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -19573,7 +19573,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:14.800652+00:00",
+  "last_updated": "2026-10-30T01:10:59.561728+00:00",
   "sector_relative_strength": -2.8
  },
  {
@@ -19626,7 +19626,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:45.681447+00:00",
+  "last_updated": "2026-10-30T01:11:36.005594+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -19681,7 +19681,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:16.840884+00:00",
+  "last_updated": "2026-10-30T01:11:01.834156+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -19733,7 +19733,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:41.881347+00:00",
+  "last_updated": "2026-10-30T01:11:31.309564+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -19786,7 +19786,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:43.126331+00:00",
+  "last_updated": "2026-10-30T01:11:32.386980+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -19830,7 +19830,7 @@
    "\u2713 D/E 0"
   ],
   "technical_summary": "Strong Downtrend, RSI 35, ADX 32, MACD hist -11.69, vol 1.2x avg, patterns: Bullish Engulfing, Doji",
-  "fundamental_summary": "PE 50.90553, PEG n/a, ROE 0%, D/E 0.5, rev growth 17%",
+  "fundamental_summary": "PE 51.418797, PEG n/a, ROE 0%, D/E 0.5, rev growth 17%",
   "investment_thesis": "Strong Downtrend; price 2803.4 vs 50EMA 3046.7 / 200EMA 3195.8. Fundamentals score 68/100 (ROE 0%, earnings growth 15%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "Low debt"
@@ -19840,7 +19840,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.020639+00:00",
+  "last_updated": "2026-10-30T01:11:36.589424+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -19892,7 +19892,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.073195+00:00",
+  "last_updated": "2026-10-30T01:11:04.585639+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -19929,13 +19929,13 @@
    "\u2717 accumulation (A/D)",
    "\u2717 RSI healthy (36)",
    "\u2717 MACD positive",
-   "\u2713 PE 33",
+   "\u2713 PE 34",
    "\u2713 earnings growth 15%",
    "\u2713 revenue growth 11%",
    "\u2713 D/E 11"
   ],
   "technical_summary": "Downtrend, RSI 36, ADX 20, MACD hist -2.20, vol 0.6x avg, patterns: Bullish Engulfing",
-  "fundamental_summary": "PE 33.333332, PEG 3.16, ROE 0%, D/E 10.907, rev growth 11%",
+  "fundamental_summary": "PE 33.54488, PEG 3.16, ROE 0%, D/E 10.907, rev growth 11%",
   "investment_thesis": "Downtrend; price 360.0 vs 50EMA 385.0 / 200EMA 425.5. Fundamentals score 70/100 (ROE 0%, earnings growth 15%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "Strong earnings growth (15%)",
@@ -19945,7 +19945,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:23.403390+00:00",
+  "last_updated": "2026-10-30T01:11:09.661657+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -19999,7 +19999,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:25.318912+00:00",
+  "last_updated": "2026-10-30T01:11:12.163414+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -20055,7 +20055,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:29.255971+00:00",
+  "last_updated": "2026-10-30T01:11:16.363119+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -20110,7 +20110,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:29.095456+00:00",
+  "last_updated": "2026-10-30T01:11:16.314587+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -20153,7 +20153,7 @@
    "\u2717 D/E 623"
   ],
   "technical_summary": "Strong Downtrend, RSI 36, ADX 48, MACD hist -6.40, vol 1.1x avg, patterns: Doji",
-  "fundamental_summary": "PE 9.605235, PEG n/a, ROE 0%, D/E 623.156, rev growth 14%",
+  "fundamental_summary": "PE 9.933775, PEG n/a, ROE 0%, D/E 623.156, rev growth 14%",
   "investment_thesis": "Strong Downtrend; price 1304.1 vs 50EMA 1427.4 / 200EMA 1567.7. Fundamentals score 69/100 (ROE 0%, earnings growth 39%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "Strong earnings growth (39%)",
@@ -20164,7 +20164,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:21.893667+00:00",
+  "last_updated": "2026-10-30T01:11:07.932618+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -20219,7 +20219,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:27.175837+00:00",
+  "last_updated": "2026-10-30T01:11:13.789832+00:00",
   "sector_relative_strength": 5.7
  },
  {
@@ -20276,7 +20276,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:29.600106+00:00",
+  "last_updated": "2026-10-30T01:11:16.761280+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -20330,7 +20330,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.043770+00:00",
+  "last_updated": "2026-10-30T01:11:04.540746+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -20385,7 +20385,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:27.510356+00:00",
+  "last_updated": "2026-10-30T01:11:14.306697+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -20439,7 +20439,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:28.546635+00:00",
+  "last_updated": "2026-10-30T01:11:15.623886+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -20492,7 +20492,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:16.081851+00:00",
+  "last_updated": "2026-10-30T01:11:01.156713+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -20546,7 +20546,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:18.051293+00:00",
+  "last_updated": "2026-10-30T01:11:03.593430+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -20601,7 +20601,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.009169+00:00",
+  "last_updated": "2026-10-30T01:11:04.515323+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -20654,7 +20654,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:26.720465+00:00",
+  "last_updated": "2026-10-30T01:11:13.400968+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -20709,7 +20709,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:29.309167+00:00",
+  "last_updated": "2026-10-30T01:11:16.651430+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -20762,7 +20762,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.167233+00:00",
+  "last_updated": "2026-10-30T01:11:33.966580+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -20815,7 +20815,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:48.044038+00:00",
+  "last_updated": "2026-10-30T01:11:38.751166+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -20871,7 +20871,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:14.383701+00:00",
+  "last_updated": "2026-10-30T01:10:58.886920+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -20925,7 +20925,7 @@
    "Rich valuation (PE 119)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:15.284161+00:00",
+  "last_updated": "2026-10-30T01:11:00.078459+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -20978,7 +20978,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:20.192305+00:00",
+  "last_updated": "2026-10-30T01:11:05.778692+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -21030,7 +21030,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:20.376532+00:00",
+  "last_updated": "2026-10-30T01:11:06.091713+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -21082,7 +21082,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:47.090679+00:00",
+  "last_updated": "2026-10-30T01:11:37.791601+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -21134,7 +21134,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:38.507203+00:00",
+  "last_updated": "2026-10-30T01:11:27.108835+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -21171,23 +21171,78 @@
    "\u2713 accumulation (A/D)",
    "\u2717 RSI healthy (43)",
    "\u2717 MACD positive",
-   "\u2717 PE 147",
+   "\u2717 PE 148",
    "\u2717 earnings growth -70%",
    "\u2717 revenue growth 5%",
    "\u2713 D/E 71"
   ],
   "technical_summary": "Sideways, RSI 43, ADX 22, MACD hist -3.68, vol 0.5x avg",
-  "fundamental_summary": "PE 147.03511, PEG n/a, ROE 0%, D/E 70.795, rev growth 5%",
+  "fundamental_summary": "PE 147.80391, PEG n/a, ROE 0%, D/E 70.795, rev growth 5%",
   "investment_thesis": "Sideways; price 1146.5 vs 50EMA 1207.2 / 200EMA 1133.4. Fundamentals score 34/100 (ROE 0%, earnings growth -70%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "Accumulation pattern (A/D rising)"
   ],
   "key_risks": [
-   "Rich valuation (PE 147)",
+   "Rich valuation (PE 148)",
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:42.896928+00:00",
+  "last_updated": "2026-10-30T01:11:32.715879+00:00",
+  "sector_relative_strength": -8.7
+ },
+ {
+  "symbol": "ASHOKLEY",
+  "company_name": "Ashok Leyland Limited",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "current_price": 144.85,
+  "technical_score": 4.7,
+  "fundamental_score": 61.0,
+  "momentum_score": 25,
+  "quality_score": 69.0,
+  "risk_score": 65.0,
+  "overall_score": 36.9,
+  "recommendation": "AVOID",
+  "target_price": 144.85,
+  "upside_percent": -0.0,
+  "stop_loss": 133.26,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 75.0,
+  "entry_zone_low": 155.0,
+  "entry_zone_high": 183.61,
+  "risk_reward": 0,
+  "extension_atr": -0.9,
+  "entry_note": "Price is -0.9 ATRs above 20EMA, RSI 39, 1-month move -7%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 15.4,
+  "data_quality": "8/12",
+  "data_quality_pct": 67,
+  "score_drivers": [
+   "\u2717 price vs 200EMA",
+   "\u2717 price vs 50EMA",
+   "\u2717 50>200 EMA structure",
+   "\u2717 death cross (recent)",
+   "\u2717 higher highs & lows",
+   "\u2717 accumulation (A/D)",
+   "\u2717 RSI healthy (39)",
+   "\u2713 MACD positive",
+   "\u2713 PE 24",
+   "\u2717 earnings growth 1%",
+   "\u2713 revenue growth 12%",
+   "\u2717 D/E 345"
+  ],
+  "technical_summary": "Strong Downtrend, RSI 39, ADX 43, MACD hist +0.21, vol 1.2x avg, patterns: Morning Star",
+  "fundamental_summary": "PE 24.493242, PEG n/a, ROE 0%, D/E 344.737, rev growth 12%",
+  "investment_thesis": "Strong Downtrend; price 144.9 vs 50EMA 155.0 / 200EMA 158.5. Fundamentals score 61/100 (ROE 0%, earnings growth 1%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
+  "key_strengths": [
+   "None notable"
+  ],
+  "key_risks": [
+   "Elevated leverage",
+   "Death cross",
+   "Bearish trend structure"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-10-30T01:11:02.302609+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -21239,7 +21294,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:31.640457+00:00",
+  "last_updated": "2026-10-30T01:11:19.061980+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -21294,7 +21349,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:25.942746+00:00",
+  "last_updated": "2026-10-30T01:11:12.688704+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -21345,7 +21400,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:42.221925+00:00",
+  "last_updated": "2026-10-30T01:11:31.467019+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -21400,7 +21455,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:14.794112+00:00",
+  "last_updated": "2026-10-30T01:10:59.627251+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -21452,7 +21507,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.812602+00:00",
+  "last_updated": "2026-10-30T01:11:26.288302+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -21504,7 +21559,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:42.690745+00:00",
+  "last_updated": "2026-10-30T01:11:32.483310+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -21556,62 +21611,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:22.588178+00:00",
-  "sector_relative_strength": -8.7
- },
- {
-  "symbol": "ASHOKLEY",
-  "company_name": "Ashok Leyland Limited",
-  "sector": "Industrials",
-  "industry": "Farm & Heavy Construction Machinery",
-  "current_price": 144.85,
-  "technical_score": 4.7,
-  "fundamental_score": 61.0,
-  "momentum_score": 25,
-  "quality_score": 69.0,
-  "risk_score": 53.0,
-  "overall_score": 36.3,
-  "recommendation": "AVOID",
-  "target_price": 144.85,
-  "upside_percent": -0.0,
-  "stop_loss": 133.26,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 75.0,
-  "entry_zone_low": 155.0,
-  "entry_zone_high": 183.61,
-  "risk_reward": 0,
-  "extension_atr": -0.9,
-  "entry_note": "Price is -0.9 ATRs above 20EMA, RSI 39, 1-month move -7%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 15.4,
-  "data_quality": "8/12",
-  "data_quality_pct": 67,
-  "score_drivers": [
-   "\u2717 price vs 200EMA",
-   "\u2717 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
-   "\u2717 death cross (recent)",
-   "\u2717 higher highs & lows",
-   "\u2717 accumulation (A/D)",
-   "\u2717 RSI healthy (39)",
-   "\u2713 MACD positive",
-   "\u2713 PE 24",
-   "\u2717 earnings growth 1%",
-   "\u2713 revenue growth 12%",
-   "\u2717 D/E 345"
-  ],
-  "technical_summary": "Strong Downtrend, RSI 39, ADX 43, MACD hist +0.21, vol 1.2x avg, patterns: Morning Star",
-  "fundamental_summary": "PE 24.493242, PEG n/a, ROE 0%, D/E 344.737, rev growth 12%",
-  "investment_thesis": "Strong Downtrend; price 144.9 vs 50EMA 155.0 / 200EMA 158.5. Fundamentals score 61/100 (ROE 0%, earnings growth 1%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
-  "key_strengths": [
-   "None notable"
-  ],
-  "key_risks": [
-   "Elevated leverage",
-   "Death cross",
-   "Bearish trend structure"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:17.180961+00:00",
+  "last_updated": "2026-10-30T01:11:08.477239+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -21664,7 +21664,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:34.160692+00:00",
+  "last_updated": "2026-10-30T01:11:22.101818+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -21720,7 +21720,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:34.091368+00:00",
+  "last_updated": "2026-10-30T01:11:22.155315+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -21774,7 +21774,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:20.145654+00:00",
+  "last_updated": "2026-10-30T01:11:05.663778+00:00",
   "sector_relative_strength": -2.8
  },
  {
@@ -21827,7 +21827,7 @@
    "Rich valuation (PE 88)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:20.562365+00:00",
+  "last_updated": "2026-10-30T01:11:06.207085+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -21880,7 +21880,7 @@
    "Rich valuation (PE 92)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:15.544895+00:00",
+  "last_updated": "2026-10-30T01:11:00.382222+00:00",
   "sector_relative_strength": 5.7
  },
  {
@@ -21935,7 +21935,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:17.764353+00:00",
+  "last_updated": "2026-10-30T01:11:02.823233+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -21988,7 +21988,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:29.590415+00:00",
+  "last_updated": "2026-10-30T01:11:16.686495+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -22044,7 +22044,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.124578+00:00",
+  "last_updated": "2026-10-30T01:11:36.441363+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -22093,7 +22093,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:19.964363+00:00",
+  "last_updated": "2026-10-30T01:11:05.284207+00:00",
   "sector_relative_strength": -30.4
  },
  {
@@ -22148,7 +22148,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:36.632270+00:00",
+  "last_updated": "2026-10-30T01:11:25.012125+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -22205,7 +22205,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:26.482083+00:00",
+  "last_updated": "2026-10-30T01:11:13.253080+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -22258,7 +22258,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:45.256556+00:00",
+  "last_updated": "2026-10-30T01:11:35.332840+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -22312,7 +22312,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:33.710195+00:00",
+  "last_updated": "2026-10-30T01:11:21.563170+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -22368,7 +22368,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:27.924566+00:00",
+  "last_updated": "2026-10-30T01:11:14.676998+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -22421,7 +22421,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:31.780994+00:00",
+  "last_updated": "2026-10-30T01:11:19.140249+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -22475,7 +22475,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:31.861657+00:00",
+  "last_updated": "2026-10-30T01:11:19.527124+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -22528,7 +22528,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.030667+00:00",
+  "last_updated": "2026-10-30T01:11:25.270276+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -22582,7 +22582,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:14.309423+00:00",
+  "last_updated": "2026-10-30T01:10:59.045522+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -22635,7 +22635,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:27.260623+00:00",
+  "last_updated": "2026-10-30T01:11:14.091530+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -22690,7 +22690,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.542995+00:00",
+  "last_updated": "2026-10-30T01:11:26.089728+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -22745,7 +22745,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:34.930335+00:00",
+  "last_updated": "2026-10-30T01:11:23.092475+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -22799,7 +22799,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:24.013723+00:00",
+  "last_updated": "2026-10-30T01:11:10.352046+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -22856,7 +22856,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.049086+00:00",
+  "last_updated": "2026-10-30T01:11:36.444786+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -22910,7 +22910,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:43.728735+00:00",
+  "last_updated": "2026-10-30T01:11:33.354316+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -22965,7 +22965,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:16.385671+00:00",
+  "last_updated": "2026-10-30T01:11:01.323515+00:00",
   "sector_relative_strength": -2.8
  },
  {
@@ -23019,7 +23019,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:17.687783+00:00",
+  "last_updated": "2026-10-30T01:11:03.164253+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -23072,7 +23072,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:29.928441+00:00",
+  "last_updated": "2026-10-30T01:11:17.145546+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -23125,7 +23125,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:37.577193+00:00",
+  "last_updated": "2026-10-30T01:11:26.207982+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -23180,7 +23180,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:45.879483+00:00",
+  "last_updated": "2026-10-30T01:11:36.331997+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -23236,7 +23236,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:32.845898+00:00",
+  "last_updated": "2026-10-30T01:11:20.495982+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -23290,7 +23290,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:36.390209+00:00",
+  "last_updated": "2026-10-30T01:11:24.823166+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -23340,7 +23340,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.899979+00:00",
+  "last_updated": "2026-10-30T01:11:34.968616+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -23394,7 +23394,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:48.814629+00:00",
+  "last_updated": "2026-10-30T01:11:39.952908+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -23449,8 +23449,62 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:48.716063+00:00",
+  "last_updated": "2026-10-30T01:11:39.530658+00:00",
   "sector_relative_strength": 17.0
+ },
+ {
+  "symbol": "JUBLFOOD",
+  "company_name": "Jubilant FoodWorks Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "current_price": 424.0,
+  "technical_score": 3.3,
+  "fundamental_score": 44.0,
+  "momentum_score": 50,
+  "quality_score": 63.0,
+  "risk_score": 59.0,
+  "overall_score": 33.3,
+  "recommendation": "HOLD",
+  "target_price": 424.0,
+  "upside_percent": 0.0,
+  "stop_loss": 390.08,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 75.0,
+  "entry_zone_low": 448.25,
+  "entry_zone_high": 530.49,
+  "risk_reward": 0,
+  "extension_atr": -0.5,
+  "entry_note": "Price is -0.5 ATRs above 20EMA, RSI 43, 1-month move -11%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 11.7,
+  "data_quality": "8/12",
+  "data_quality_pct": 67,
+  "score_drivers": [
+   "\u2717 price vs 200EMA",
+   "\u2717 price vs 50EMA",
+   "\u2717 50>200 EMA structure",
+   "\u2717 higher highs & lows",
+   "\u2717 accumulation (A/D)",
+   "\u2717 RSI healthy (43)",
+   "\u2713 MACD positive",
+   "\u2717 PE 76",
+   "\u2717 earnings growth 6%",
+   "\u2713 revenue growth 14%",
+   "\u2717 D/E 205"
+  ],
+  "technical_summary": "Strong Downtrend, RSI 43, ADX 28, MACD hist +1.55, vol 1.4x avg, patterns: Doji",
+  "fundamental_summary": "PE 75.51076, PEG n/a, ROE 0%, D/E 205.318, rev growth 14%",
+  "investment_thesis": "Strong Downtrend; price 424.0 vs 50EMA 448.2 / 200EMA 480.1. Fundamentals score 44/100 (ROE 0%, earnings growth 6%). Mixed signals; no edge at current levels.",
+  "key_strengths": [
+   "None notable"
+  ],
+  "key_risks": [
+   "Elevated leverage",
+   "Rich valuation (PE 76)",
+   "Bearish trend structure"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-10-30T01:11:21.143880+00:00",
+  "sector_relative_strength": 7.2
  },
  {
   "symbol": "SWIGGY",
@@ -23500,7 +23554,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.533111+00:00",
+  "last_updated": "2026-10-30T01:11:34.638555+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -23553,7 +23607,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:15.167211+00:00",
+  "last_updated": "2026-10-30T01:11:00.151193+00:00",
   "sector_relative_strength": 5.7
  },
  {
@@ -23606,7 +23660,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:33.760738+00:00",
+  "last_updated": "2026-10-30T01:11:21.605726+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -23659,62 +23713,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:42.497665+00:00",
+  "last_updated": "2026-10-30T01:11:31.795273+00:00",
   "sector_relative_strength": -8.7
- },
- {
-  "symbol": "JUBLFOOD",
-  "company_name": "Jubilant FoodWorks Limited",
-  "sector": "Consumer Cyclical",
-  "industry": "Restaurants",
-  "current_price": 424.0,
-  "technical_score": 3.3,
-  "fundamental_score": 44.0,
-  "momentum_score": 50,
-  "quality_score": 63.0,
-  "risk_score": 53.0,
-  "overall_score": 33.0,
-  "recommendation": "HOLD",
-  "target_price": 424.0,
-  "upside_percent": 0.0,
-  "stop_loss": 390.08,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 75.0,
-  "entry_zone_low": 448.25,
-  "entry_zone_high": 530.49,
-  "risk_reward": 0,
-  "extension_atr": -0.5,
-  "entry_note": "Price is -0.5 ATRs above 20EMA, RSI 43, 1-month move -11%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 11.7,
-  "data_quality": "8/12",
-  "data_quality_pct": 67,
-  "score_drivers": [
-   "\u2717 price vs 200EMA",
-   "\u2717 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
-   "\u2717 higher highs & lows",
-   "\u2717 accumulation (A/D)",
-   "\u2717 RSI healthy (43)",
-   "\u2713 MACD positive",
-   "\u2717 PE 76",
-   "\u2717 earnings growth 6%",
-   "\u2713 revenue growth 14%",
-   "\u2717 D/E 205"
-  ],
-  "technical_summary": "Strong Downtrend, RSI 43, ADX 28, MACD hist +1.55, vol 1.4x avg, patterns: Doji",
-  "fundamental_summary": "PE 75.51076, PEG n/a, ROE 0%, D/E 205.318, rev growth 14%",
-  "investment_thesis": "Strong Downtrend; price 424.0 vs 50EMA 448.2 / 200EMA 480.1. Fundamentals score 44/100 (ROE 0%, earnings growth 6%). Mixed signals; no edge at current levels.",
-  "key_strengths": [
-   "None notable"
-  ],
-  "key_risks": [
-   "Elevated leverage",
-   "Rich valuation (PE 76)",
-   "Bearish trend structure"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:33.280798+00:00",
-  "sector_relative_strength": 7.2
  },
  {
   "symbol": "NLCINDIA",
@@ -23768,7 +23768,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:38.307067+00:00",
+  "last_updated": "2026-10-30T01:11:26.986806+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -23823,7 +23823,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.834771+00:00",
+  "last_updated": "2026-10-30T01:11:37.342727+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -23878,7 +23878,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:32.498485+00:00",
+  "last_updated": "2026-10-30T01:11:20.116852+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -23932,7 +23932,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:38.409062+00:00",
+  "last_updated": "2026-10-30T01:11:27.218551+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -23987,7 +23987,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.556755+00:00",
+  "last_updated": "2026-10-30T01:11:37.030430+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -24040,7 +24040,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:31.201854+00:00",
+  "last_updated": "2026-10-30T01:11:18.693203+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -24083,7 +24083,7 @@
    "\u2713 D/E 3"
   ],
   "technical_summary": "Strong Downtrend, RSI 35, ADX 33, MACD hist -3.57, vol 1.2x avg",
-  "fundamental_summary": "PE 27.473957, PEG n/a, ROE 0%, D/E 3.048, rev growth -10%",
+  "fundamental_summary": "PE 27.065163, PEG n/a, ROE 0%, D/E 3.048, rev growth -10%",
   "investment_thesis": "Strong Downtrend; price 2055.0 vs 50EMA 2297.7 / 200EMA 2729.9. Fundamentals score 49/100 (ROE 0%, earnings growth -39%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "Low debt",
@@ -24094,7 +24094,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:40.040852+00:00",
+  "last_updated": "2026-10-30T01:11:29.187542+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -24151,7 +24151,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.108396+00:00",
+  "last_updated": "2026-10-30T01:11:33.845412+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -24206,7 +24206,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.151914+00:00",
+  "last_updated": "2026-10-30T01:11:27.901823+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -24261,7 +24261,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:40.456835+00:00",
+  "last_updated": "2026-10-30T01:11:29.658068+00:00",
   "sector_relative_strength": 26.5
  },
  {
@@ -24314,7 +24314,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:24.681040+00:00",
+  "last_updated": "2026-10-30T01:11:10.957353+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -24369,7 +24369,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:21.247341+00:00",
+  "last_updated": "2026-10-30T01:11:07.115636+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -24425,7 +24425,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:21.029850+00:00",
+  "last_updated": "2026-10-30T01:11:07.031787+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -24481,7 +24481,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:34.983874+00:00",
+  "last_updated": "2026-10-30T01:11:23.062605+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -24534,7 +24534,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:33.566901+00:00",
+  "last_updated": "2026-10-30T01:11:21.144972+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -24587,7 +24587,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:30.891903+00:00",
+  "last_updated": "2026-10-30T01:11:18.164199+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -24640,7 +24640,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:31.611167+00:00",
+  "last_updated": "2026-10-30T01:11:19.150747+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -24693,7 +24693,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:41.578682+00:00",
+  "last_updated": "2026-10-30T01:11:30.906945+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -24745,7 +24745,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:43.534184+00:00",
+  "last_updated": "2026-10-30T01:11:33.221147+00:00",
   "sector_relative_strength": -2.8
  },
  {
@@ -24798,7 +24798,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:21.383476+00:00",
+  "last_updated": "2026-10-30T01:11:07.493687+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -24850,7 +24850,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:46.468274+00:00",
+  "last_updated": "2026-10-30T01:11:36.920753+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -24903,7 +24903,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:24.241850+00:00",
+  "last_updated": "2026-10-30T01:11:10.517825+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -24958,7 +24958,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.712801+00:00",
+  "last_updated": "2026-10-30T01:11:28.779606+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -25010,7 +25010,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:23.602399+00:00",
+  "last_updated": "2026-10-30T01:11:09.734158+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -25066,7 +25066,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:43.677629+00:00",
+  "last_updated": "2026-10-30T01:11:33.378669+00:00",
   "sector_relative_strength": -2.8
  },
  {
@@ -25117,7 +25117,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:44.480910+00:00",
+  "last_updated": "2026-10-30T01:11:34.496450+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -25171,7 +25171,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:32.540816+00:00",
+  "last_updated": "2026-10-30T01:11:20.243425+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -25226,7 +25226,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:36.197706+00:00",
+  "last_updated": "2026-10-30T01:11:24.645982+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -25279,7 +25279,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:32.603057+00:00",
+  "last_updated": "2026-10-30T01:11:20.657205+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -25332,7 +25332,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:49.112733+00:00",
+  "last_updated": "2026-10-30T01:11:40.038778+00:00",
   "sector_relative_strength": -11.5
  },
  {
@@ -25382,7 +25382,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:25.891346+00:00",
+  "last_updated": "2026-10-30T01:11:12.642660+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -25431,8 +25431,66 @@
    "Rich valuation (PE 93)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:25.082291+00:00",
+  "last_updated": "2026-10-30T01:11:11.556291+00:00",
   "sector_relative_strength": -30.4
+ },
+ {
+  "symbol": "RECLTD",
+  "company_name": "REC Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 290.0,
+  "technical_score": 8.0,
+  "fundamental_score": 41.0,
+  "momentum_score": 0,
+  "quality_score": 91.0,
+  "risk_score": 65.0,
+  "overall_score": 29.5,
+  "recommendation": "AVOID",
+  "target_price": 290.0,
+  "upside_percent": 0.0,
+  "stop_loss": 266.8,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 75.0,
+  "entry_zone_low": 311.3,
+  "entry_zone_high": 376.89,
+  "risk_reward": 0,
+  "extension_atr": -1.3,
+  "entry_note": "Price is -1.3 ATRs above 20EMA, RSI 39, 1-month move -4%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 6.5,
+  "data_quality": "10/12",
+  "data_quality_pct": 83,
+  "score_drivers": [
+   "\u2717 price vs 200EMA",
+   "\u2717 price vs 50EMA",
+   "\u2717 50>200 EMA structure",
+   "\u2717 death cross (recent)",
+   "\u2717 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2717 RSI healthy (39)",
+   "\u2717 MACD positive",
+   "\u2713 PE 5",
+   "\u2717 earnings growth -21%",
+   "\u2717 revenue growth -13%",
+   "\u2717 D/E 606",
+   "\u2713 ROE 17%"
+  ],
+  "technical_summary": "Strong Downtrend, RSI 39, ADX 35, MACD hist -0.65, vol 0.9x avg",
+  "fundamental_summary": "PE 5.1765428, PEG n/a, ROE 17%, D/E 606.306, rev growth -13%",
+  "investment_thesis": "Strong Downtrend; price 290.0 vs 50EMA 311.3 / 200EMA 335.4. Fundamentals score 41/100 (ROE 17%, earnings growth -21%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
+  "key_strengths": [
+   "High ROE (17%)",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Elevated leverage",
+   "Death cross",
+   "Declining earnings",
+   "Bearish trend structure"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-10-30T01:11:31.066509+00:00",
+  "sector_relative_strength": -10.9
  },
  {
   "symbol": "JBMA",
@@ -25487,7 +25545,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:32.396338+00:00",
+  "last_updated": "2026-10-30T01:11:20.081422+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -25544,7 +25602,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:14.386352+00:00",
+  "last_updated": "2026-10-30T01:10:59.099501+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -25597,65 +25655,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:30.294873+00:00",
-  "sector_relative_strength": -10.9
- },
- {
-  "symbol": "RECLTD",
-  "company_name": "REC Limited",
-  "sector": "Financial Services",
-  "industry": "Credit Services",
-  "current_price": 290.0,
-  "technical_score": 8.0,
-  "fundamental_score": 41.0,
-  "momentum_score": 0,
-  "quality_score": 91.0,
-  "risk_score": 53.0,
-  "overall_score": 28.9,
-  "recommendation": "AVOID",
-  "target_price": 290.0,
-  "upside_percent": 0.0,
-  "stop_loss": 266.8,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 75.0,
-  "entry_zone_low": 311.3,
-  "entry_zone_high": 376.89,
-  "risk_reward": 0,
-  "extension_atr": -1.3,
-  "entry_note": "Price is -1.3 ATRs above 20EMA, RSI 39, 1-month move -4%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 6.5,
-  "data_quality": "10/12",
-  "data_quality_pct": 83,
-  "score_drivers": [
-   "\u2717 price vs 200EMA",
-   "\u2717 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
-   "\u2717 death cross (recent)",
-   "\u2717 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2717 RSI healthy (39)",
-   "\u2717 MACD positive",
-   "\u2713 PE 5",
-   "\u2717 earnings growth -21%",
-   "\u2717 revenue growth -13%",
-   "\u2717 D/E 606",
-   "\u2713 ROE 17%"
-  ],
-  "technical_summary": "Strong Downtrend, RSI 39, ADX 35, MACD hist -0.65, vol 0.9x avg",
-  "fundamental_summary": "PE 5.1765428, PEG n/a, ROE 17%, D/E 606.306, rev growth -13%",
-  "investment_thesis": "Strong Downtrend; price 290.0 vs 50EMA 311.3 / 200EMA 335.4. Fundamentals score 41/100 (ROE 17%, earnings growth -21%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
-  "key_strengths": [
-   "High ROE (17%)",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Elevated leverage",
-   "Death cross",
-   "Declining earnings",
-   "Bearish trend structure"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:41.583983+00:00",
+  "last_updated": "2026-10-30T01:11:17.591059+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -25710,7 +25710,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:39.215202+00:00",
+  "last_updated": "2026-10-30T01:11:28.236166+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -25766,7 +25766,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:40.896380+00:00",
+  "last_updated": "2026-10-30T01:11:30.145675+00:00",
   "sector_relative_strength": -2.8
  },
  {
@@ -25822,7 +25822,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:16.083213+00:00",
+  "last_updated": "2026-10-30T01:11:01.036265+00:00",
   "sector_relative_strength": 7.2
  },
  {
@@ -25877,7 +25877,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:31.824637+00:00",
+  "last_updated": "2026-10-30T01:11:19.225969+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -25930,7 +25930,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:22.242961+00:00",
+  "last_updated": "2026-10-30T01:11:08.317426+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -25984,7 +25984,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:45.284207+00:00",
+  "last_updated": "2026-10-30T01:11:35.382214+00:00",
   "sector_relative_strength": -10.9
  },
  {
@@ -26040,7 +26040,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:17.280749+00:00",
+  "last_updated": "2026-10-30T01:11:02.631297+00:00",
   "sector_relative_strength": -10.8
  },
  {
@@ -26097,7 +26097,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:34.488227+00:00",
+  "last_updated": "2026-10-30T01:11:22.602185+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -26153,7 +26153,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:23.648792+00:00",
+  "last_updated": "2026-10-30T01:11:09.982119+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -26207,7 +26207,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:45.803656+00:00",
+  "last_updated": "2026-10-30T01:11:36.306504+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -26259,7 +26259,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:32.098574+00:00",
+  "last_updated": "2026-10-30T01:11:19.619129+00:00",
   "sector_relative_strength": 16.0
  },
  {
@@ -26310,7 +26310,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:25.736809+00:00",
+  "last_updated": "2026-10-30T01:11:12.462533+00:00",
   "sector_relative_strength": -2.9
  },
  {
@@ -26363,7 +26363,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:15.714545+00:00",
+  "last_updated": "2026-10-30T01:11:00.678427+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -26419,7 +26419,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:27.255907+00:00",
+  "last_updated": "2026-10-30T01:11:14.166183+00:00",
   "sector_relative_strength": -8.7
  },
  {
@@ -26474,7 +26474,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-10-29T18:36:42.538370+00:00",
+  "last_updated": "2026-10-30T01:11:32.166009+00:00",
   "sector_relative_strength": -10.9
  }
 ]
