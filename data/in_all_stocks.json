@@ -55,8 +55,8 @@
    "Standard market risk"
   ],
   "is_breakout": true,
-  "last_updated": "2026-11-04T19:58:14.319548+00:00",
-  "sector_relative_strength": 10.5
+  "last_updated": "2026-11-05T01:32:32.534256+00:00",
+  "sector_relative_strength": 10.6
  },
  {
   "symbol": "PVRINOX",
@@ -112,8 +112,8 @@
    "Standard market risk"
   ],
   "is_breakout": true,
-  "last_updated": "2026-11-04T19:58:15.742641+00:00",
-  "sector_relative_strength": 4.3
+  "last_updated": "2026-11-05T01:32:33.904586+00:00",
+  "sector_relative_strength": 4.4
  },
  {
   "symbol": "WELSPUNLIV",
@@ -170,8 +170,8 @@
    "Standard market risk"
   ],
   "is_breakout": true,
-  "last_updated": "2026-11-04T19:58:23.230170+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:40.077674+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "CHENNPETRO",
@@ -227,8 +227,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.828988+00:00",
-  "sector_relative_strength": 10.5
+  "last_updated": "2026-11-05T01:32:17.037693+00:00",
+  "sector_relative_strength": 10.6
  },
  {
   "symbol": "LAURUSLABS",
@@ -285,8 +285,8 @@
    "Rich valuation (PE 94)"
   ],
   "is_breakout": true,
-  "last_updated": "2026-11-04T19:58:08.661505+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:28.079041+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "KOTAKBANK",
@@ -341,8 +341,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:08.313817+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:27.697137+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "MRPL",
@@ -397,8 +397,65 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:11.384595+00:00",
-  "sector_relative_strength": 10.5
+  "last_updated": "2026-11-05T01:32:30.277100+00:00",
+  "sector_relative_strength": 10.6
+ },
+ {
+  "symbol": "MCX",
+  "company_name": "Multi Commodity Exchange of India Limited",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "current_price": 3490.1,
+  "technical_score": 79.7,
+  "fundamental_score": 81.0,
+  "momentum_score": 100,
+  "quality_score": 93.0,
+  "risk_score": 84.0,
+  "overall_score": 84.7,
+  "recommendation": "STRONG BUY",
+  "target_price": 3841.25,
+  "upside_percent": 10.1,
+  "stop_loss": 3256.0,
+  "entry_signal": "BUY ON DIPS",
+  "entry_score": 60.0,
+  "entry_zone_low": 3321.12,
+  "entry_zone_high": 3498.81,
+  "risk_reward": 1.5,
+  "extension_atr": 2.2,
+  "entry_note": "Price is 2.2 ATRs above 20EMA, RSI 64, 1-month move +10%, risk-reward 1.5:1 at current price. Acceptable but better entry in the 3321.12\u20133498.81 pullback zone.",
+  "week52_position": 97.3,
+  "data_quality": "10/12",
+  "data_quality_pct": 83,
+  "score_drivers": [
+   "\u2713 price vs 200EMA",
+   "\u2713 price vs 50EMA",
+   "\u2713 50>200 EMA structure",
+   "\u2713 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2713 RSI healthy (64)",
+   "\u2713 MACD positive",
+   "\u2717 PE 57",
+   "\u2713 earnings growth 130%",
+   "\u2713 revenue growth 112%",
+   "\u2713 D/E 0",
+   "\u2713 ROE 44%"
+  ],
+  "technical_summary": "Uptrend, RSI 64, ADX 17, MACD hist +22.07, vol 1.1x avg",
+  "fundamental_summary": "PE 57.18475, PEG n/a, ROE 44%, D/E 0.182, rev growth 112%",
+  "investment_thesis": "Uptrend; price 3490.1 vs 50EMA 3188.4 / 200EMA 2820.4. Fundamentals score 81/100 (ROE 44%, earnings growth 130%). Both pillars aligned \u2014 institutional-quality setup.",
+  "key_strengths": [
+   "High ROE (44%)",
+   "Strong earnings growth (130%)",
+   "Low debt",
+   "Uptrend",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Standard market risk"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-11-05T01:32:29.507652+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "GLAND",
@@ -452,8 +509,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:00.735573+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:21.376288+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "GAIL",
@@ -508,65 +565,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:00.416693+00:00",
-  "sector_relative_strength": 6.3
- },
- {
-  "symbol": "MCX",
-  "company_name": "Multi Commodity Exchange of India Limited",
-  "sector": "Financial Services",
-  "industry": "Financial Data & Stock Exchanges",
-  "current_price": 3490.1,
-  "technical_score": 79.7,
-  "fundamental_score": 81.0,
-  "momentum_score": 100,
-  "quality_score": 93.0,
-  "risk_score": 72.0,
-  "overall_score": 84.1,
-  "recommendation": "STRONG BUY",
-  "target_price": 3841.25,
-  "upside_percent": 10.1,
-  "stop_loss": 3256.0,
-  "entry_signal": "BUY ON DIPS",
-  "entry_score": 60.0,
-  "entry_zone_low": 3321.12,
-  "entry_zone_high": 3498.81,
-  "risk_reward": 1.5,
-  "extension_atr": 2.2,
-  "entry_note": "Price is 2.2 ATRs above 20EMA, RSI 64, 1-month move +10%, risk-reward 1.5:1 at current price. Acceptable but better entry in the 3321.12\u20133498.81 pullback zone.",
-  "week52_position": 97.3,
-  "data_quality": "10/12",
-  "data_quality_pct": 83,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2713 price vs 50EMA",
-   "\u2713 50>200 EMA structure",
-   "\u2713 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2713 RSI healthy (64)",
-   "\u2713 MACD positive",
-   "\u2717 PE 57",
-   "\u2713 earnings growth 130%",
-   "\u2713 revenue growth 112%",
-   "\u2713 D/E 0",
-   "\u2713 ROE 44%"
-  ],
-  "technical_summary": "Uptrend, RSI 64, ADX 17, MACD hist +22.07, vol 1.1x avg",
-  "fundamental_summary": "PE 57.18475, PEG n/a, ROE 44%, D/E 0.182, rev growth 112%",
-  "investment_thesis": "Uptrend; price 3490.1 vs 50EMA 3188.4 / 200EMA 2820.4. Fundamentals score 81/100 (ROE 44%, earnings growth 130%). Both pillars aligned \u2014 institutional-quality setup.",
-  "key_strengths": [
-   "High ROE (44%)",
-   "Strong earnings growth (130%)",
-   "Low debt",
-   "Uptrend",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Standard market risk"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:10.568138+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:21.010185+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "MARICO",
@@ -623,8 +623,8 @@
    "Standard market risk"
   ],
   "is_breakout": true,
-  "last_updated": "2026-11-04T19:58:10.346269+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:29.366170+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "SHYAMMETL",
@@ -679,8 +679,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:18.052000+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:35.792350+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "ACUTAAS",
@@ -737,8 +737,8 @@
    "Rich valuation (PE 71)"
   ],
   "is_breakout": true,
-  "last_updated": "2026-11-04T19:57:49.753174+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:11.484597+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "INDHOTEL",
@@ -794,8 +794,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:04.823393+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:24.602896+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "KPRMILL",
@@ -851,8 +851,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:08.617564+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:27.939263+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "NAVINFLUOR",
@@ -908,8 +908,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:11.899958+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:30.826611+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "TECHM",
@@ -965,8 +965,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:20.266101+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:37.966766+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "SONACOMS",
@@ -1021,8 +1021,8 @@
    "Rich valuation (PE 74)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:18.422918+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:36.261330+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "DIVISLAB",
@@ -1076,8 +1076,8 @@
    "Rich valuation (PE 91)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:58.024323+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:18.949851+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "COFORGE",
@@ -1132,8 +1132,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.522796+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:17.642300+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "ADANIPORTS",
@@ -1189,8 +1189,8 @@
    "Standard market risk"
   ],
   "is_breakout": true,
-  "last_updated": "2026-11-04T19:57:50.005058+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:11.649350+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "BEML",
@@ -1244,8 +1244,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:53.672644+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:14.887112+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "JSWSTEEL",
@@ -1300,8 +1300,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:07.493751+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:26.811563+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "APLAPOLLO",
@@ -1358,8 +1358,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.174370+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:12.849338+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "AUROPHARMA",
@@ -1413,8 +1413,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:52.043147+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:13.595035+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "GLENMARK",
@@ -1468,8 +1468,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:00.896030+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:21.390186+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "EMCURE",
@@ -1525,8 +1525,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:59.078102+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:19.794286+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "MPHASIS",
@@ -1583,8 +1583,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:11.145086+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:30.164420+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "UNIONBANK",
@@ -1626,7 +1626,7 @@
    "\u2713 ROE 16%"
   ],
   "technical_summary": "Uptrend, RSI 56, ADX 22, MACD hist +1.01, vol 1.2x avg",
-  "fundamental_summary": "PE 6.284689, PEG n/a, ROE 16%, D/E n/a, rev growth 16%",
+  "fundamental_summary": "PE 6.3806386, PEG n/a, ROE 16%, D/E n/a, rev growth 16%",
   "investment_thesis": "Uptrend; price 183.2 vs 50EMA 178.4 / 200EMA 169.7. Fundamentals score 82/100 (ROE 16%, earnings growth 29%). Both pillars aligned \u2014 institutional-quality setup.",
   "key_strengths": [
    "High ROE (16%)",
@@ -1638,8 +1638,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:21.935506+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:39.121787+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "ENGINERSIN",
@@ -1693,8 +1693,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:59.357914+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:20.174865+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "IGIL",
@@ -1750,8 +1750,8 @@
    "Overbought (RSI > 75)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:04.363361+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:24.399508+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "ZYDUSLIFE",
@@ -1804,8 +1804,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:23.791869+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:40.799186+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "ICICIBANK",
@@ -1859,8 +1859,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:03.724322+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:23.902464+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "LTTS",
@@ -1917,8 +1917,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:09.507818+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:28.781644+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "MANKIND",
@@ -1972,8 +1972,63 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:10.014195+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:29.113397+00:00",
+  "sector_relative_strength": 17.3
+ },
+ {
+  "symbol": "RELIANCE",
+  "company_name": "Reliance Industries Limited",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "current_price": 1307.9,
+  "technical_score": 56.0,
+  "fundamental_score": 100,
+  "momentum_score": 76.3,
+  "quality_score": 68.0,
+  "risk_score": 92.0,
+  "overall_score": 77.4,
+  "recommendation": "BUY",
+  "target_price": 1604.38,
+  "upside_percent": 22.7,
+  "stop_loss": 1239.91,
+  "entry_signal": "ENTER NOW",
+  "entry_score": 75.0,
+  "entry_zone_low": 1264.71,
+  "entry_zone_high": 1343.68,
+  "risk_reward": 4.36,
+  "extension_atr": 2.8,
+  "entry_note": "Price is 2.8 ATRs above 20EMA, RSI 67, 1-month move +10%, risk-reward 4.4:1 at current price. Entry conditions favorable at current levels.",
+  "week52_position": 34.4,
+  "data_quality": "12/12",
+  "data_quality_pct": 100,
+  "score_drivers": [
+   "\u2713 price vs 200EMA",
+   "\u2713 price vs 50EMA",
+   "\u2717 50>200 EMA structure",
+   "\u2717 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2713 RSI healthy (67)",
+   "\u2713 MACD positive",
+   "\u2713 PE 22",
+   "\u2713 earnings growth 41%",
+   "\u2713 revenue growth 30%",
+   "\u2713 D/E 44",
+   "\u2717 ROE 9%"
+  ],
+  "technical_summary": "Sideways, RSI 67, ADX 28, MACD hist +14.04, vol 2.5x avg",
+  "fundamental_summary": "PE 21.60514, PEG 0.82, ROE 9%, D/E 44.325, rev growth 30%",
+  "investment_thesis": "Sideways; price 1307.9 vs 50EMA 1230.9 / 200EMA 1307.5. Fundamentals score 100/100 (ROE 9%, earnings growth 41%). Constructive but awaiting fuller confirmation.",
+  "key_strengths": [
+   "Strong earnings growth (41%)",
+   "Low debt",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Standard market risk"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-11-05T01:32:34.309984+00:00",
+  "sector_relative_strength": 10.6
  },
  {
   "symbol": "BHARTIARTL",
@@ -2030,8 +2085,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:53.890793+00:00",
-  "sector_relative_strength": 4.3
+  "last_updated": "2026-11-05T01:32:15.205732+00:00",
+  "sector_relative_strength": 4.4
  },
  {
   "symbol": "PERSISTENT",
@@ -2088,8 +2143,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:14.135188+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:32.487101+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "HEROMOTOCO",
@@ -2145,8 +2200,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:02.602168+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:22.961365+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "HCLTECH",
@@ -2203,8 +2258,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:02.170226+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:22.588148+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "PAYTM",
@@ -2259,8 +2314,8 @@
    "Rich valuation (PE 131)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:13.973391+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:32.329402+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "DLF",
@@ -2316,7 +2371,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:58.015818+00:00",
+  "last_updated": "2026-11-05T01:32:18.984089+00:00",
   "sector_relative_strength": -2.5
  },
  {
@@ -2371,63 +2426,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:00.569113+00:00",
-  "sector_relative_strength": -7.9
- },
- {
-  "symbol": "RELIANCE",
-  "company_name": "Reliance Industries Limited",
-  "sector": "Energy",
-  "industry": "Oil & Gas Refining & Marketing",
-  "current_price": 1307.9,
-  "technical_score": 56.0,
-  "fundamental_score": 100,
-  "momentum_score": 76.3,
-  "quality_score": 68.0,
-  "risk_score": 80.0,
-  "overall_score": 76.8,
-  "recommendation": "BUY",
-  "target_price": 1604.38,
-  "upside_percent": 22.7,
-  "stop_loss": 1239.91,
-  "entry_signal": "ENTER NOW",
-  "entry_score": 75.0,
-  "entry_zone_low": 1264.71,
-  "entry_zone_high": 1343.68,
-  "risk_reward": 4.36,
-  "extension_atr": 2.8,
-  "entry_note": "Price is 2.8 ATRs above 20EMA, RSI 67, 1-month move +10%, risk-reward 4.4:1 at current price. Entry conditions favorable at current levels.",
-  "week52_position": 34.4,
-  "data_quality": "12/12",
-  "data_quality_pct": 100,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2713 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
-   "\u2717 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2713 RSI healthy (67)",
-   "\u2713 MACD positive",
-   "\u2713 PE 22",
-   "\u2713 earnings growth 41%",
-   "\u2713 revenue growth 30%",
-   "\u2713 D/E 44",
-   "\u2717 ROE 9%"
-  ],
-  "technical_summary": "Sideways, RSI 67, ADX 28, MACD hist +14.04, vol 2.5x avg",
-  "fundamental_summary": "PE 21.60514, PEG 0.82, ROE 9%, D/E 44.325, rev growth 30%",
-  "investment_thesis": "Sideways; price 1307.9 vs 50EMA 1230.9 / 200EMA 1307.5. Fundamentals score 100/100 (ROE 9%, earnings growth 41%). Constructive but awaiting fuller confirmation.",
-  "key_strengths": [
-   "Strong earnings growth (41%)",
-   "Low debt",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Standard market risk"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.549541+00:00",
-  "sector_relative_strength": 10.5
+  "last_updated": "2026-11-05T01:32:21.077847+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "IPCALAB",
@@ -2480,8 +2480,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:05.560584+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:25.480847+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "MOTILALOFS",
@@ -2535,8 +2535,8 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:11.143459+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:30.172706+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "BSE",
@@ -2590,8 +2590,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:54.617218+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:15.925693+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "BAJAJ-AUTO",
@@ -2644,8 +2644,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:52.477264+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:13.972038+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "LENSKART",
@@ -2698,8 +2698,8 @@
    "Rich valuation (PE 186)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:08.734228+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:28.294802+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "CUPID",
@@ -2753,8 +2753,63 @@
    "Rich valuation (PE 336)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:57.277916+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:18.295888+00:00",
+  "sector_relative_strength": 1.8
+ },
+ {
+  "symbol": "BOSCHLTD",
+  "company_name": "Bosch Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 49645.0,
+  "technical_score": 85.2,
+  "fundamental_score": 54.0,
+  "momentum_score": 100,
+  "quality_score": 68.0,
+  "risk_score": 92.0,
+  "overall_score": 75.1,
+  "recommendation": "AVOID",
+  "target_price": 49645.0,
+  "upside_percent": 0.0,
+  "stop_loss": 45673.4,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 30.0,
+  "entry_zone_low": 46586.87,
+  "entry_zone_high": 50250.0,
+  "risk_reward": 0,
+  "extension_atr": 2.7,
+  "entry_note": "Price is 2.7 ATRs above 20EMA, RSI 69, 1-month move +10%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 96.1,
+  "data_quality": "8/12",
+  "data_quality_pct": 67,
+  "score_drivers": [
+   "\u2713 price vs 200EMA",
+   "\u2713 price vs 50EMA",
+   "\u2713 50>200 EMA structure",
+   "\u2713 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2713 RSI healthy (69)",
+   "\u2713 MACD positive",
+   "\u2717 PE 64",
+   "\u2717 earnings growth -37%",
+   "\u2713 revenue growth 22%",
+   "\u2713 D/E 1"
+  ],
+  "technical_summary": "Strong Uptrend, RSI 69, ADX 26, MACD hist +559.40, vol 1.3x avg",
+  "fundamental_summary": "PE 63.555355, PEG n/a, ROE 0%, D/E 0.8, rev growth 22%",
+  "investment_thesis": "Strong Uptrend; price 49645.0 vs 50EMA 45850.7 / 200EMA 41500.3. Fundamentals score 54/100 (ROE 0%, earnings growth -37%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
+  "key_strengths": [
+   "Low debt",
+   "Strong Uptrend",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Rich valuation (PE 64)",
+   "Declining earnings"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-11-05T01:32:15.551590+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "SANSERA",
@@ -2807,63 +2862,8 @@
    "Rich valuation (PE 85)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:17.360864+00:00",
-  "sector_relative_strength": 4.8
- },
- {
-  "symbol": "BOSCHLTD",
-  "company_name": "Bosch Limited",
-  "sector": "Consumer Cyclical",
-  "industry": "Auto Parts",
-  "current_price": 49645.0,
-  "technical_score": 85.2,
-  "fundamental_score": 54.0,
-  "momentum_score": 100,
-  "quality_score": 68.0,
-  "risk_score": 80.0,
-  "overall_score": 74.5,
-  "recommendation": "AVOID",
-  "target_price": 49645.0,
-  "upside_percent": 0.0,
-  "stop_loss": 45673.4,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 30.0,
-  "entry_zone_low": 46586.87,
-  "entry_zone_high": 50250.0,
-  "risk_reward": 0,
-  "extension_atr": 2.7,
-  "entry_note": "Price is 2.7 ATRs above 20EMA, RSI 69, 1-month move +10%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 96.1,
-  "data_quality": "8/12",
-  "data_quality_pct": 67,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2713 price vs 50EMA",
-   "\u2713 50>200 EMA structure",
-   "\u2713 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2713 RSI healthy (69)",
-   "\u2713 MACD positive",
-   "\u2717 PE 66",
-   "\u2717 earnings growth -37%",
-   "\u2713 revenue growth 22%",
-   "\u2713 D/E 1"
-  ],
-  "technical_summary": "Strong Uptrend, RSI 69, ADX 26, MACD hist +559.40, vol 1.3x avg",
-  "fundamental_summary": "PE 65.5971, PEG n/a, ROE 0%, D/E 0.8, rev growth 22%",
-  "investment_thesis": "Strong Uptrend; price 49645.0 vs 50EMA 45850.7 / 200EMA 41500.3. Fundamentals score 54/100 (ROE 0%, earnings growth -37%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
-  "key_strengths": [
-   "Low debt",
-   "Strong Uptrend",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Rich valuation (PE 66)",
-   "Declining earnings"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:54.328813+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:35.091035+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "MINDACORP",
@@ -2916,8 +2916,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:10.812653+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:29.948865+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "PPLPHARMA",
@@ -2970,8 +2970,8 @@
    "Standard market risk"
   ],
   "is_breakout": true,
-  "last_updated": "2026-11-04T19:58:15.585713+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:33.587648+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "HAL",
@@ -3024,8 +3024,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:01.998151+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:22.484183+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "LTFOODS",
@@ -3081,8 +3081,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:09.472183+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:28.816260+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "MSUMI",
@@ -3137,8 +3137,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:11.485170+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:30.339314+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "EICHERMOT",
@@ -3192,8 +3192,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:58.530891+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:19.393038+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "POONAWALLA",
@@ -3247,8 +3247,8 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:15.182561+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:33.290518+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "SAILIFE",
@@ -3302,8 +3302,8 @@
    "Rich valuation (PE 91)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:17.087885+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:34.927973+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "GROWW",
@@ -3357,8 +3357,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:01.644122+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:22.118614+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "GRASIM",
@@ -3411,8 +3411,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:01.714344+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:22.168695+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "LALPATHLAB",
@@ -3466,8 +3466,8 @@
    "Rich valuation (PE 63)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:08.623790+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:27.860706+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "RUBICON",
@@ -3521,8 +3521,8 @@
    "Rich valuation (PE 99)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.917947+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:34.648614+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "ITCHOTELS",
@@ -3575,8 +3575,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:06.155807+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:25.830519+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "PTCIL",
@@ -3631,8 +3631,8 @@
    "Rich valuation (PE 292)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:15.693311+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:33.793303+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "LGEINDIA",
@@ -3688,8 +3688,8 @@
    "Rich valuation (PE 63)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:09.054974+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:28.135543+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "PNB",
@@ -3744,8 +3744,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:14.766916+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:33.118092+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "CASTROLIND",
@@ -3800,8 +3800,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.149185+00:00",
-  "sector_relative_strength": 10.5
+  "last_updated": "2026-11-05T01:32:16.327735+00:00",
+  "sector_relative_strength": 10.6
  },
  {
   "symbol": "ZENTEC",
@@ -3856,8 +3856,8 @@
    "Rich valuation (PE 74)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:23.743099+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:40.585603+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "INDIANB",
@@ -3910,8 +3910,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:05.083089+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:24.751617+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "INDUSTOWER",
@@ -3964,8 +3964,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:05.139427+00:00",
-  "sector_relative_strength": 4.3
+  "last_updated": "2026-11-05T01:32:24.906404+00:00",
+  "sector_relative_strength": 4.4
  },
  {
   "symbol": "ATHERENERG",
@@ -4017,8 +4017,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.865877+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:13.330942+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "ETERNAL",
@@ -4073,8 +4073,8 @@
    "Rich valuation (PE 650)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:59.404448+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:20.157502+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "NUVAMA",
@@ -4127,8 +4127,8 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:13.088266+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:31.671675+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "FSL",
@@ -4184,8 +4184,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:00.303304+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:20.913670+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "MOTHERSON",
@@ -4239,8 +4239,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:11.140658+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:29.861401+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "ANANDRATHI",
@@ -4296,8 +4296,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:50.840558+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:12.500629+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "ZENSARTECH",
@@ -4351,8 +4351,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:23.646005+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:40.495841+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "ANGELONE",
@@ -4407,8 +4407,63 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:50.917627+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:12.544328+00:00",
+  "sector_relative_strength": -6.7
+ },
+ {
+  "symbol": "TCS",
+  "company_name": "Tata Consultancy Services Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 2499.1,
+  "technical_score": 45.0,
+  "fundamental_score": 86.0,
+  "momentum_score": 69.9,
+  "quality_score": 100,
+  "risk_score": 92.0,
+  "overall_score": 70.9,
+  "recommendation": "HOLD",
+  "target_price": 2499.1,
+  "upside_percent": -0.0,
+  "stop_loss": 2299.17,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 55.0,
+  "entry_zone_low": 2345.15,
+  "entry_zone_high": 2638.12,
+  "risk_reward": 0,
+  "extension_atr": 1.5,
+  "entry_note": "Price is 1.5 ATRs above 20EMA, RSI 67, 1-month move +19%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 41.4,
+  "data_quality": "12/12",
+  "data_quality_pct": 100,
+  "score_drivers": [
+   "\u2713 price vs 200EMA",
+   "\u2713 price vs 50EMA",
+   "\u2717 50>200 EMA structure",
+   "\u2717 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2713 RSI healthy (67)",
+   "\u2713 MACD positive",
+   "\u2713 PE 17",
+   "\u2713 earnings growth 15%",
+   "\u2713 revenue growth 11%",
+   "\u2713 D/E 10",
+   "\u2713 ROE 46%"
+  ],
+  "technical_summary": "Sideways, RSI 67, ADX 40, MACD hist +7.43, vol 0.7x avg, patterns: Shooting Star",
+  "fundamental_summary": "PE 17.075563, PEG 3.39, ROE 46%, D/E 9.83, rev growth 11%",
+  "investment_thesis": "Sideways; price 2499.1 vs 50EMA 2310.0 / 200EMA 2424.4. Fundamentals score 86/100 (ROE 46%, earnings growth 15%). Mixed signals; no edge at current levels.",
+  "key_strengths": [
+   "High ROE (46%)",
+   "Low debt",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Standard market risk"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-11-05T01:32:37.688239+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "VIJAYA",
@@ -4462,8 +4517,8 @@
    "Rich valuation (PE 78)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:22.745462+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:39.759239+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "ASAHIINDIA",
@@ -4516,63 +4571,64 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.541088+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:13.031658+00:00",
+  "sector_relative_strength": 4.9
  },
  {
-  "symbol": "TCS",
-  "company_name": "Tata Consultancy Services Limited",
-  "sector": "Technology",
-  "industry": "Information Technology Services",
-  "current_price": 2499.1,
-  "technical_score": 45.0,
-  "fundamental_score": 86.0,
-  "momentum_score": 69.9,
-  "quality_score": 100,
-  "risk_score": 80.0,
-  "overall_score": 70.3,
+  "symbol": "ULTRACEMCO",
+  "company_name": "UltraTech Cement Limited",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "current_price": 11700.0,
+  "technical_score": 43.0,
+  "fundamental_score": 94.0,
+  "momentum_score": 75,
+  "quality_score": 68.0,
+  "risk_score": 92.0,
+  "overall_score": 70.6,
   "recommendation": "HOLD",
-  "target_price": 2499.1,
-  "upside_percent": -0.0,
-  "stop_loss": 2299.17,
+  "target_price": 11700.0,
+  "upside_percent": 0.0,
+  "stop_loss": 10764.0,
   "entry_signal": "NO ENTRY",
-  "entry_score": 55.0,
-  "entry_zone_low": 2345.15,
-  "entry_zone_high": 2638.12,
+  "entry_score": 50.0,
+  "entry_zone_low": 11098.89,
+  "entry_zone_high": 12184.62,
   "risk_reward": 0,
-  "extension_atr": 1.5,
-  "entry_note": "Price is 1.5 ATRs above 20EMA, RSI 67, 1-month move +19%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 41.4,
+  "extension_atr": 2.4,
+  "entry_note": "Price is 2.4 ATRs above 20EMA, RSI 67, 1-month move +8%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 57.9,
   "data_quality": "12/12",
   "data_quality_pct": 100,
   "score_drivers": [
    "\u2713 price vs 200EMA",
    "\u2713 price vs 50EMA",
    "\u2717 50>200 EMA structure",
+   "\u2717 death cross (recent)",
    "\u2717 higher highs & lows",
    "\u2713 accumulation (A/D)",
    "\u2713 RSI healthy (67)",
    "\u2713 MACD positive",
-   "\u2713 PE 17",
-   "\u2713 earnings growth 15%",
-   "\u2713 revenue growth 11%",
-   "\u2713 D/E 10",
-   "\u2713 ROE 46%"
+   "\u2713 PE 40",
+   "\u2713 earnings growth 21%",
+   "\u2713 revenue growth 19%",
+   "\u2713 D/E 38",
+   "\u2717 ROE 11%"
   ],
-  "technical_summary": "Sideways, RSI 67, ADX 40, MACD hist +7.43, vol 0.7x avg, patterns: Shooting Star",
-  "fundamental_summary": "PE 17.075563, PEG 3.39, ROE 46%, D/E 9.83, rev growth 11%",
-  "investment_thesis": "Sideways; price 2499.1 vs 50EMA 2310.0 / 200EMA 2424.4. Fundamentals score 86/100 (ROE 46%, earnings growth 15%). Mixed signals; no edge at current levels.",
+  "technical_summary": "Sideways, RSI 67, ADX 25, MACD hist +91.17, vol 0.8x avg, patterns: Bullish Marubozu",
+  "fundamental_summary": "PE 39.513107, PEG 1.22, ROE 11%, D/E 37.694, rev growth 19%",
+  "investment_thesis": "Sideways; price 11700.0 vs 50EMA 11098.9 / 200EMA 11347.7. Fundamentals score 94/100 (ROE 11%, earnings growth 21%). Mixed signals; no edge at current levels.",
   "key_strengths": [
-   "High ROE (46%)",
+   "Strong earnings growth (21%)",
    "Low debt",
    "Accumulation pattern (A/D rising)"
   ],
   "key_risks": [
-   "Standard market risk"
+   "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:20.214524+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:39.183944+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "BSOFT",
@@ -4627,8 +4683,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:54.644994+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:15.980382+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "NYKAA",
@@ -4681,8 +4737,8 @@
    "Rich valuation (PE 399)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:13.394658+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:31.727086+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "WIPRO",
@@ -4736,8 +4792,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:23.340220+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:40.470708+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "HBLENGINE",
@@ -4792,8 +4848,63 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:02.133044+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:22.492112+00:00",
+  "sector_relative_strength": -7.8
+ },
+ {
+  "symbol": "IOC",
+  "company_name": "Indian Oil Corporation Limited",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "current_price": 138.67,
+  "technical_score": 38.8,
+  "fundamental_score": 93.0,
+  "momentum_score": 75,
+  "quality_score": 83.0,
+  "risk_score": 80.0,
+  "overall_score": 69.7,
+  "recommendation": "HOLD",
+  "target_price": 138.67,
+  "upside_percent": 0.0,
+  "stop_loss": 127.58,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 50.0,
+  "entry_zone_low": 133.24,
+  "entry_zone_high": 142.84,
+  "risk_reward": 0.0,
+  "extension_atr": 2.3,
+  "entry_note": "Price is 2.3 ATRs above 20EMA, RSI 66, 1-month move +6%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 22.9,
+  "data_quality": "11/12",
+  "data_quality_pct": 92,
+  "score_drivers": [
+   "\u2717 price vs 200EMA",
+   "\u2713 price vs 50EMA",
+   "\u2717 50>200 EMA structure",
+   "\u2717 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2713 RSI healthy (66)",
+   "\u2713 MACD positive",
+   "\u2713 PE 4",
+   "\u2713 earnings growth 174%",
+   "\u2713 revenue growth 42%",
+   "\u2713 D/E 58",
+   "\u2713 ROE 23%"
+  ],
+  "technical_summary": "Sideways, RSI 66, ADX 20, MACD hist +1.07, vol 1.5x avg, patterns: Doji, Hammer",
+  "fundamental_summary": "PE 4.140816, PEG n/a, ROE 23%, D/E 58.206, rev growth 42%",
+  "investment_thesis": "Sideways; price 138.7 vs 50EMA 133.2 / 200EMA 139.6. Fundamentals score 93/100 (ROE 23%, earnings growth 174%). Mixed signals; no edge at current levels.",
+  "key_strengths": [
+   "High ROE (23%)",
+   "Strong earnings growth (174%)",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Standard market risk"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-11-05T01:32:25.410254+00:00",
+  "sector_relative_strength": 10.6
  },
  {
   "symbol": "BHARTIHEXA",
@@ -4848,8 +4959,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:53.894712+00:00",
-  "sector_relative_strength": 4.3
+  "last_updated": "2026-11-05T01:32:15.189418+00:00",
+  "sector_relative_strength": 4.4
  },
  {
   "symbol": "ACMESOLAR",
@@ -4902,63 +5013,64 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:49.515992+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:11.436947+00:00",
+  "sector_relative_strength": 6.4
  },
  {
-  "symbol": "IOC",
-  "company_name": "Indian Oil Corporation Limited",
-  "sector": "Energy",
-  "industry": "Oil & Gas Refining & Marketing",
-  "current_price": 138.67,
-  "technical_score": 38.8,
-  "fundamental_score": 93.0,
-  "momentum_score": 75,
-  "quality_score": 83.0,
-  "risk_score": 68.0,
+  "symbol": "TVSMOTOR",
+  "company_name": "TVS Motor Company Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "current_price": 4303.2,
+  "technical_score": 71.8,
+  "fundamental_score": 56.0,
+  "momentum_score": 85,
+  "quality_score": 88.0,
+  "risk_score": 57.0,
   "overall_score": 69.1,
-  "recommendation": "HOLD",
-  "target_price": 138.67,
-  "upside_percent": 0.0,
-  "stop_loss": 127.58,
+  "recommendation": "AVOID",
+  "target_price": 4303.2,
+  "upside_percent": -0.0,
+  "stop_loss": 3958.94,
   "entry_signal": "NO ENTRY",
-  "entry_score": 50.0,
-  "entry_zone_low": 133.24,
-  "entry_zone_high": 142.84,
-  "risk_reward": 0.0,
-  "extension_atr": 2.3,
-  "entry_note": "Price is 2.3 ATRs above 20EMA, RSI 66, 1-month move +6%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 22.9,
+  "entry_score": 60.0,
+  "entry_zone_low": 4085.78,
+  "entry_zone_high": 4506.92,
+  "risk_reward": 0,
+  "extension_atr": 1.6,
+  "entry_note": "Price is 1.6 ATRs above 20EMA, RSI 64, 1-month move +7%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 85.6,
   "data_quality": "11/12",
   "data_quality_pct": 92,
   "score_drivers": [
-   "\u2717 price vs 200EMA",
+   "\u2713 price vs 200EMA",
    "\u2713 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
+   "\u2713 50>200 EMA structure",
    "\u2717 higher highs & lows",
    "\u2713 accumulation (A/D)",
-   "\u2713 RSI healthy (66)",
+   "\u2713 RSI healthy (64)",
    "\u2713 MACD positive",
-   "\u2713 PE 4",
-   "\u2713 earnings growth 174%",
-   "\u2713 revenue growth 42%",
-   "\u2713 D/E 58",
-   "\u2713 ROE 23%"
+   "\u2717 PE 54",
+   "\u2713 earnings growth 50%",
+   "\u2713 revenue growth 39%",
+   "\u2717 D/E 321",
+   "\u2713 ROE 37%"
   ],
-  "technical_summary": "Sideways, RSI 66, ADX 20, MACD hist +1.07, vol 1.5x avg, patterns: Doji, Hammer",
-  "fundamental_summary": "PE 4.140816, PEG n/a, ROE 23%, D/E 58.206, rev growth 42%",
-  "investment_thesis": "Sideways; price 138.7 vs 50EMA 133.2 / 200EMA 139.6. Fundamentals score 93/100 (ROE 23%, earnings growth 174%). Mixed signals; no edge at current levels.",
+  "technical_summary": "Uptrend, RSI 64, ADX 23, MACD hist +36.87, vol 1.3x avg",
+  "fundamental_summary": "PE 53.77033, PEG n/a, ROE 37%, D/E 320.877, rev growth 39%",
+  "investment_thesis": "Uptrend; price 4303.2 vs 50EMA 4085.8 / 200EMA 3817.5. Fundamentals score 56/100 (ROE 37%, earnings growth 50%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
-   "High ROE (23%)",
-   "Strong earnings growth (174%)",
+   "High ROE (37%)",
+   "Strong earnings growth (50%)",
+   "Uptrend",
    "Accumulation pattern (A/D rising)"
   ],
   "key_risks": [
-   "Standard market risk"
+   "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:05.700730+00:00",
-  "sector_relative_strength": 10.5
+  "last_updated": "2026-11-05T01:32:38.948333+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "MAHABANK",
@@ -5011,8 +5123,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:09.921087+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:29.102295+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "CYIENT",
@@ -5056,7 +5168,7 @@
    "\u2717 ROE 7%"
   ],
   "technical_summary": "Uptrend, RSI 51, ADX 20, MACD hist -9.03, vol 0.4x avg, patterns: Doji",
-  "fundamental_summary": "PE 32.687225, PEG 93.13, ROE 7%, D/E 49.22, rev growth 26%",
+  "fundamental_summary": "PE 32.754562, PEG 93.13, ROE 7%, D/E 49.22, rev growth 26%",
   "investment_thesis": "Uptrend; price 1139.2 vs 50EMA 1087.9 / 200EMA 1018.0. Fundamentals score 72/100 (ROE 7%, earnings growth -0%). Constructive but awaiting fuller confirmation.",
   "key_strengths": [
    "Low debt",
@@ -5067,64 +5179,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:57.355142+00:00",
-  "sector_relative_strength": -7.9
- },
- {
-  "symbol": "TVSMOTOR",
-  "company_name": "TVS Motor Company Limited",
-  "sector": "Consumer Cyclical",
-  "industry": "Auto Manufacturers",
-  "current_price": 4303.2,
-  "technical_score": 71.8,
-  "fundamental_score": 56.0,
-  "momentum_score": 85,
-  "quality_score": 88.0,
-  "risk_score": 45.0,
-  "overall_score": 68.5,
-  "recommendation": "AVOID",
-  "target_price": 4303.2,
-  "upside_percent": -0.0,
-  "stop_loss": 3958.94,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 60.0,
-  "entry_zone_low": 4085.78,
-  "entry_zone_high": 4506.92,
-  "risk_reward": 0,
-  "extension_atr": 1.6,
-  "entry_note": "Price is 1.6 ATRs above 20EMA, RSI 64, 1-month move +7%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 85.6,
-  "data_quality": "11/12",
-  "data_quality_pct": 92,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2713 price vs 50EMA",
-   "\u2713 50>200 EMA structure",
-   "\u2717 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2713 RSI healthy (64)",
-   "\u2713 MACD positive",
-   "\u2717 PE 54",
-   "\u2713 earnings growth 50%",
-   "\u2713 revenue growth 39%",
-   "\u2717 D/E 321",
-   "\u2713 ROE 37%"
-  ],
-  "technical_summary": "Uptrend, RSI 64, ADX 23, MACD hist +36.87, vol 1.3x avg",
-  "fundamental_summary": "PE 53.77033, PEG n/a, ROE 37%, D/E 320.877, rev growth 39%",
-  "investment_thesis": "Uptrend; price 4303.2 vs 50EMA 4085.8 / 200EMA 3817.5. Fundamentals score 56/100 (ROE 37%, earnings growth 50%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
-  "key_strengths": [
-   "High ROE (37%)",
-   "Strong earnings growth (50%)",
-   "Uptrend",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Elevated leverage"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:21.746926+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:18.385796+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "APOLLOHOSP",
@@ -5177,8 +5233,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.234593+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:12.848657+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "OIL",
@@ -5230,8 +5286,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:13.389562+00:00",
-  "sector_relative_strength": 10.5
+  "last_updated": "2026-11-05T01:32:31.934552+00:00",
+  "sector_relative_strength": 10.6
  },
  {
   "symbol": "ADANIPOWER",
@@ -5285,8 +5341,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:49.855272+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:11.812806+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "TRENT",
@@ -5329,7 +5385,7 @@
    "\u2713 ROE 27%"
   ],
   "technical_summary": "Sideways, RSI 62, ADX 22, MACD hist +21.63, vol 1.6x avg, patterns: Doji, Hammer, Morning Star",
-  "fundamental_summary": "PE 85.78638, PEG n/a, ROE 27%, D/E 29.486, rev growth 22%",
+  "fundamental_summary": "PE 86.07595, PEG n/a, ROE 27%, D/E 29.486, rev growth 22%",
   "investment_thesis": "Sideways; price 3036.5 vs 50EMA 2866.3 / 200EMA 3116.9. Fundamentals score 76/100 (ROE 27%, earnings growth 23%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "High ROE (27%)",
@@ -5341,8 +5397,8 @@
    "Rich valuation (PE 86)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:21.444456+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:38.714514+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "LT",
@@ -5397,8 +5453,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:09.488162+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:28.676322+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "FLUOROCHEM",
@@ -5451,8 +5507,8 @@
    "Rich valuation (PE 75)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:00.213667+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:20.683075+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "TATACONSUM",
@@ -5506,64 +5562,8 @@
    "Rich valuation (PE 62)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:19.758244+00:00",
-  "sector_relative_strength": 1.7
- },
- {
-  "symbol": "ULTRACEMCO",
-  "company_name": "UltraTech Cement Limited",
-  "sector": "Basic Materials",
-  "industry": "Building Materials",
-  "current_price": 11700.0,
-  "technical_score": 43.0,
-  "fundamental_score": 86.0,
-  "momentum_score": 75,
-  "quality_score": 68.0,
-  "risk_score": 92.0,
-  "overall_score": 67.8,
-  "recommendation": "HOLD",
-  "target_price": 11700.0,
-  "upside_percent": 0.0,
-  "stop_loss": 10764.0,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 50.0,
-  "entry_zone_low": 11098.89,
-  "entry_zone_high": 12184.62,
-  "risk_reward": 0,
-  "extension_atr": 2.4,
-  "entry_note": "Price is 2.4 ATRs above 20EMA, RSI 67, 1-month move +8%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 57.9,
-  "data_quality": "12/12",
-  "data_quality_pct": 100,
-  "score_drivers": [
-   "\u2713 price vs 200EMA",
-   "\u2713 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
-   "\u2717 death cross (recent)",
-   "\u2717 higher highs & lows",
-   "\u2713 accumulation (A/D)",
-   "\u2713 RSI healthy (67)",
-   "\u2713 MACD positive",
-   "\u2717 PE 41",
-   "\u2713 earnings growth 21%",
-   "\u2713 revenue growth 19%",
-   "\u2713 D/E 38",
-   "\u2717 ROE 11%"
-  ],
-  "technical_summary": "Sideways, RSI 67, ADX 25, MACD hist +91.17, vol 0.8x avg, patterns: Bullish Marubozu",
-  "fundamental_summary": "PE 40.599228, PEG 1.22, ROE 11%, D/E 37.694, rev growth 19%",
-  "investment_thesis": "Sideways; price 11700.0 vs 50EMA 11098.9 / 200EMA 11347.7. Fundamentals score 86/100 (ROE 11%, earnings growth 21%). Mixed signals; no edge at current levels.",
-  "key_strengths": [
-   "Strong earnings growth (21%)",
-   "Low debt",
-   "Accumulation pattern (A/D rising)"
-  ],
-  "key_risks": [
-   "Death cross"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:21.869459+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:37.268695+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "ABCAPITAL",
@@ -5616,8 +5616,8 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:49.060034+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:11.165115+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "RKFORGE",
@@ -5669,8 +5669,8 @@
    "Rich valuation (PE 69)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.613789+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:34.628622+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "SUNTV",
@@ -5726,8 +5726,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:18.961025+00:00",
-  "sector_relative_strength": 4.3
+  "last_updated": "2026-11-05T01:32:36.607614+00:00",
+  "sector_relative_strength": 4.4
  },
  {
   "symbol": "SOLARINDS",
@@ -5782,8 +5782,8 @@
    "Rich valuation (PE 78)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:18.432349+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:36.045606+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "AJANTPHARM",
@@ -5837,8 +5837,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:50.570038+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:12.209759+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "PHOENIXLTD",
@@ -5890,7 +5890,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:14.506528+00:00",
+  "last_updated": "2026-11-05T01:32:32.775471+00:00",
   "sector_relative_strength": -2.5
  },
  {
@@ -5946,8 +5946,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:50.266683+00:00",
-  "sector_relative_strength": 4.3
+  "last_updated": "2026-11-05T01:32:11.942708+00:00",
+  "sector_relative_strength": 4.4
  },
  {
   "symbol": "BLUESTARCO",
@@ -6002,8 +6002,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:54.268736+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:15.556224+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "DRREDDY",
@@ -6060,8 +6060,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:58.225295+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:19.112032+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "PATANJALI",
@@ -6114,8 +6114,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:13.939771+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:32.380220+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "HONASA",
@@ -6168,8 +6168,8 @@
    "Rich valuation (PE 61)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:03.331539+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:23.561886+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "PIDILITIND",
@@ -6223,8 +6223,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:14.715285+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:32.890180+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "CPPLUS",
@@ -6277,8 +6277,8 @@
    "Rich valuation (PE 98)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.869578+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:17.892522+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "ONGC",
@@ -6331,8 +6331,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:13.814724+00:00",
-  "sector_relative_strength": 10.5
+  "last_updated": "2026-11-05T01:32:32.158021+00:00",
+  "sector_relative_strength": 10.6
  },
  {
   "symbol": "RADICO",
@@ -6368,14 +6368,14 @@
    "\u2713 accumulation (A/D)",
    "\u2717 RSI healthy (47)",
    "\u2717 MACD positive",
-   "\u2717 PE 74",
+   "\u2717 PE 71",
    "\u2713 earnings growth 66%",
    "\u2713 revenue growth 17%",
    "\u2713 D/E 11",
    "\u2713 ROE 24%"
   ],
   "technical_summary": "Sideways, RSI 47, ADX 22, MACD hist -18.27, vol 1.9x avg, patterns: Bearish Engulfing, Morning Star",
-  "fundamental_summary": "PE 73.9529, PEG n/a, ROE 24%, D/E 10.744, rev growth 17%",
+  "fundamental_summary": "PE 71.33701, PEG n/a, ROE 24%, D/E 10.744, rev growth 17%",
   "investment_thesis": "Sideways; price 4250.0 vs 50EMA 4342.1 / 200EMA 3843.5. Fundamentals score 81/100 (ROE 24%, earnings growth 66%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "High ROE (24%)",
@@ -6384,11 +6384,11 @@
    "Accumulation pattern (A/D rising)"
   ],
   "key_risks": [
-   "Rich valuation (PE 74)"
+   "Rich valuation (PE 71)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.076161+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:33.961710+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "WELCORP",
@@ -6441,8 +6441,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:23.087545+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:40.131298+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "NHPC",
@@ -6493,8 +6493,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:12.511430+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:31.299247+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "HFCL",
@@ -6549,8 +6549,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:02.860192+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:23.096021+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "JYOTICNC",
@@ -6605,8 +6605,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:07.466491+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:26.846375+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "LODHA",
@@ -6660,7 +6660,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:09.394100+00:00",
+  "last_updated": "2026-11-05T01:32:28.472444+00:00",
   "sector_relative_strength": -2.5
  },
  {
@@ -6715,8 +6715,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:18.655846+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:36.364973+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "TATAELXSI",
@@ -6770,8 +6770,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:19.779739+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:37.306184+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "CHOICEIN",
@@ -6825,8 +6825,8 @@
    "Rich valuation (PE 63)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.734590+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:16.987435+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "CEMPRO",
@@ -6878,8 +6878,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.407641+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:16.659383+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "FEDERALBNK",
@@ -6931,8 +6931,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:59.856252+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:20.535623+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "GVT&D",
@@ -6987,8 +6987,8 @@
    "Rich valuation (PE 76)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:02.033552+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:22.423407+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "IKS",
@@ -7040,8 +7040,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:04.606237+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:24.538561+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "ABDL",
@@ -7077,25 +7077,25 @@
    "\u2713 accumulation (A/D)",
    "\u2717 RSI healthy (50)",
    "\u2717 MACD positive",
-   "\u2717 PE 84",
+   "\u2717 PE 85",
    "\u2713 earnings growth 15%",
    "\u2713 revenue growth 16%",
    "\u2713 D/E 84",
    "\u2713 ROE 13%"
   ],
   "technical_summary": "Uptrend, RSI 50, ADX 20, MACD hist -4.08, vol 0.7x avg, patterns: Bearish Engulfing",
-  "fundamental_summary": "PE 83.83414, PEG n/a, ROE 13%, D/E 84.092, rev growth 16%",
+  "fundamental_summary": "PE 85.47794, PEG n/a, ROE 13%, D/E 84.092, rev growth 16%",
   "investment_thesis": "Uptrend; price 694.5 vs 50EMA 677.2 / 200EMA 602.2. Fundamentals score 56/100 (ROE 13%, earnings growth 15%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "Uptrend",
    "Accumulation pattern (A/D rising)"
   ],
   "key_risks": [
-   "Rich valuation (PE 84)"
+   "Rich valuation (PE 85)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:49.389503+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:11.150068+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "JINDALSTEL",
@@ -7150,8 +7150,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:06.603479+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:26.200566+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "MEDANTA",
@@ -7206,8 +7206,8 @@
    "Rich valuation (PE 61)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:10.967689+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:29.498708+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "NUVOCO",
@@ -7259,8 +7259,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:13.101916+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:31.687419+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "FINCABLES",
@@ -7312,8 +7312,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:59.779193+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:20.556478+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "TDPOWERSYS",
@@ -7367,8 +7367,8 @@
    "Rich valuation (PE 83)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:20.268430+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:37.659793+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "MEESHO",
@@ -7419,8 +7419,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:10.658747+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:29.974982+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "GABRIEL",
@@ -7474,8 +7474,8 @@
    "Rich valuation (PE 65)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:00.317154+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:21.017514+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "HDFCBANK",
@@ -7527,8 +7527,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:02.473979+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:22.862737+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "INFY",
@@ -7582,8 +7582,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:05.198242+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:25.033504+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "HINDZINC",
@@ -7640,8 +7640,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:03.126533+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:23.325454+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "CDSL",
@@ -7697,8 +7697,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.282744+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:16.526187+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "GRANULES",
@@ -7751,8 +7751,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:01.550853+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:21.823303+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "CGCL",
@@ -7805,8 +7805,8 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.620697+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:16.821434+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "ICICIGI",
@@ -7860,8 +7860,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:04.392857+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:23.914432+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "BAJFINANCE",
@@ -7915,8 +7915,8 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:52.757719+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:14.436166+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "KAJARIACER",
@@ -7970,8 +7970,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:07.485902+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:27.148540+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "ITC",
@@ -8025,8 +8025,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:06.033881+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:25.815135+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "URBANCO",
@@ -8079,8 +8079,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:22.254354+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:39.386785+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "NTPC",
@@ -8133,8 +8133,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:12.897058+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:31.521790+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "TITAN",
@@ -8187,8 +8187,8 @@
    "Rich valuation (PE 73)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:21.032093+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:38.400985+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "KARURVYSYA",
@@ -8240,8 +8240,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:07.868826+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:27.207246+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "SYRMA",
@@ -8294,8 +8294,8 @@
    "Rich valuation (PE 69)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:19.335017+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:36.970296+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "LEMONTREE",
@@ -8346,8 +8346,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:08.873001+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:28.026866+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "SUNPHARMA",
@@ -8400,8 +8400,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:18.965110+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:36.552757+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "AIIL",
@@ -8454,8 +8454,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:50.450702+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:12.122853+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "IEX",
@@ -8509,8 +8509,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:04.248018+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:24.244840+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "PRIVISCL",
@@ -8553,7 +8553,7 @@
    "\u2713 ROE 26%"
   ],
   "technical_summary": "Sideways, RSI 43, ADX 24, MACD hist -7.44, vol 2.3x avg, patterns: Hammer",
-  "fundamental_summary": "PE 34.111458, PEG n/a, ROE 26%, D/E 61.888, rev growth 12%",
+  "fundamental_summary": "PE 34.297234, PEG n/a, ROE 26%, D/E 61.888, rev growth 12%",
   "investment_thesis": "Sideways; price 3266.4 vs 50EMA 3417.8 / 200EMA 3255.5. Fundamentals score 82/100 (ROE 26%, earnings growth 25%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "High ROE (26%)",
@@ -8563,8 +8563,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:15.647641+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:33.716974+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "SHREECEM",
@@ -8617,8 +8617,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:17.849104+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:35.606294+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "FORCEMOT",
@@ -8670,8 +8670,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:00.121894+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:20.668179+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "SHRIPISTON",
@@ -8724,8 +8724,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:17.920940+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:35.607998+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "GRAPHITE",
@@ -8778,8 +8778,8 @@
    "Rich valuation (PE 62)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:01.648786+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:22.062658+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "TATACOMM",
@@ -8835,8 +8835,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:19.752037+00:00",
-  "sector_relative_strength": 4.3
+  "last_updated": "2026-11-05T01:32:37.173325+00:00",
+  "sector_relative_strength": 4.4
  },
  {
   "symbol": "ACE",
@@ -8888,8 +8888,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:49.523373+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:11.300848+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "GLAXO",
@@ -8941,8 +8941,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:00.798717+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:21.340990+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "SRF",
@@ -8997,8 +8997,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:18.545785+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:36.223699+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "BEL",
@@ -9053,8 +9053,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:53.467181+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:14.860772+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "CRAFTSMAN",
@@ -9107,8 +9107,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.899536+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:18.017780+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "LLOYDSME",
@@ -9160,8 +9160,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:09.095240+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:28.378177+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "TATACAP",
@@ -9216,8 +9216,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:19.436290+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:37.002606+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "LTM",
@@ -9270,8 +9270,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:09.534460+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:28.797117+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "CAPLIPOINT",
@@ -9323,8 +9323,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.106346+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:16.229212+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "AEGISLOG",
@@ -9378,8 +9378,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:50.142136+00:00",
-  "sector_relative_strength": 10.5
+  "last_updated": "2026-11-05T01:32:11.830548+00:00",
+  "sector_relative_strength": 10.6
  },
  {
   "symbol": "AZAD",
@@ -9431,8 +9431,8 @@
    "Rich valuation (PE 120)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:52.295642+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:13.969593+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "BALKRISIND",
@@ -9486,8 +9486,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:52.809027+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:14.478778+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "PGEL",
@@ -9543,8 +9543,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:14.363557+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:32.712451+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "ASIANPAINT",
@@ -9599,8 +9599,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.618890+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:13.194653+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "BANKBARODA",
@@ -9651,8 +9651,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:53.048792+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:14.514707+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "COALINDIA",
@@ -9709,8 +9709,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.371559+00:00",
-  "sector_relative_strength": 10.5
+  "last_updated": "2026-11-05T01:32:17.550600+00:00",
+  "sector_relative_strength": 10.6
  },
  {
   "symbol": "NATIONALUM",
@@ -9766,8 +9766,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:11.851530+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:30.676808+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "NH",
@@ -9822,8 +9822,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:12.381250+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:31.200986+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "POLYCAB",
@@ -9880,8 +9880,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:15.132184+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:33.222887+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "LUPIN",
@@ -9936,8 +9936,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:10.255234+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:28.813661+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "TBOTEK",
@@ -9979,7 +9979,7 @@
    "\u2713 D/E 49"
   ],
   "technical_summary": "Sideways, RSI 48, ADX 19, MACD hist +0.87, vol 0.7x avg, patterns: Bullish Engulfing, Evening Star",
-  "fundamental_summary": "PE 60.185333, PEG n/a, ROE 0%, D/E 48.762, rev growth 81%",
+  "fundamental_summary": "PE 60.16161, PEG n/a, ROE 0%, D/E 48.762, rev growth 81%",
   "investment_thesis": "Sideways; price 1594.4 vs 50EMA 1613.0 / 200EMA 1511.3. Fundamentals score 74/100 (ROE 0%, earnings growth 32%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "Strong earnings growth (32%)",
@@ -9989,8 +9989,8 @@
    "Rich valuation (PE 60)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:20.146899+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:37.607138+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "ONESOURCE",
@@ -10044,8 +10044,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:13.706328+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:32.002717+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "OFSS",
@@ -10099,8 +10099,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:13.300162+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:31.832473+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "SAGILITY",
@@ -10155,8 +10155,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.979499+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:34.895865+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "MARUTI",
@@ -10210,8 +10210,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:10.285083+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:29.494683+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "BHEL",
@@ -10265,8 +10265,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:53.947968+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:15.208374+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "ECLERX",
@@ -10321,8 +10321,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:58.532391+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:19.369569+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "TORNTPHARM",
@@ -10376,8 +10376,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:21.355500+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:38.579292+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "TRIDENT",
@@ -10428,8 +10428,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:21.446238+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:38.734664+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "ADANIENSOL",
@@ -10481,8 +10481,8 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:49.762950+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:11.487323+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "SAIL",
@@ -10534,8 +10534,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:17.091801+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:35.006234+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "ANTHEM",
@@ -10589,8 +10589,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:50.919189+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:12.507060+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "HINDUNILVR",
@@ -10644,8 +10644,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:03.128137+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:23.388093+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "PIRAMALFIN",
@@ -10698,8 +10698,8 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:14.716084+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:32.957570+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "CHOLAFIN",
@@ -10756,8 +10756,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.946008+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:17.028014+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "VOLTAS",
@@ -10811,8 +10811,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:22.973726+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:40.020899+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "HYUNDAI",
@@ -10867,8 +10867,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:03.548217+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:23.726055+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "NESTLEIND",
@@ -10925,8 +10925,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:12.346789+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:31.023435+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "DEEPAKNTR",
@@ -10982,8 +10982,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:57.611030+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:18.650972+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "ELGIEQUIP",
@@ -11036,8 +11036,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:59.056674+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:19.750173+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "HINDALCO",
@@ -11091,8 +11091,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:02.945319+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:23.302319+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "PWL",
@@ -11145,8 +11145,8 @@
    "Rich valuation (PE 1593)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.005029+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:33.912782+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "APARINDS",
@@ -11200,8 +11200,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.138591+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:12.645194+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "KIRLOSBROS",
@@ -11256,8 +11256,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:08.238760+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:27.530464+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "OBEROIRLTY",
@@ -11310,7 +11310,7 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:13.302203+00:00",
+  "last_updated": "2026-11-05T01:32:31.779988+00:00",
   "sector_relative_strength": -2.5
  },
  {
@@ -11365,8 +11365,8 @@
    "Rich valuation (PE 126)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:49.838389+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:11.597158+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "EMAMILTD",
@@ -11402,13 +11402,13 @@
    "\u2713 accumulation (A/D)",
    "\u2713 RSI healthy (55)",
    "\u2713 MACD positive",
-   "\u2713 PE 23",
+   "\u2713 PE 22",
    "\u2717 earnings growth -16%",
    "\u2713 revenue growth 15%",
    "\u2713 D/E 6"
   ],
   "technical_summary": "Sideways, RSI 55, ADX 12, MACD hist +0.65, vol 0.3x avg",
-  "fundamental_summary": "PE 22.821665, PEG n/a, ROE 0%, D/E 5.541, rev growth 15%",
+  "fundamental_summary": "PE 22.236153, PEG n/a, ROE 0%, D/E 5.541, rev growth 15%",
   "investment_thesis": "Sideways; price 382.0 vs 50EMA 379.5 / 200EMA 421.9. Fundamentals score 65/100 (ROE 0%, earnings growth -16%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "Low debt",
@@ -11418,8 +11418,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:58.995160+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:19.850038+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "HDFCAMC",
@@ -11472,8 +11472,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:02.350434+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:22.763118+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "SJVN",
@@ -11527,8 +11527,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:18.274283+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:35.947682+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "BERGEPAINT",
@@ -11582,8 +11582,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:53.657512+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:15.114817+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "BRITANNIA",
@@ -11635,8 +11635,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:54.525979+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:15.876775+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "CAMS",
@@ -11691,8 +11691,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:54.731688+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:16.012330+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "MANAPPURAM",
@@ -11743,8 +11743,8 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:09.909529+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:29.152821+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "BBOX",
@@ -11795,8 +11795,8 @@
    "Rich valuation (PE 62)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:53.328401+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:14.874540+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "REDINGTON",
@@ -11848,8 +11848,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.467904+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:34.315311+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "UNITDSPR",
@@ -11905,8 +11905,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:22.147385+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:39.277828+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "USHAMART",
@@ -11948,7 +11948,7 @@
    "\u2713 D/E 7"
   ],
   "technical_summary": "Sideways, RSI 41, ADX 18, MACD hist -2.00, vol 0.5x avg, patterns: Doji",
-  "fundamental_summary": "PE 27.914991, PEG n/a, ROE 0%, D/E 6.922, rev growth 16%",
+  "fundamental_summary": "PE 27.835052, PEG n/a, ROE 0%, D/E 6.922, rev growth 16%",
   "investment_thesis": "Sideways; price 460.8 vs 50EMA 487.2 / 200EMA 469.1. Fundamentals score 85/100 (ROE 0%, earnings growth 41%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "Strong earnings growth (41%)",
@@ -11959,8 +11959,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:22.288717+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:39.460155+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "SCI",
@@ -12012,8 +12012,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:17.749677+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:35.602317+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "AETHER",
@@ -12066,8 +12066,8 @@
    "Rich valuation (PE 82)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:50.209405+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:11.837799+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "M&M",
@@ -12121,8 +12121,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:09.874305+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:29.063750+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "TMCV",
@@ -12172,8 +12172,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:21.063731+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:38.345561+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "SBIN",
@@ -12227,8 +12227,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:17.564781+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:35.316542+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "ABB",
@@ -12282,8 +12282,8 @@
    "Rich valuation (PE 92)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:49.114519+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:10.840962+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "KPIL",
@@ -12335,8 +12335,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:08.286681+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:27.695655+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "TIMKEN",
@@ -12380,7 +12380,7 @@
    "\u2713 ROE 15%"
   ],
   "technical_summary": "Strong Downtrend, RSI 55, ADX 27, MACD hist +27.91, vol 1.1x avg",
-  "fundamental_summary": "PE 50.810585, PEG n/a, ROE 15%, D/E 0.431, rev growth 28%",
+  "fundamental_summary": "PE 50.953884, PEG n/a, ROE 15%, D/E 0.431, rev growth 28%",
   "investment_thesis": "Strong Downtrend; price 3008.3 vs 50EMA 3030.4 / 200EMA 3187.1. Fundamentals score 81/100 (ROE 15%, earnings growth 35%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "High ROE (15%)",
@@ -12393,8 +12393,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:20.958538+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:38.257662+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "VEDL",
@@ -12447,8 +12447,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:22.669891+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:39.755969+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "CIPLA",
@@ -12503,8 +12503,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.094043+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:17.304689+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "VTL",
@@ -12547,7 +12547,7 @@
    "\u2713 D/E 18"
   ],
   "technical_summary": "Downtrend, RSI 44, ADX 19, MACD hist +0.46, vol 0.2x avg",
-  "fundamental_summary": "PE 18.258097, PEG n/a, ROE 0%, D/E 17.52, rev growth 13%",
+  "fundamental_summary": "PE 17.798119, PEG n/a, ROE 0%, D/E 17.52, rev growth 13%",
   "investment_thesis": "Downtrend; price 509.6 vs 50EMA 541.4 / 200EMA 548.8. Fundamentals score 89/100 (ROE 0%, earnings growth 49%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "Strong earnings growth (49%)",
@@ -12559,8 +12559,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:22.901931+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:40.020639+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "UBL",
@@ -12614,8 +12614,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:21.833139+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:38.960460+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "GRSE",
@@ -12669,8 +12669,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:01.943647+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:22.134043+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "MUTHOOTFIN",
@@ -12713,7 +12713,7 @@
    "\u2713 ROE 32%"
   ],
   "technical_summary": "Strong Downtrend, RSI 46, ADX 46, MACD hist +12.87, vol 1.3x avg, patterns: Bullish Engulfing, Doji",
-  "fundamental_summary": "PE 8.965723, PEG n/a, ROE 32%, D/E 401.441, rev growth 29%",
+  "fundamental_summary": "PE 8.917923, PEG n/a, ROE 32%, D/E 401.441, rev growth 29%",
   "investment_thesis": "Strong Downtrend; price 2528.2 vs 50EMA 2685.9 / 200EMA 2985.1. Fundamentals score 77/100 (ROE 32%, earnings growth 34%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "High ROE (32%)",
@@ -12725,8 +12725,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:11.687500+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:30.525962+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "BANKINDIA",
@@ -12780,8 +12780,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:53.260331+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:14.538359+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "LICI",
@@ -12836,8 +12836,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:09.047894+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:28.396354+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "SHRIRAMFIN",
@@ -12892,8 +12892,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:18.118940+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:35.734805+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "EIHOTEL",
@@ -12945,8 +12945,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:58.725686+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:19.414187+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "CRISIL",
@@ -13000,8 +13000,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.987536+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:18.065289+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "STARHEALTH",
@@ -13054,8 +13054,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:18.600050+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:36.274567+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "MGL",
@@ -13108,8 +13108,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:10.674974+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:29.803719+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "PREMIERENE",
@@ -13163,8 +13163,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:15.495016+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:33.582785+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "DABUR",
@@ -13217,8 +13217,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:57.370995+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:18.384756+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "ARE&M",
@@ -13272,8 +13272,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.457582+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:12.929088+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "EMMVEE",
@@ -13327,8 +13327,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:59.154100+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:19.823423+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "CGPOWER",
@@ -13383,8 +13383,8 @@
    "Rich valuation (PE 96)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.726823+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:16.965197+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "HEGAM",
@@ -13439,8 +13439,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:02.572228+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:22.863717+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "BPCL",
@@ -13494,8 +13494,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:54.331031+00:00",
-  "sector_relative_strength": 10.5
+  "last_updated": "2026-11-05T01:32:15.582407+00:00",
+  "sector_relative_strength": 10.6
  },
  {
   "symbol": "RRKABEL",
@@ -13549,8 +13549,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.904229+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:34.630621+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "CONCORDBIO",
@@ -13604,8 +13604,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.714119+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:17.846632+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "AXISBANK",
@@ -13659,8 +13659,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:52.327240+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:13.758561+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "TATASTEEL",
@@ -13713,8 +13713,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:20.111439+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:37.485411+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "NAM-INDIA",
@@ -13767,8 +13767,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:11.487910+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:30.515476+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "CHOLAHLDNG",
@@ -13821,8 +13821,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.063890+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:17.227893+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "BAJAJFINSV",
@@ -13879,8 +13879,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:52.601905+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:13.951752+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "GILLETTE",
@@ -13932,8 +13932,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:00.734216+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:21.355662+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "JSWCEMENT",
@@ -13987,8 +13987,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:07.038879+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:26.552981+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "ALKEM",
@@ -14042,8 +14042,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:50.528092+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:12.186343+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "BLS",
@@ -14094,8 +14094,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:54.187077+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:15.545575+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "IIFL",
@@ -14138,7 +14138,7 @@
    "\u2713 ROE 17%"
   ],
   "technical_summary": "Sideways, RSI 42, ADX 28, MACD hist -2.68, vol 0.6x avg",
-  "fundamental_summary": "PE 9.722549, PEG n/a, ROE 17%, D/E 490.049, rev growth 44%",
+  "fundamental_summary": "PE 9.927884, PEG n/a, ROE 17%, D/E 490.049, rev growth 44%",
   "investment_thesis": "Sideways; price 541.5 vs 50EMA 584.1 / 200EMA 551.2. Fundamentals score 77/100 (ROE 17%, earnings growth 103%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "High ROE (17%)",
@@ -14148,8 +14148,8 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:04.512224+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:24.400644+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "PRESTIGE",
@@ -14203,7 +14203,7 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:15.630345+00:00",
+  "last_updated": "2026-11-05T01:32:33.583852+00:00",
   "sector_relative_strength": -2.5
  },
  {
@@ -14257,8 +14257,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.817239+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:17.896311+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "HSCL",
@@ -14312,8 +14312,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:03.540745+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:23.610228+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "JKCEMENT",
@@ -14365,8 +14365,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:06.751250+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:26.203463+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "AUBANK",
@@ -14418,8 +14418,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.951255+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:13.540770+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "HEXT",
@@ -14473,8 +14473,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:02.731690+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:22.945855+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "INDIGO",
@@ -14526,8 +14526,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:05.030024+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:24.816011+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "JSWINFRA",
@@ -14579,8 +14579,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:07.092854+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:26.549417+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "KALYANKJIL",
@@ -14631,8 +14631,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:07.822383+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:27.186859+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "KFINTECH",
@@ -14685,8 +14685,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:07.974059+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:27.476777+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "SUPREMEIND",
@@ -14740,8 +14740,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:19.012435+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:36.637611+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "CUB",
@@ -14792,8 +14792,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:57.228153+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:18.248343+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "BALRAMCHIN",
@@ -14844,8 +14844,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:52.864012+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:14.540257+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "BATAINDIA",
@@ -14897,8 +14897,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:53.270959+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:14.768682+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "NBCC",
@@ -14950,8 +14950,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:12.068723+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:30.918464+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "TARIL",
@@ -15006,8 +15006,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:19.435149+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:36.964399+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "GODREJCP",
@@ -15061,8 +15061,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:01.236700+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:22.235256+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "APOLLOTYRE",
@@ -15114,8 +15114,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.355637+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:12.863534+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "JSWENERGY",
@@ -15170,8 +15170,8 @@
    "Death cross"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:07.160127+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:26.519518+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "TATAPOWER",
@@ -15223,8 +15223,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:19.906176+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:37.505253+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "IDFCFIRSTB",
@@ -15275,8 +15275,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:04.055005+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:24.245792+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "MTARTECH",
@@ -15329,8 +15329,8 @@
    "Rich valuation (PE 98)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:11.517547+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:30.306814+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "SUNDARMFIN",
@@ -15383,8 +15383,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:18.776358+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:36.440199+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "JUBLINGREA",
@@ -15439,8 +15439,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:07.363559+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:26.844411+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "LTF",
@@ -15495,8 +15495,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:09.468309+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:28.617610+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "NAUKRI",
@@ -15551,8 +15551,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:11.954189+00:00",
-  "sector_relative_strength": 4.3
+  "last_updated": "2026-11-05T01:32:30.625611+00:00",
+  "sector_relative_strength": 4.4
  },
  {
   "symbol": "POWERGRID",
@@ -15605,8 +15605,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:15.244481+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:33.438767+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "RAINBOW",
@@ -15661,8 +15661,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.029038+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:34.058327+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "HAVELLS",
@@ -15716,8 +15716,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:02.067057+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:22.527150+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "FORTIS",
@@ -15771,8 +15771,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:00.319374+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:20.867639+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "INDIAMART",
@@ -15825,8 +15825,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:04.714543+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:24.715646+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "GICRE",
@@ -15877,8 +15877,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:00.756643+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:21.186706+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "UNOMINDA",
@@ -15932,8 +15932,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:22.155515+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:39.369662+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "WAAREEENER",
@@ -15988,8 +15988,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:22.989419+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:40.037610+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "RPOWER",
@@ -16040,8 +16040,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.744664+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:34.675690+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "SYNGENE",
@@ -16095,8 +16095,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:19.402077+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:36.933550+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "CUMMINSIND",
@@ -16150,8 +16150,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:57.224194+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:18.299654+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "DEEPAKFERT",
@@ -16204,8 +16204,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:57.661651+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:18.698735+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "ZYDUSWELL",
@@ -16257,8 +16257,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:23.810851+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:40.873525+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "ENRIN",
@@ -16313,8 +16313,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:59.482085+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:20.094534+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "ASTRAL",
@@ -16368,8 +16368,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.699870+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:13.270966+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "IOB",
@@ -16422,8 +16422,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:05.505482+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:25.301992+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "J&KBANK",
@@ -16474,8 +16474,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:06.279316+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:25.845257+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "NEULANDLAB",
@@ -16528,8 +16528,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:12.376940+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:31.017492+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "COLPAL",
@@ -16582,8 +16582,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.481731+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:17.636194+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "SCHAEFFLER",
@@ -16638,8 +16638,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:17.613057+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:35.440142+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "BHARATFORG",
@@ -16689,8 +16689,8 @@
    "Rich valuation (PE 123)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:53.767032+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:15.234686+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "HOMEFIRST",
@@ -16745,8 +16745,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:03.286161+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:23.413443+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "IDEA",
@@ -16795,8 +16795,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:03.970866+00:00",
-  "sector_relative_strength": 4.3
+  "last_updated": "2026-11-05T01:32:24.093326+00:00",
+  "sector_relative_strength": 4.4
  },
  {
   "symbol": "ABBOTINDIA",
@@ -16848,8 +16848,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:49.093865+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:10.846360+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "CROMPTON",
@@ -16901,8 +16901,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:57.086751+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:18.193340+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "SBILIFE",
@@ -16954,8 +16954,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:17.513218+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:35.242853+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "DATAPATTNS",
@@ -17007,8 +17007,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:57.644045+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:18.585619+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "ITI",
@@ -17059,8 +17059,8 @@
    "Rich valuation (PE 138)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:06.103227+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:25.831896+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "JINDALSAW",
@@ -17113,8 +17113,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:06.577385+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:26.155006+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "INDUSINDBK",
@@ -17166,8 +17166,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:05.195974+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:24.974693+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "M&MFIN",
@@ -17223,8 +17223,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:09.912911+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:29.107684+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "SBICARD",
@@ -17278,8 +17278,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:17.430954+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:35.259066+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "AARTIIND",
@@ -17331,8 +17331,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:48.995029+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:10.839940+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "BELRISE",
@@ -17383,8 +17383,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:53.440445+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:14.836588+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "DMART",
@@ -17437,8 +17437,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:58.066347+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:19.046869+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "ENDURANCE",
@@ -17491,8 +17491,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:59.224477+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:19.958384+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "PIIND",
@@ -17528,13 +17528,13 @@
    "\u2713 accumulation (A/D)",
    "\u2713 RSI healthy (50)",
    "\u2713 MACD positive",
-   "\u2713 PE 29",
+   "\u2713 PE 28",
    "\u2717 earnings growth -39%",
    "\u2717 revenue growth -10%",
    "\u2713 D/E 3"
   ],
   "technical_summary": "Strong Downtrend, RSI 50, ADX 28, MACD hist +16.62, vol 1.1x avg, patterns: Doji",
-  "fundamental_summary": "PE 28.723404, PEG n/a, ROE 0%, D/E 3.048, rev growth -10%",
+  "fundamental_summary": "PE 28.47656, PEG n/a, ROE 0%, D/E 3.048, rev growth -10%",
   "investment_thesis": "Strong Downtrend; price 2185.0 vs 50EMA 2274.6 / 200EMA 2707.1. Fundamentals score 49/100 (ROE 0%, earnings growth -39%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "Low debt",
@@ -17545,8 +17545,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:14.645860+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:32.905197+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "KPITTECH",
@@ -17601,8 +17601,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:08.367234+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:27.823890+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "UCOBANK",
@@ -17653,8 +17653,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:21.864237+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:39.067798+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "BANDHANBNK",
@@ -17707,8 +17707,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:53.042444+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:14.482633+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "MAXHEALTH",
@@ -17764,8 +17764,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:10.294133+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:29.474492+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "CEATLTD",
@@ -17819,8 +17819,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.409354+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:16.553635+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "PFOCUS",
@@ -17871,8 +17871,8 @@
    "Rich valuation (PE 172)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:14.302721+00:00",
-  "sector_relative_strength": 4.3
+  "last_updated": "2026-11-05T01:32:32.641743+00:00",
+  "sector_relative_strength": 4.4
  },
  {
   "symbol": "RITES",
@@ -17924,8 +17924,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.564573+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:34.588491+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "WOCKPHARMA",
@@ -17977,8 +17977,8 @@
    "Rich valuation (PE 75)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:23.316033+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:40.468985+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "IRFC",
@@ -18031,8 +18031,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:05.979838+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:25.741066+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "EXIDEIND",
@@ -18086,8 +18086,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:59.743549+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:20.262794+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "HDBFS",
@@ -18130,7 +18130,7 @@
    "\u2713 ROE 14%"
   ],
   "technical_summary": "Strong Downtrend, RSI 25, ADX 46, MACD hist +1.47, vol 0.5x avg, patterns: Doji",
-  "fundamental_summary": "PE 14.19097, PEG n/a, ROE 14%, D/E 471.457, rev growth 17%",
+  "fundamental_summary": "PE 14.226876, PEG n/a, ROE 14%, D/E 471.457, rev growth 17%",
   "investment_thesis": "Strong Downtrend; price 503.1 vs 50EMA 592.5 / 200EMA 665.6. Fundamentals score 77/100 (ROE 14%, earnings growth 34%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "Strong earnings growth (34%)"
@@ -18140,8 +18140,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:02.352645+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:22.581891+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "HINDCOPPER",
@@ -18195,8 +18195,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:02.969433+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:23.259254+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "THANGAMAYL",
@@ -18247,8 +18247,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:20.737394+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:38.065288+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "CCL",
@@ -18292,7 +18292,7 @@
    "\u2713 ROE 19%"
   ],
   "technical_summary": "Strong Downtrend, RSI 38, ADX 28, MACD hist -2.14, vol 0.9x avg, patterns: Doji",
-  "fundamental_summary": "PE 28.141232, PEG n/a, ROE 19%, D/E 46.024, rev growth 8%",
+  "fundamental_summary": "PE 27.856731, PEG n/a, ROE 19%, D/E 46.024, rev growth 8%",
   "investment_thesis": "Strong Downtrend; price 941.7 vs 50EMA 1028.2 / 200EMA 1047.3. Fundamentals score 82/100 (ROE 19%, earnings growth 29%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "High ROE (19%)",
@@ -18304,8 +18304,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.209980+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:16.453112+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "POWERINDIA",
@@ -18357,8 +18357,8 @@
    "Rich valuation (PE 113)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:15.344994+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:33.538049+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "GRAVITA",
@@ -18413,8 +18413,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:01.699527+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:22.067148+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "JSL",
@@ -18469,8 +18469,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:06.993252+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:26.542581+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "NMDC",
@@ -18523,8 +18523,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:12.966432+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:31.413994+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "TORNTPOWER",
@@ -18576,8 +18576,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:21.378152+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:38.598991+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "CENTRALBK",
@@ -18628,8 +18628,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.417523+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:16.646262+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "CANFINHOME",
@@ -18685,8 +18685,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:54.919089+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:15.985369+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "NETWEB",
@@ -18740,8 +18740,8 @@
    "Rich valuation (PE 64)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:12.240357+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:31.064652+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "ZFCVINDIA",
@@ -18796,8 +18796,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:23.757981+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:40.744300+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "GODFRYPHLP",
@@ -18849,8 +18849,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:01.206523+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:21.759170+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "AMBUJACEM",
@@ -18903,8 +18903,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:50.666517+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:12.266325+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "SUZLON",
@@ -18958,8 +18958,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:19.088995+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:36.679127+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "GPIL",
@@ -19001,7 +19001,7 @@
    "\u2713 D/E 8"
   ],
   "technical_summary": "Strong Downtrend, RSI 31, ADX 43, MACD hist +0.23, vol 1.0x avg, patterns: Doji",
-  "fundamental_summary": "PE 16.071875, PEG n/a, ROE 0%, D/E 7.582, rev growth 32%",
+  "fundamental_summary": "PE 16.147568, PEG n/a, ROE 0%, D/E 7.582, rev growth 32%",
   "investment_thesis": "Strong Downtrend; price 192.7 vs 50EMA 217.9 / 200EMA 241.6. Fundamentals score 74/100 (ROE 0%, earnings growth -1%). Mixed signals; no edge at current levels.",
   "key_strengths": [
    "Low debt"
@@ -19011,8 +19011,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:01.552791+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:21.753025+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "HINDPETRO",
@@ -19064,8 +19064,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:03.105543+00:00",
-  "sector_relative_strength": 10.5
+  "last_updated": "2026-11-05T01:32:23.271088+00:00",
+  "sector_relative_strength": 10.6
  },
  {
   "symbol": "YESBANK",
@@ -19118,8 +19118,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:23.357552+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:40.398399+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "ADANIENT",
@@ -19171,8 +19171,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:49.864002+00:00",
-  "sector_relative_strength": 10.5
+  "last_updated": "2026-11-05T01:32:11.493518+00:00",
+  "sector_relative_strength": 10.6
  },
  {
   "symbol": "JKTYRE",
@@ -19225,8 +19225,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:06.745097+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:26.250058+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "APTUS",
@@ -19280,8 +19280,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.296861+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:12.903415+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "BIRET",
@@ -19329,8 +19329,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:54.119130+00:00",
-  "sector_relative_strength": -17.7
+  "last_updated": "2026-11-05T01:32:15.450070+00:00",
+  "sector_relative_strength": -17.6
  },
  {
   "symbol": "JIOFIN",
@@ -19385,8 +19385,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:06.681955+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:26.198454+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "GODREJPROP",
@@ -19441,7 +19441,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:01.306018+00:00",
+  "last_updated": "2026-11-05T01:32:21.781830+00:00",
   "sector_relative_strength": -2.5
  },
  {
@@ -19495,8 +19495,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:02.649924+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:22.918721+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "NSLNISP",
@@ -19551,8 +19551,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:12.901356+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:31.371185+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "SIEMENS",
@@ -19604,8 +19604,8 @@
    "Rich valuation (PE 86)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:18.237175+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:35.970402+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "VMM",
@@ -19657,8 +19657,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:22.849792+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:39.847618+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "MMTC",
@@ -19712,8 +19712,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:10.949138+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:29.883964+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "TITAGARH",
@@ -19767,8 +19767,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:20.995231+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:38.344565+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "BIOCON",
@@ -19823,8 +19823,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:54.046719+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:15.255125+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "KEI",
@@ -19878,8 +19878,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:07.898169+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:27.292752+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "CARTRADE",
@@ -19931,8 +19931,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.035651+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:16.297607+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "NAVA",
@@ -19986,8 +19986,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:11.927703+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:30.669449+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "NCC",
@@ -20038,8 +20038,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:12.267959+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:30.969111+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "CREDITACC",
@@ -20095,8 +20095,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.913253+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:17.950420+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "CANBK",
@@ -20149,8 +20149,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:54.703388+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:16.014550+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "ESCORTS",
@@ -20203,8 +20203,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:59.416485+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:20.207437+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "PARADEEP",
@@ -20256,8 +20256,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:13.792018+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:32.262476+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "PNBHOUSING",
@@ -20309,8 +20309,8 @@
    "Elevated leverage"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:14.886764+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:33.196612+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "TEGA",
@@ -20362,8 +20362,8 @@
    "Rich valuation (PE 479)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:20.550184+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:37.860256+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "TMPV",
@@ -20414,8 +20414,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:21.136220+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:38.541947+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "ABSLAMC",
@@ -20468,8 +20468,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:49.408250+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:11.172293+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "DELHIVERY",
@@ -20523,8 +20523,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:57.760820+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:18.691649+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "ATUL",
@@ -20579,8 +20579,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.975848+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:13.537882+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "TENNIND",
@@ -20634,8 +20634,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:20.585282+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:38.015264+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "AAVAS",
@@ -20688,8 +20688,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:48.998057+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:10.802070+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "TATATECH",
@@ -20742,8 +20742,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:20.142370+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:37.504227+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "CARBORUNIV",
@@ -20796,8 +20796,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.063276+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:16.301932+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "RAILTEL",
@@ -20851,8 +20851,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.058017+00:00",
-  "sector_relative_strength": 4.3
+  "last_updated": "2026-11-05T01:32:33.955535+00:00",
+  "sector_relative_strength": 4.4
  },
  {
   "symbol": "UTIAMC",
@@ -20905,8 +20905,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:22.340119+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:39.511821+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "AVANTIFEED",
@@ -20958,8 +20958,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:52.210976+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:13.700422+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "LICHSGFIN",
@@ -21014,8 +21014,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:09.085222+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:28.297235+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "JWL",
@@ -21067,8 +21067,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:07.446959+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:26.858196+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "ANURAS",
@@ -21124,8 +21124,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.029762+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:12.606172+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "RBLBANK",
@@ -21176,8 +21176,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.129252+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:34.251267+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "CIEINDIA",
@@ -21230,8 +21230,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.065261+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:17.275633+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "NLCINDIA",
@@ -21285,8 +21285,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:12.776186+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:31.451496+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "INDIACEM",
@@ -21340,8 +21340,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:04.771702+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:24.684448+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "INOXINDIA",
@@ -21377,24 +21377,24 @@
    "\u2717 accumulation (A/D)",
    "\u2717 RSI healthy (38)",
    "\u2717 MACD positive",
-   "\u2717 PE 69",
+   "\u2717 PE 68",
    "\u2717 earnings growth -5%",
    "\u2713 revenue growth 9%",
    "\u2713 D/E 7"
   ],
   "technical_summary": "Sideways, RSI 38, ADX 20, MACD hist -11.01, vol 0.4x avg",
-  "fundamental_summary": "PE 68.531494, PEG n/a, ROE 0%, D/E 7.251, rev growth 9%",
+  "fundamental_summary": "PE 67.64583, PEG n/a, ROE 0%, D/E 7.251, rev growth 9%",
   "investment_thesis": "Sideways; price 1867.9 vs 50EMA 1990.2 / 200EMA 1730.7. Fundamentals score 49/100 (ROE 0%, earnings growth -5%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "Low debt"
   ],
   "key_risks": [
-   "Rich valuation (PE 69)",
+   "Rich valuation (PE 68)",
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:05.199557+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:25.135788+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "ACC",
@@ -21448,8 +21448,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:49.451885+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:11.237849+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "ICICILIFE",
@@ -21502,8 +21502,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:03.888591+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:23.933359+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "PINELABS",
@@ -21557,8 +21557,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:14.778325+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:32.932730+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "RHIM",
@@ -21609,8 +21609,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.521278+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:34.413491+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "TTML",
@@ -21659,8 +21659,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:21.535128+00:00",
-  "sector_relative_strength": 4.3
+  "last_updated": "2026-11-05T01:32:38.825054+00:00",
+  "sector_relative_strength": 4.4
  },
  {
   "symbol": "TIINDIA",
@@ -21716,8 +21716,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:20.887088+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:38.191243+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "GMDCLTD",
@@ -21772,8 +21772,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:01.043889+00:00",
-  "sector_relative_strength": 10.5
+  "last_updated": "2026-11-05T01:32:21.420613+00:00",
+  "sector_relative_strength": 10.6
  },
  {
   "symbol": "INTELLECT",
@@ -21825,8 +21825,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:05.529206+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:25.129835+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "CHAMBLFERT",
@@ -21878,8 +21878,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.759817+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:16.936992+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "LINDEINDIA",
@@ -21934,8 +21934,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:09.110449+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:28.454434+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "RVNL",
@@ -21987,8 +21987,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.901741+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:34.721114+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "IGL",
@@ -22042,8 +22042,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:04.360057+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:24.462588+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "360ONE",
@@ -22098,8 +22098,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:49.061352+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:10.836841+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "IRCON",
@@ -22151,8 +22151,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:05.774775+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:25.502160+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "ELECON",
@@ -22205,8 +22205,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:58.622270+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:19.623734+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "VBL",
@@ -22258,8 +22258,63 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:22.627629+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:39.665426+00:00",
+  "sector_relative_strength": 1.8
+ },
+ {
+  "symbol": "ASHOKLEY",
+  "company_name": "Ashok Leyland Limited",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "current_price": 152.74,
+  "technical_score": 0.5,
+  "fundamental_score": 56.0,
+  "momentum_score": 60,
+  "quality_score": 69.0,
+  "risk_score": 65.0,
+  "overall_score": 38.9,
+  "recommendation": "AVOID",
+  "target_price": 152.74,
+  "upside_percent": -0.0,
+  "stop_loss": 140.52,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 75.0,
+  "entry_zone_low": 153.97,
+  "entry_zone_high": 183.61,
+  "risk_reward": 0,
+  "extension_atr": 1.0,
+  "entry_note": "Price is 1.0 ATRs above 20EMA, RSI 55, 1-month move +0%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 23.2,
+  "data_quality": "8/12",
+  "data_quality_pct": 67,
+  "score_drivers": [
+   "\u2717 price vs 200EMA",
+   "\u2717 price vs 50EMA",
+   "\u2717 50>200 EMA structure",
+   "\u2717 death cross (recent)",
+   "\u2717 higher highs & lows",
+   "\u2717 accumulation (A/D)",
+   "\u2713 RSI healthy (55)",
+   "\u2713 MACD positive",
+   "\u2713 PE 26",
+   "\u2717 earnings growth 1%",
+   "\u2713 revenue growth 12%",
+   "\u2717 D/E 345"
+  ],
+  "technical_summary": "Strong Downtrend, RSI 55, ADX 38, MACD hist +1.27, vol 1.1x avg, patterns: Doji",
+  "fundamental_summary": "PE 26.018581, PEG n/a, ROE 0%, D/E 344.737, rev growth 12%",
+  "investment_thesis": "Strong Downtrend; price 152.7 vs 50EMA 154.0 / 200EMA 158.1. Fundamentals score 56/100 (ROE 0%, earnings growth 1%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
+  "key_strengths": [
+   "None notable"
+  ],
+  "key_risks": [
+   "Elevated leverage",
+   "Death cross",
+   "Bearish trend structure"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-11-05T01:32:13.266718+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "IRCTC",
@@ -22311,8 +22366,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:05.878384+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:25.467485+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "TATACHEM",
@@ -22361,8 +22416,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:19.699372+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:37.134658+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "BDL",
@@ -22415,8 +22470,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:53.358895+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:14.786470+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "CONCOR",
@@ -22469,8 +22524,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.577698+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:17.661451+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "CESC",
@@ -22524,8 +22579,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:55.506131+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:16.654782+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "GMRAIRPORT",
@@ -22577,8 +22632,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:01.121350+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:21.482838+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "IRB",
@@ -22629,8 +22684,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:05.593489+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:25.499990+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "POLICYBZR",
@@ -22685,63 +22740,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:15.050548+00:00",
-  "sector_relative_strength": -6.4
- },
- {
-  "symbol": "ASHOKLEY",
-  "company_name": "Ashok Leyland Limited",
-  "sector": "Industrials",
-  "industry": "Farm & Heavy Construction Machinery",
-  "current_price": 152.74,
-  "technical_score": 0.5,
-  "fundamental_score": 56.0,
-  "momentum_score": 60,
-  "quality_score": 69.0,
-  "risk_score": 53.0,
-  "overall_score": 38.3,
-  "recommendation": "AVOID",
-  "target_price": 152.74,
-  "upside_percent": -0.0,
-  "stop_loss": 140.52,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 75.0,
-  "entry_zone_low": 153.97,
-  "entry_zone_high": 183.61,
-  "risk_reward": 0,
-  "extension_atr": 1.0,
-  "entry_note": "Price is 1.0 ATRs above 20EMA, RSI 55, 1-month move +0%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 23.2,
-  "data_quality": "8/12",
-  "data_quality_pct": 67,
-  "score_drivers": [
-   "\u2717 price vs 200EMA",
-   "\u2717 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
-   "\u2717 death cross (recent)",
-   "\u2717 higher highs & lows",
-   "\u2717 accumulation (A/D)",
-   "\u2713 RSI healthy (55)",
-   "\u2713 MACD positive",
-   "\u2713 PE 26",
-   "\u2717 earnings growth 1%",
-   "\u2713 revenue growth 12%",
-   "\u2717 D/E 345"
-  ],
-  "technical_summary": "Strong Downtrend, RSI 55, ADX 38, MACD hist +1.27, vol 1.1x avg, patterns: Doji",
-  "fundamental_summary": "PE 26.018581, PEG n/a, ROE 0%, D/E 344.737, rev growth 12%",
-  "investment_thesis": "Strong Downtrend; price 152.7 vs 50EMA 154.0 / 200EMA 158.1. Fundamentals score 56/100 (ROE 0%, earnings growth 1%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
-  "key_strengths": [
-   "None notable"
-  ],
-  "key_risks": [
-   "Elevated leverage",
-   "Death cross",
-   "Bearish trend structure"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.595778+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:33.224160+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "OLECTRA",
@@ -22795,8 +22795,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:13.557586+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:32.072230+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "POLYMED",
@@ -22850,8 +22850,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:15.063177+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:33.266364+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "BAJAJHFL",
@@ -22904,8 +22904,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:52.685097+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:13.998162+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "ABREL",
@@ -22955,7 +22955,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:49.428740+00:00",
+  "last_updated": "2026-11-05T01:32:11.168816+00:00",
   "sector_relative_strength": -2.5
  },
  {
@@ -23009,8 +23009,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:22.252136+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:39.342295+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "TRITURBINE",
@@ -23064,8 +23064,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:21.526426+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:38.753686+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "TECHNOE",
@@ -23117,8 +23117,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:20.541861+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:37.850363+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "AEGISVOPAK",
@@ -23170,8 +23170,8 @@
    "Rich valuation (PE 94)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:50.099010+00:00",
-  "sector_relative_strength": 10.5
+  "last_updated": "2026-11-05T01:32:11.806372+00:00",
+  "sector_relative_strength": 10.6
  },
  {
   "symbol": "DIXON",
@@ -23227,8 +23227,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:57.922278+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:18.907466+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "HONAUT",
@@ -23282,8 +23282,64 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:03.553817+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:23.666800+00:00",
+  "sector_relative_strength": -7.8
+ },
+ {
+  "symbol": "AADHARHFC",
+  "company_name": "Aadhar Housing Finance Limited",
+  "sector": "Financial Services",
+  "industry": "Mortgage Finance",
+  "current_price": 421.25,
+  "technical_score": 8.0,
+  "fundamental_score": 68.0,
+  "momentum_score": 0,
+  "quality_score": 76.0,
+  "risk_score": 59.0,
+  "overall_score": 37.1,
+  "recommendation": "AVOID",
+  "target_price": 421.25,
+  "upside_percent": 0.0,
+  "stop_loss": 387.55,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 75.0,
+  "entry_zone_low": 453.8,
+  "entry_zone_high": 519.38,
+  "risk_reward": 0,
+  "extension_atr": -1.3,
+  "entry_note": "Price is -1.3 ATRs above 20EMA, RSI 37, 1-month move -7%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 3.5,
+  "data_quality": "8/12",
+  "data_quality_pct": 67,
+  "score_drivers": [
+   "\u2717 price vs 200EMA",
+   "\u2717 price vs 50EMA",
+   "\u2717 50>200 EMA structure",
+   "\u2717 death cross (recent)",
+   "\u2717 higher highs & lows",
+   "\u2713 accumulation (A/D)",
+   "\u2717 RSI healthy (37)",
+   "\u2717 MACD positive",
+   "\u2713 PE 17",
+   "\u2713 earnings growth 18%",
+   "\u2713 revenue growth 20%",
+   "\u2717 D/E 256"
+  ],
+  "technical_summary": "Downtrend, RSI 37, ADX 23, MACD hist -1.86, vol 0.6x avg",
+  "fundamental_summary": "PE 16.73913, PEG n/a, ROE 0%, D/E 255.574, rev growth 20%",
+  "investment_thesis": "Downtrend; price 421.2 vs 50EMA 453.8 / 200EMA 474.1. Fundamentals score 68/100 (ROE 0%, earnings growth 18%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
+  "key_strengths": [
+   "Strong earnings growth (18%)",
+   "Accumulation pattern (A/D rising)"
+  ],
+  "key_risks": [
+   "Elevated leverage",
+   "Death cross",
+   "Bearish trend structure"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-11-05T01:32:10.799666+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "CLEAN",
@@ -23335,8 +23391,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.122411+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:17.276638+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "WHIRLPOOL",
@@ -23388,8 +23444,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:23.371131+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:40.238687+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "JAINREC",
@@ -23440,8 +23496,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:06.316721+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:25.897161+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "KAYNES",
@@ -23494,8 +23550,63 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:07.811171+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:27.142222+00:00",
+  "sector_relative_strength": 3.2
+ },
+ {
+  "symbol": "AIAENG",
+  "company_name": "AIA Engineering Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 3389.7,
+  "technical_score": 5.0,
+  "fundamental_score": 65.0,
+  "momentum_score": 0,
+  "quality_score": 81.0,
+  "risk_score": 86.0,
+  "overall_score": 36.9,
+  "recommendation": "AVOID",
+  "target_price": 3389.7,
+  "upside_percent": 0.0,
+  "stop_loss": 3118.52,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 75.0,
+  "entry_zone_low": 3882.34,
+  "entry_zone_high": 4891.94,
+  "risk_reward": 0.0,
+  "extension_atr": -2.2,
+  "entry_note": "Price is -2.2 ATRs above 20EMA, RSI 24, 1-month move -12%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 9.3,
+  "data_quality": "8/12",
+  "data_quality_pct": 67,
+  "score_drivers": [
+   "\u2717 price vs 200EMA",
+   "\u2717 price vs 50EMA",
+   "\u2717 50>200 EMA structure",
+   "\u2717 death cross (recent)",
+   "\u2717 higher highs & lows",
+   "\u2717 accumulation (A/D)",
+   "\u2717 RSI healthy (24)",
+   "\u2717 MACD positive",
+   "\u2713 PE 24",
+   "\u2717 earnings growth -1%",
+   "\u2713 revenue growth 12%",
+   "\u2713 D/E 0"
+  ],
+  "technical_summary": "Strong Downtrend, RSI 24, ADX 38, MACD hist -1.37, vol 2.3x avg, patterns: Bearish Engulfing",
+  "fundamental_summary": "PE 24.260098, PEG n/a, ROE 0%, D/E 0.128, rev growth 12%",
+  "investment_thesis": "Strong Downtrend; price 3389.7 vs 50EMA 3882.3 / 200EMA 4015.7. Fundamentals score 65/100 (ROE 0%, earnings growth -1%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
+  "key_strengths": [
+   "Low debt"
+  ],
+  "key_risks": [
+   "Death cross",
+   "Declining earnings",
+   "Bearish trend structure"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-11-05T01:32:12.213153+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "KIMS",
@@ -23551,8 +23662,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:08.189115+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:27.518721+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "BAJAJHLDNG",
@@ -23607,8 +23718,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:52.747841+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:14.165948+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "FIVESTAR",
@@ -23662,63 +23773,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:59.936174+00:00",
-  "sector_relative_strength": -6.4
- },
- {
-  "symbol": "AIAENG",
-  "company_name": "AIA Engineering Limited",
-  "sector": "Industrials",
-  "industry": "Specialty Industrial Machinery",
-  "current_price": 3389.7,
-  "technical_score": 5.0,
-  "fundamental_score": 65.0,
-  "momentum_score": 0,
-  "quality_score": 81.0,
-  "risk_score": 80.0,
-  "overall_score": 36.6,
-  "recommendation": "AVOID",
-  "target_price": 3389.7,
-  "upside_percent": 0.0,
-  "stop_loss": 3118.52,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 75.0,
-  "entry_zone_low": 3882.34,
-  "entry_zone_high": 4891.94,
-  "risk_reward": 0.0,
-  "extension_atr": -2.2,
-  "entry_note": "Price is -2.2 ATRs above 20EMA, RSI 24, 1-month move -12%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 9.3,
-  "data_quality": "8/12",
-  "data_quality_pct": 67,
-  "score_drivers": [
-   "\u2717 price vs 200EMA",
-   "\u2717 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
-   "\u2717 death cross (recent)",
-   "\u2717 higher highs & lows",
-   "\u2717 accumulation (A/D)",
-   "\u2717 RSI healthy (24)",
-   "\u2717 MACD positive",
-   "\u2713 PE 24",
-   "\u2717 earnings growth -1%",
-   "\u2713 revenue growth 12%",
-   "\u2713 D/E 0"
-  ],
-  "technical_summary": "Strong Downtrend, RSI 24, ADX 38, MACD hist -1.37, vol 2.3x avg, patterns: Bearish Engulfing",
-  "fundamental_summary": "PE 24.260098, PEG n/a, ROE 0%, D/E 0.128, rev growth 12%",
-  "investment_thesis": "Strong Downtrend; price 3389.7 vs 50EMA 3882.3 / 200EMA 4015.7. Fundamentals score 65/100 (ROE 0%, earnings growth -1%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
-  "key_strengths": [
-   "Low debt"
-  ],
-  "key_risks": [
-   "Death cross",
-   "Declining earnings",
-   "Bearish trend structure"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:50.449237+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:20.629082+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "MRF",
@@ -23770,8 +23826,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:11.319180+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:30.276045+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "HUDCO",
@@ -23813,7 +23869,7 @@
    "\u2717 D/E 646"
   ],
   "technical_summary": "Strong Downtrend, RSI 31, ADX 42, MACD hist -0.27, vol 1.0x avg, patterns: Evening Star",
-  "fundamental_summary": "PE 7.1256986, PEG n/a, ROE 0%, D/E 645.775, rev growth 10%",
+  "fundamental_summary": "PE 7.199435, PEG n/a, ROE 0%, D/E 645.775, rev growth 10%",
   "investment_thesis": "Strong Downtrend; price 144.6 vs 50EMA 165.1 / 200EMA 186.9. Fundamentals score 69/100 (ROE 0%, earnings growth 35%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "Strong earnings growth (35%)"
@@ -23823,8 +23879,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:03.558665+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:24.063126+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "ASTERDM",
@@ -23879,8 +23935,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.597819+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:13.166881+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "NATCOPHARM",
@@ -23932,8 +23988,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:11.877567+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:30.666101+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "JPPOWER",
@@ -23988,8 +24044,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:06.999385+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:26.469184+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "GALLANTT",
@@ -24045,8 +24101,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:00.525075+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:21.075569+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "SARDAEN",
@@ -24099,8 +24155,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:17.357158+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:35.092341+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "FACT",
@@ -24150,8 +24206,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:59.777561+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:20.334957+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "IDBI",
@@ -24203,8 +24259,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:03.963890+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:24.024074+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "PAGEIND",
@@ -24259,8 +24315,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:13.888110+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:32.185113+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "RAMCOCEM",
@@ -24312,8 +24368,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.131002+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:34.192347+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "SCHNEIDER",
@@ -24349,24 +24405,24 @@
    "\u2717 accumulation (A/D)",
    "\u2717 RSI healthy (45)",
    "\u2717 MACD positive",
-   "\u2717 PE 151",
+   "\u2717 PE 149",
    "\u2717 earnings growth -70%",
    "\u2717 revenue growth 5%",
    "\u2713 D/E 71"
   ],
   "technical_summary": "Sideways, RSI 45, ADX 25, MACD hist -1.19, vol 0.4x avg, patterns: Doji",
-  "fundamental_summary": "PE 150.90671, PEG n/a, ROE 0%, D/E 70.795, rev growth 5%",
+  "fundamental_summary": "PE 149.3368, PEG n/a, ROE 0%, D/E 70.795, rev growth 5%",
   "investment_thesis": "Sideways; price 1139.6 vs 50EMA 1194.7 / 200EMA 1133.1. Fundamentals score 34/100 (ROE 0%, earnings growth -70%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
   "key_strengths": [
    "None notable"
   ],
   "key_risks": [
-   "Rich valuation (PE 151)",
+   "Rich valuation (PE 149)",
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:17.749436+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:35.518309+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "FIRSTCRY",
@@ -24416,8 +24472,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:59.756531+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:20.532315+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "ANANTRAJ",
@@ -24471,7 +24527,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:50.816900+00:00",
+  "last_updated": "2026-11-05T01:32:12.597254+00:00",
   "sector_relative_strength": -2.5
  },
  {
@@ -24524,8 +24580,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.440997+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:17.585702+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "ATGL",
@@ -24580,8 +24636,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:51.847204+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:13.250218+00:00",
+  "sector_relative_strength": 6.4
  },
  {
   "symbol": "EIDPARRY",
@@ -24633,8 +24689,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:58.495265+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:19.400172+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "OLAELEC",
@@ -24683,8 +24739,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:13.475413+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:31.990381+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "AMBER",
@@ -24739,8 +24795,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:50.631579+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:12.267161+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "DALBHARAT",
@@ -24791,8 +24847,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:57.553133+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:18.547335+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "MFSL",
@@ -24846,8 +24902,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:10.695308+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:29.802827+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "BRIGADE",
@@ -24901,7 +24957,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:54.553172+00:00",
+  "last_updated": "2026-11-05T01:32:15.595282+00:00",
   "sector_relative_strength": -2.5
  },
  {
@@ -24958,8 +25014,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:20.728280+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:38.240592+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "AWL",
@@ -25012,8 +25068,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:52.298150+00:00",
-  "sector_relative_strength": 1.7
+  "last_updated": "2026-11-05T01:32:13.568764+00:00",
+  "sector_relative_strength": 1.8
  },
  {
   "symbol": "PCBL",
@@ -25067,8 +25123,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:14.159829+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:32.431555+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "DOMS",
@@ -25121,8 +25177,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:58.205677+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:19.065178+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "SIGNATURE",
@@ -25173,8 +25229,62 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:18.108004+00:00",
+  "last_updated": "2026-11-05T01:32:35.893307+00:00",
   "sector_relative_strength": -2.5
+ },
+ {
+  "symbol": "JUBLFOOD",
+  "company_name": "Jubilant FoodWorks Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "current_price": 422.0,
+  "technical_score": 0.1,
+  "fundamental_score": 44.0,
+  "momentum_score": 50,
+  "quality_score": 63.0,
+  "risk_score": 59.0,
+  "overall_score": 32.2,
+  "recommendation": "HOLD",
+  "target_price": 422.0,
+  "upside_percent": 0.0,
+  "stop_loss": 388.24,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 75.0,
+  "entry_zone_low": 444.48,
+  "entry_zone_high": 530.49,
+  "risk_reward": 0,
+  "extension_atr": -0.5,
+  "entry_note": "Price is -0.5 ATRs above 20EMA, RSI 43, 1-month move -5%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 10.8,
+  "data_quality": "8/12",
+  "data_quality_pct": 67,
+  "score_drivers": [
+   "\u2717 price vs 200EMA",
+   "\u2717 price vs 50EMA",
+   "\u2717 50>200 EMA structure",
+   "\u2717 higher highs & lows",
+   "\u2717 accumulation (A/D)",
+   "\u2717 RSI healthy (43)",
+   "\u2713 MACD positive",
+   "\u2717 PE 78",
+   "\u2717 earnings growth 6%",
+   "\u2713 revenue growth 14%",
+   "\u2717 D/E 205"
+  ],
+  "technical_summary": "Downtrend, RSI 43, ADX 23, MACD hist +2.74, vol 1.0x avg, patterns: Doji",
+  "fundamental_summary": "PE 77.90323, PEG n/a, ROE 0%, D/E 205.318, rev growth 14%",
+  "investment_thesis": "Downtrend; price 422.0 vs 50EMA 444.5 / 200EMA 477.8. Fundamentals score 44/100 (ROE 0%, earnings growth 6%). Mixed signals; no edge at current levels.",
+  "key_strengths": [
+   "None notable"
+  ],
+  "key_risks": [
+   "Elevated leverage",
+   "Rich valuation (PE 78)",
+   "Bearish trend structure"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-11-05T01:32:26.813967+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "SUMICHEM",
@@ -25230,8 +25340,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:18.693006+00:00",
-  "sector_relative_strength": -3.9
+  "last_updated": "2026-11-05T01:32:36.422579+00:00",
+  "sector_relative_strength": -3.8
  },
  {
   "symbol": "PFC",
@@ -25285,62 +25395,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:14.367866+00:00",
-  "sector_relative_strength": -6.4
- },
- {
-  "symbol": "JUBLFOOD",
-  "company_name": "Jubilant FoodWorks Limited",
-  "sector": "Consumer Cyclical",
-  "industry": "Restaurants",
-  "current_price": 422.0,
-  "technical_score": 0.1,
-  "fundamental_score": 44.0,
-  "momentum_score": 50,
-  "quality_score": 63.0,
-  "risk_score": 53.0,
-  "overall_score": 31.9,
-  "recommendation": "HOLD",
-  "target_price": 422.0,
-  "upside_percent": 0.0,
-  "stop_loss": 388.24,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 75.0,
-  "entry_zone_low": 444.48,
-  "entry_zone_high": 530.49,
-  "risk_reward": 0,
-  "extension_atr": -0.5,
-  "entry_note": "Price is -0.5 ATRs above 20EMA, RSI 43, 1-month move -5%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 10.8,
-  "data_quality": "8/12",
-  "data_quality_pct": 67,
-  "score_drivers": [
-   "\u2717 price vs 200EMA",
-   "\u2717 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
-   "\u2717 higher highs & lows",
-   "\u2717 accumulation (A/D)",
-   "\u2717 RSI healthy (43)",
-   "\u2713 MACD positive",
-   "\u2717 PE 78",
-   "\u2717 earnings growth 6%",
-   "\u2713 revenue growth 14%",
-   "\u2717 D/E 205"
-  ],
-  "technical_summary": "Downtrend, RSI 43, ADX 23, MACD hist +2.74, vol 1.0x avg, patterns: Doji",
-  "fundamental_summary": "PE 77.90323, PEG n/a, ROE 0%, D/E 205.318, rev growth 14%",
-  "investment_thesis": "Downtrend; price 422.0 vs 50EMA 444.5 / 200EMA 477.8. Fundamentals score 44/100 (ROE 0%, earnings growth 6%). Mixed signals; no edge at current levels.",
-  "key_strengths": [
-   "None notable"
-  ],
-  "key_risks": [
-   "Elevated leverage",
-   "Rich valuation (PE 78)",
-   "Bearish trend structure"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:07.359574+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:32.611152+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "MAZDOCK",
@@ -25394,8 +25450,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:10.283152+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:29.502493+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "KEC",
@@ -25448,8 +25504,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:07.867390+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:27.192345+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "KIRLOSENG",
@@ -25501,8 +25557,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:08.271718+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:27.500671+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "IFCI",
@@ -25554,8 +25610,8 @@
    "Declining earnings"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:04.334503+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:24.296094+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "SWIGGY",
@@ -25605,8 +25661,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:19.174539+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:36.731235+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "DEVYANI",
@@ -25659,8 +25715,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:57.798191+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:18.704961+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "INOXWIND",
@@ -25712,8 +25768,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:05.422358+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:25.088674+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "JBMA",
@@ -25768,8 +25824,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:06.503490+00:00",
-  "sector_relative_strength": 4.8
+  "last_updated": "2026-11-05T01:32:26.077364+00:00",
+  "sector_relative_strength": 4.9
  },
  {
   "symbol": "SWANCORP",
@@ -25819,8 +25875,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:19.263570+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:36.765688+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "CANHLIFE",
@@ -25875,8 +25931,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:54.842658+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:16.224302+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "TEJASNET",
@@ -25929,8 +25985,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:20.587200+00:00",
-  "sector_relative_strength": 3.1
+  "last_updated": "2026-11-05T01:32:37.935992+00:00",
+  "sector_relative_strength": 3.2
  },
  {
   "symbol": "JMFINANCIL",
@@ -25982,8 +26038,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:06.975896+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:26.458160+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "IREDA",
@@ -26037,8 +26093,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:06.093940+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:25.597011+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "ZEEL",
@@ -26093,8 +26149,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:23.507786+00:00",
-  "sector_relative_strength": 4.3
+  "last_updated": "2026-11-05T01:32:40.518981+00:00",
+  "sector_relative_strength": 4.4
  },
  {
   "symbol": "EMBASSY",
@@ -26142,8 +26198,8 @@
    "Rich valuation (PE 93)"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:58.970317+00:00",
-  "sector_relative_strength": -17.7
+  "last_updated": "2026-11-05T01:32:19.819472+00:00",
+  "sector_relative_strength": -17.6
  },
  {
   "symbol": "NIACL",
@@ -26192,8 +26248,8 @@
    "Standard market risk"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:12.635114+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:31.317977+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "NTPCGREEN",
@@ -26247,8 +26303,65 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:12.907713+00:00",
-  "sector_relative_strength": 6.3
+  "last_updated": "2026-11-05T01:32:31.607157+00:00",
+  "sector_relative_strength": 6.4
+ },
+ {
+  "symbol": "RECLTD",
+  "company_name": "REC Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 284.5,
+  "technical_score": 0,
+  "fundamental_score": 41.0,
+  "momentum_score": 10,
+  "quality_score": 91.0,
+  "risk_score": 65.0,
+  "overall_score": 28.2,
+  "recommendation": "AVOID",
+  "target_price": 284.5,
+  "upside_percent": 0.0,
+  "stop_loss": 261.74,
+  "entry_signal": "NO ENTRY",
+  "entry_score": 75.0,
+  "entry_zone_low": 304.61,
+  "entry_zone_high": 364.53,
+  "risk_reward": 0,
+  "extension_atr": -1.2,
+  "entry_note": "Price is -1.2 ATRs above 20EMA, RSI 40, 1-month move -3%, risk-reward 0.0:1 at current price. Not a buy candidate.",
+  "week52_position": 4.4,
+  "data_quality": "10/12",
+  "data_quality_pct": 83,
+  "score_drivers": [
+   "\u2717 price vs 200EMA",
+   "\u2717 price vs 50EMA",
+   "\u2717 50>200 EMA structure",
+   "\u2717 death cross (recent)",
+   "\u2717 higher highs & lows",
+   "\u2717 accumulation (A/D)",
+   "\u2717 RSI healthy (40)",
+   "\u2717 MACD positive",
+   "\u2713 PE 5",
+   "\u2717 earnings growth -21%",
+   "\u2717 revenue growth -13%",
+   "\u2717 D/E 606",
+   "\u2713 ROE 17%"
+  ],
+  "technical_summary": "Strong Downtrend, RSI 40, ADX 34, MACD hist -0.57, vol 0.6x avg, patterns: Bearish Engulfing",
+  "fundamental_summary": "PE 5.0166054, PEG n/a, ROE 17%, D/E 606.306, rev growth -13%",
+  "investment_thesis": "Strong Downtrend; price 284.5 vs 50EMA 304.6 / 200EMA 329.6. Fundamentals score 41/100 (ROE 17%, earnings growth -21%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
+  "key_strengths": [
+   "High ROE (17%)"
+  ],
+  "key_risks": [
+   "Elevated leverage",
+   "Death cross",
+   "Declining earnings",
+   "Bearish trend structure"
+  ],
+  "is_breakout": false,
+  "last_updated": "2026-11-05T01:32:34.312585+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "GODREJIND",
@@ -26303,65 +26416,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:01.237298+00:00",
-  "sector_relative_strength": -7.9
- },
- {
-  "symbol": "RECLTD",
-  "company_name": "REC Limited",
-  "sector": "Financial Services",
-  "industry": "Credit Services",
-  "current_price": 284.5,
-  "technical_score": 0,
-  "fundamental_score": 41.0,
-  "momentum_score": 10,
-  "quality_score": 91.0,
-  "risk_score": 53.0,
-  "overall_score": 27.6,
-  "recommendation": "AVOID",
-  "target_price": 284.5,
-  "upside_percent": 0.0,
-  "stop_loss": 261.74,
-  "entry_signal": "NO ENTRY",
-  "entry_score": 75.0,
-  "entry_zone_low": 304.61,
-  "entry_zone_high": 364.53,
-  "risk_reward": 0,
-  "extension_atr": -1.2,
-  "entry_note": "Price is -1.2 ATRs above 20EMA, RSI 40, 1-month move -3%, risk-reward 0.0:1 at current price. Not a buy candidate.",
-  "week52_position": 4.4,
-  "data_quality": "10/12",
-  "data_quality_pct": 83,
-  "score_drivers": [
-   "\u2717 price vs 200EMA",
-   "\u2717 price vs 50EMA",
-   "\u2717 50>200 EMA structure",
-   "\u2717 death cross (recent)",
-   "\u2717 higher highs & lows",
-   "\u2717 accumulation (A/D)",
-   "\u2717 RSI healthy (40)",
-   "\u2717 MACD positive",
-   "\u2713 PE 5",
-   "\u2717 earnings growth -21%",
-   "\u2717 revenue growth -13%",
-   "\u2717 D/E 606",
-   "\u2713 ROE 17%"
-  ],
-  "technical_summary": "Strong Downtrend, RSI 40, ADX 34, MACD hist -0.57, vol 0.6x avg, patterns: Bearish Engulfing",
-  "fundamental_summary": "PE 5.0166054, PEG n/a, ROE 17%, D/E 606.306, rev growth -13%",
-  "investment_thesis": "Strong Downtrend; price 284.5 vs 50EMA 304.6 / 200EMA 329.6. Fundamentals score 41/100 (ROE 17%, earnings growth -21%). Deteriorating fundamentals/technicals; capital better deployed elsewhere.",
-  "key_strengths": [
-   "High ROE (17%)"
-  ],
-  "key_risks": [
-   "Elevated leverage",
-   "Death cross",
-   "Declining earnings",
-   "Bearish trend structure"
-  ],
-  "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:16.390333+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:21.720298+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "KSB",
@@ -26417,8 +26473,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:08.688955+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:28.078006+00:00",
+  "sector_relative_strength": -7.8
  },
  {
   "symbol": "SAMMAANCAP",
@@ -26472,8 +26528,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:17.252853+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:34.983788+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "COHANCE",
@@ -26526,8 +26582,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:56.486050+00:00",
-  "sector_relative_strength": 17.2
+  "last_updated": "2026-11-05T01:32:17.584720+00:00",
+  "sector_relative_strength": 17.3
  },
  {
   "symbol": "SOBHA",
@@ -26582,7 +26638,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:18.277000+00:00",
+  "last_updated": "2026-11-05T01:32:36.029044+00:00",
   "sector_relative_strength": -2.5
  },
  {
@@ -26636,8 +26692,8 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:58:19.836983+00:00",
-  "sector_relative_strength": -6.4
+  "last_updated": "2026-11-05T01:32:37.318616+00:00",
+  "sector_relative_strength": -6.7
  },
  {
   "symbol": "AFCONS",
@@ -26689,7 +26745,7 @@
    "Bearish trend structure"
   ],
   "is_breakout": false,
-  "last_updated": "2026-11-04T19:57:50.265248+00:00",
-  "sector_relative_strength": -7.9
+  "last_updated": "2026-11-05T01:32:11.917391+00:00",
+  "sector_relative_strength": -7.8
  }
 ]
